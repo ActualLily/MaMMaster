@@ -1,24 +1,53 @@
 package lily.structures;
 
-import jakarta.xml.bind.annotation.XmlAttribute;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
-public class Card {
+import java.util.ArrayList;
 
-    @XmlAttribute
-    String name;
+@XmlRootElement
+public class Card extends IText {
 
     @XmlElement
     Cost cost;
 
-    public String getName() {
-        return name;
-    }
+    @XmlElement
+    Stats stats;
+
+    @XmlElement
+    Type type;
+
+    @XmlElement
+    ArrayList<IText> tag = new ArrayList<>();
+
+    @XmlElement
+    Art art;
+
+    @XmlElement
+    Definitions definitions;
 
     public Cost getCost() {
         return cost;
+    }
+
+    public Stats getStats() {
+        return stats;
+    }
+
+    public Type getType() {
+        return type;
+    }
+
+    public ArrayList<IText> getTag() {
+        return tag;
+    }
+
+    public Art getArt() {
+        return art;
+    }
+
+    public Definitions getDefinitions() {
+        return definitions;
     }
 }
 

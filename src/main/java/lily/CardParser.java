@@ -15,7 +15,7 @@ public class CardParser {
 
         try {
             context = JAXBContext.newInstance(Card.class);
-            File input = new File("src/main/resources/World Ender.xml");
+            File input = new File(fileLocation);
             Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
             card = (Card) jaxbUnmarshaller.unmarshal(input);
 
