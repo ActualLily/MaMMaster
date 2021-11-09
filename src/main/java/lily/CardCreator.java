@@ -16,7 +16,9 @@ public class CardCreator {
     Font font;
 
     public CardCreator() throws IOException, FontFormatException {
-        font = Font.createFont(Font.TRUETYPE_FONT, Objects.requireNonNull(getClass().getClassLoader().getResourceAsStream("Tangent-Black.ttf")));
+        font = Font.createFont(Font.TRUETYPE_FONT,
+                Objects.requireNonNull(getClass().getClassLoader()
+                        .getResourceAsStream("Tangent-Black.ttf")));
         font = font.deriveFont(52f);
     }
 
@@ -36,7 +38,9 @@ public class CardCreator {
                     (int) (image.getHeight() * GeneratorSettings.CARDNAME_OFFSETY));
             g.dispose();
 
-            ImageIO.write(image, "png", new File("target/classes/cards/World Ender.png"));
+            ImageIO.write(image, "png",
+                    new File("target/classes/cards/" + card.getText() + "_CARD.png"));
+
         } catch (IOException e) {
             System.out.println(e);
         }
