@@ -14,20 +14,6 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        JAXBContext context;
-
-        try {
-            context = JAXBContext.newInstance(Card.class);
-
-            File input = new File("src/main/resources/World Ender.xml");
-            Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
-
-            Card card = (Card) jaxbUnmarshaller.unmarshal(input);
-
-            System.out.println(card.getName());
-
-        } catch (JAXBException e) {
-            e.printStackTrace();
-        }
+        System.out.println(CardParser.getCard("src/main/resources/World Ender.xml").getCost().getGold());
     }
 }
