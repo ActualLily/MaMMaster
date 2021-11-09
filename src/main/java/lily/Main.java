@@ -13,8 +13,8 @@ import java.io.File;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-        JAXBContext context = null;
+    public static void main(String[] args) {
+        JAXBContext context;
 
         try {
             context = JAXBContext.newInstance(Card.class);
@@ -22,13 +22,12 @@ public class Main {
             File input = new File("src/main/resources/World Ender.xml");
             Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
 
-            Card worldEnder = (Card) jaxbUnmarshaller.unmarshal(input);
+            Card card = (Card) jaxbUnmarshaller.unmarshal(input);
 
-            System.out.println(worldEnder.getName());
+            System.out.println(card.getName());
 
         } catch (JAXBException e) {
             e.printStackTrace();
         }
-
     }
 }
