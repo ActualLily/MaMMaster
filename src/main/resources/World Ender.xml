@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<card name="Duck Eater">
+    <cost gold="10" mana="10"/>
+    <stats attack="10" health="10"/>
+    <type main="Monster" tribe="Dragon" range="Melee"/>
+    <tags>
+        <tag name="Colossal"/>
+    </tags>
+    <art path="./placeholder.png" credit="leah"/>
+    <text>
+        <description text="When this card moves into a space containing a structure or creature, destroy it."/>
+        <flavor text="When humanity threatens the earth they stand on, Goxodan awakens to set things right."/>
+    </text>
+</card>
