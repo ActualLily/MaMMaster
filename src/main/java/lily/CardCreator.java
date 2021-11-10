@@ -58,12 +58,21 @@ public class CardCreator {
             if (card.getArt() != null) {
                 BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath()));
                 Dimension imageBox = new Dimension((int) (image.getWidth() - (image.getWidth() * ART_X * 2)), (int) (image.getHeight() * ART_HEIGHT));
-                BufferedImage croppedArt = cardArt.getSubimage(cardArt.getWidth() / 2, cardArt.getHeight() / 2, imageBox.width, imageBox.height);
+
+                if (cardArt.getWidth() < imageBox.width) {
+                    imageBox.width = cardArt.getWidth();
+                }
+
+                if (cardArt.getHeight() < imageBox.height) {
+                    imageBox.height = cardArt.getHeight();
+                }
+
+                BufferedImage croppedArt = cardArt.getSubimage((cardArt.getWidth() - imageBox.width) / 2, (cardArt.getHeight() - imageBox.height) / 2, imageBox.width, imageBox.height);
 
                 image.getGraphics().drawImage(croppedArt, (int) (ART_X * imageBox.getWidth()), (int) (ART_Y * imageBox.getHeight()), null);
             }
 
-            ImageIO.write(image, "png", new File("target/classes/cards/images/" + card.getText() + "_CARD.png"));
+            ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
         } catch (IOException e) {
             System.out.println(e);
