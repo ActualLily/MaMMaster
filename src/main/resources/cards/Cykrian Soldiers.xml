@@ -4,6 +4,6 @@
     <cost gold="3"/>
     <stats attack="3" health="3"/>
     <type main="Unit" tribe="Solider" range="Melee"/>
-    <art path="./placeholder.png" credit="leah"/>
+    <art path="./placeholder.png"/>
     <description text=""/>
 </card>
