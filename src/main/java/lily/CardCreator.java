@@ -67,7 +67,11 @@ public class CardCreator {
 
             if (card.getArt() != null) {
                 BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
-                g.drawImage(art, 0, 0, null);
+
+                int xPos = (int) (ART_X * image.getWidth());
+                int yPos = (int) (ART_Y * image.getHeight());
+
+                g.drawImage(art, xPos, yPos, null);
             }
 
             ImageIO.write(combined, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
@@ -78,7 +82,7 @@ public class CardCreator {
     }
 
     private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize, boolean rightbound) {
-        writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, true);
+        writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, rightbound);
     }
 
     private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize) {
