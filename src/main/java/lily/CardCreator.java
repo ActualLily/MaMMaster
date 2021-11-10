@@ -56,7 +56,7 @@ public class CardCreator {
             }
 
             if (card.getArt() != null) {
-                BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath())).;
+                BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath()));
                 Dimension imageBox = new Dimension((int) (image.getWidth() - (image.getWidth() * ART_X * 2)), (int) (image.getHeight() * ART_HEIGHT));
 
                 if (cardArt.getWidth() < imageBox.width) {
