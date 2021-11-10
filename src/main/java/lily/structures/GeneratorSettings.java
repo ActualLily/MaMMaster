@@ -27,6 +27,6 @@ public class GeneratorSettings {
         public static final Integer COST_SIZE = SIZE_MEDIUM;
         public static final Integer DESC_SIZE = SIZE_SMALL;
         public static final Integer RANGE_SIZE = SIZE_MEDIUM;
-        public static final Integer STATS_SIZE = SIZE_MEDIUM;
+        public static final Integer STATS_SIZE = SIZE_LARGE;
     }
 }

@@ -48,8 +48,10 @@ public class CardCreator {
                 writeOnImage(image, "[" + card.getType().getRange() + "]", RANGE_X, trackDescYPos, RANGE_SIZE, true);
             }
 
-            for (IText cardDescription : card.getDescription()) {
-                writeOnImage(image, cardDescription.getText(), DESC_X, trackDescYPos, DESC_SIZE);
+            if (card.getDescription() != null) {
+                for (IText cardDescription : card.getDescription()) {
+                    writeOnImage(image, cardDescription.getText(), DESC_X, trackDescYPos, DESC_SIZE);
+                }
             }
 
             ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
