@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="1"/>
+    <stats attack="1" health="1"/>
+    <type main="Monster" tribe="Dragon" range="Melee"/>
+    <art path=""/>
+    <description text="(>) Deal 1 damage to target creature at Range"/>
+</card>
