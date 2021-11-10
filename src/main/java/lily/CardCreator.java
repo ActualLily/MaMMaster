@@ -9,7 +9,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
@@ -57,7 +56,7 @@ public class CardCreator {
                 }
             }
 
-            if (card.getArt() != null) {
+            /* if (card.getArt() != null) {
                 BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath()));
                 Dimension imageBox = new Dimension((int) (image.getWidth() - (image.getWidth() * ART_X * 2)), (int) (image.getHeight() * ART_HEIGHT));
 
@@ -72,7 +71,7 @@ public class CardCreator {
                 BufferedImage croppedArt = cardArt.getSubimage((cardArt.getWidth() - imageBox.width) / 2, (cardArt.getHeight() - imageBox.height) / 2, imageBox.width, imageBox.height);
 
                 image.getGraphics().drawImage(croppedArt, (int) (ART_X * imageBox.getWidth()), (int) (ART_Y * imageBox.getHeight()), null);
-            }
+            } */
 
             ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
