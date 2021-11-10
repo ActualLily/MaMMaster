@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="2"/>
+    <type main="Spell"/>
+    <description text="Instant"/>
+    <description text="Target allied creature regains its action. At the end of your turn, destroy it."/>
+</card>

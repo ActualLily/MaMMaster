@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="1"/>
+    <type main="Spell"/>
+    <description text="Target two enemy creatures. Deal 1 damage to each."/>
+</card>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="2"/>
+    <type main="Spell"/>
+    <description text="Target a spell with Continuous. The spell ends."/>
+</card>

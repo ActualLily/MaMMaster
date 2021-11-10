@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <description text="Opponent discards their hand, then draws cards equal to however many they discarded."/>
+</card>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="2"/>
+    <type main="Spell"/>
+    <description text="[3x1]"/>
+    <description text="Deal 1 damage to all creatures in target area and then move them one space in a direction of your choice. If they can't move, they take an additional 1 damage. "/>
+</card>

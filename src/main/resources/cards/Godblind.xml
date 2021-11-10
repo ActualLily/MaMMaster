@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <description text="Enemy commander only has 1 action on their next turn."/>
+</card>
