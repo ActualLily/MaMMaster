@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="3"/>
+    <stats attack="3" health="3"/>
+    <type main="Unit" tribe="Hunter" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/4/b49f5835-c933-4ba7-a3c9-34f4eb01f00d.jpg?1562933123"/>
+    <description text="When you play this card, draw a card, if it’s not a Monster, destroy it."/>
+</card>
