@@ -18,9 +18,6 @@ public class Card extends IText {
     Type type;
 
     @XmlElement
-    ArrayList<IText> tag = new ArrayList<>();
-
-    @XmlElement
     Art art;
 
     @XmlElement
@@ -40,10 +37,6 @@ public class Card extends IText {
 
     public Type getType() {
         return type;
-    }
-
-    public ArrayList<IText> getTag() {
-        return tag;
     }
 
     public Art getArt() {
