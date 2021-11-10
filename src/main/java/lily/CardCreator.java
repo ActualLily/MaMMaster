@@ -19,6 +19,8 @@ public class CardCreator {
     String imagePath = "src/main/resources/cardTemplate.png";
     Font font;
 
+    Double trackDescYPos = 0.0;
+
     public CardCreator() throws IOException, FontFormatException {
         font = Font.createFont(Font.TRUETYPE_FONT,
                 Objects.requireNonNull(getClass().getClassLoader()
@@ -30,13 +32,21 @@ public class CardCreator {
     }
 
     public void create(Card card) {
+
         try {
             final BufferedImage image = ImageIO.read(new File(imagePath));
 
             writeOnImage(image, card.getText(), NAME_X, NAME_Y, NAME_SIZE);
             writeOnImage(image, card.getCost().getAll(), COST_X, COST_Y, COST_SIZE, true);
-            writeOnImage(image, card.getDefinitions().getDescription().get(0).getText(), DESC_X, DESC_Y, DESC_SIZE);
             writeOnImage(image, card.getType().getMainTribe(), TYPE_X, TYPE_Y, TYPE_SIZE);
+
+            trackDescYPos = DESC_Y_START;
+
+            if (card.getType().getRange() != null) {
+                writeOnImage(image, "[" + card.getType().getRange() + "]", RANGE_X, trackDescYPos, RANGE_SIZE, true);
+            }
+
+            writeOnImage(image, card.getDescription().getText(), DESC_X, trackDescYPos, DESC_SIZE);
 
             ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
@@ -91,7 +101,11 @@ public class CardCreator {
 
         for (String string : workingStrings) {
             graphics.drawString(string, locationX, locationY);
-            locationY = locationY + graphics.getFontMetrics().getHeight();
+            int fontHeight = graphics.getFontMetrics().getHeight();
+            locationY += fontHeight;
+            if (trackDescYPos != 0.0) {
+                trackDescYPos += fontHeight;
+            }
         }
     }
 }

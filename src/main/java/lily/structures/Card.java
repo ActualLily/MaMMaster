@@ -24,7 +24,7 @@ public class Card extends IText {
     Art art;
 
     @XmlElement
-    Definitions definitions;
+    IText description;
 
     public Cost getCost() {
         return cost;
@@ -46,8 +46,8 @@ public class Card extends IText {
         return art;
     }
 
-    public Definitions getDefinitions() {
-        return definitions;
+    public IText getDescription() {
+        return description;
     }
 }
 

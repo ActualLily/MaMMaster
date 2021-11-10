@@ -4,11 +4,5 @@
     <type main="Monster" tribe="Dragon" range="Melee"/>
     <tag text="Colossal"/>
     <art path="./placeholder.png" credit="leah"/>
-    <definitions>
-        <description text="When this card moves into a space containing a structure or creature, destroy it."/>
-        <passive text="Any time any player breathes, their commander loses 1 HP"/>
-        <active text="If World Ender registers your existence, their commander loses 10 HP"/>
-        <play text="When this card is put on the battlefield, its player cannot lose until World Ender is removed from the battlefield"/>
-        <flavor text="When humanity threatens the earth they stand on, Goxodan awakens to set things right."/>
-    </definitions>
+    <description text="When this card moves int oa space containing a structure or creature, destroy it."/>
 </card>
