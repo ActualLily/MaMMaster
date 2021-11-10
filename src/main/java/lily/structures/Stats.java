@@ -17,4 +17,6 @@ public class Stats {
     public Integer getHealth() {
         return health;
     }
+
+    public String getAll() { return attack + " / " + health; }
 }

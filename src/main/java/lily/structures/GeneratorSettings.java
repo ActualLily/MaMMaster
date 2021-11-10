@@ -13,17 +13,20 @@ public class GeneratorSettings {
         public static final Double COST_Y = NAME_Y;
         public static final Double TYPE_Y = 0.972;
         public static final Double DESC_Y_START = 0.425;
+        public static final Double STATS_Y = TYPE_Y;
 
         public static final Double NAME_X = DEFAULT_LEFTBOUND_X;
         public static final Double TYPE_X = DEFAULT_LEFTBOUND_X;
         public static final Double DESC_X = DEFAULT_LEFTBOUND_X;
         public static final Double COST_X = DEFAULT_RIGHTBOUND_X;
         public static final Double RANGE_X = DEFAULT_RIGHTBOUND_X;
+        public static final Double STATS_X = DEFAULT_RIGHTBOUND_X;
 
         public static final Integer NAME_SIZE = SIZE_LARGE;
         public static final Integer TYPE_SIZE = SIZE_LARGE;
         public static final Integer COST_SIZE = SIZE_MEDIUM;
         public static final Integer DESC_SIZE = SIZE_SMALL;
         public static final Integer RANGE_SIZE = SIZE_MEDIUM;
+        public static final Integer STATS_SIZE = SIZE_MEDIUM;
     }
 }
