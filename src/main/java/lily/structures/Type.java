@@ -21,6 +21,10 @@ public class Type {
         return tribe;
     }
 
+    public String getMainTribe() {
+        return main + " / " + tribe;
+    }
+
     public String getRange() {
         return range;
     }

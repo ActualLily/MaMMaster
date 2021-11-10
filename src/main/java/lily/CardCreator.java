@@ -1,7 +1,6 @@
 package lily;
 
 import lily.structures.Card;
-import lily.structures.GeneratorSettings;
 import org.apache.commons.text.WordUtils;
 
 import javax.imageio.ImageIO;
@@ -12,6 +11,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
+
+import static lily.structures.GeneratorSettings.SettingConstants.*;
 
 public class CardCreator {
 
@@ -32,9 +33,10 @@ public class CardCreator {
         try {
             final BufferedImage image = ImageIO.read(new File(imagePath));
 
-            writeOnImage(image, card.getText(), GeneratorSettings.NAME_X, GeneratorSettings.NAME_Y, GeneratorSettings.NAME_SIZE);
-            writeOnImage(image, card.getCost().getAll(), GeneratorSettings.COST_X, GeneratorSettings.COST_Y, GeneratorSettings.COST_SIZE, true);
-            writeOnImage(image, card.getDefinitions().getDescription().get(0).getText(), GeneratorSettings.DESC_X, GeneratorSettings.DESC_Y, GeneratorSettings.DESC_SIZE);
+            writeOnImage(image, card.getText(), NAME_X, NAME_Y, NAME_SIZE);
+            writeOnImage(image, card.getCost().getAll(), COST_X, COST_Y, COST_SIZE, true);
+            writeOnImage(image, card.getDefinitions().getDescription().get(0).getText(), DESC_X, DESC_Y, DESC_SIZE);
+            writeOnImage(image, card.getType().getMainTribe(), TYPE_X, TYPE_Y, TYPE_SIZE);
 
             ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
