@@ -25,4 +25,5 @@ public class Stats {
         }
 
         return builtType;
+    }
 }
