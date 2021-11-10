@@ -41,7 +41,7 @@ public class CardCreator {
             writeOnImage(image, card.getText(), NAME_X, NAME_Y, NAME_SIZE);
             writeOnImage(image, card.getCost().getAll(), COST_X, COST_Y, COST_SIZE, true);
             writeOnImage(image, card.getType().getMainTribe(), TYPE_X, TYPE_Y, TYPE_SIZE);
-            (image, card.getStats().getAll(), STATS_X, STATS_Y, STATS_SIZE, true);
+            writeOnImage(image, card.getStats().getAll(), STATS_X, STATS_Y, STATS_SIZE, true);
 
             trackDescYPos = DESC_Y_START;
 
