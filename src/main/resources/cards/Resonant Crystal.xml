@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="2"/>
+    <type main="Resource"/>
+    <description text="Charge 1"/>
+    <description text="(>, 3G) This card becomes Charge 3 until the end of your turn."/>
+</card>

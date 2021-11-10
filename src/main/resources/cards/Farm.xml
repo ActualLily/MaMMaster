@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="3"/>
+    <type main="Resource"/>
+    <description text="(>) Payout x, where X is the number of Gold counters on this card. Add 1 Gold counter to this card."/>
+    <description text="When this card has 5 gold counters on it and uses its payout action, then remove all its gold counters."/>
+</card>

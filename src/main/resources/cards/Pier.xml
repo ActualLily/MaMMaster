@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="1"/>
+    <type main="Resource"/>
+    <description text="(!) When a creature is played, Payout 1"/>
+</card>

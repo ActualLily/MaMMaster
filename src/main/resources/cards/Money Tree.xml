@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="5"/>
+    <type main="Resource"/>
+    <description text="(>, 1M) Payout 3"/>
+</card>

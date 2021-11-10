@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="1"/>
+    <type main="Resource"/>
+    <description text="Charge 2"/>
+</card>
