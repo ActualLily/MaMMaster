@@ -4,7 +4,6 @@
     <cost gold="1"/>
     <stats attack="1" health="1"/>
     <type main="Unit" tribe="Werewolf" range="Melee"/>
-    <art path="./placeholder.png"/>
     <description text="This card Shifts if the opponent plays at least two cards from their hand on their turn."/>
     <description text="Shift: Gain +4/+4" />
     <description text="When this card shifts back, it is exhausted that turn."/>

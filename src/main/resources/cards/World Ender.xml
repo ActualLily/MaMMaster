@@ -4,7 +4,6 @@
     <cost gold="10" mana="10"/>
     <stats attack="10" health="10"/>
     <type main="Monster" tribe="Dragon" range="Melee"/>
-    <art path="./placeholder.png"/>
     <description text="Colossal"/>
     <description text="When this card moves into a space containing a structure or creature, destroy it."/>
 </card>

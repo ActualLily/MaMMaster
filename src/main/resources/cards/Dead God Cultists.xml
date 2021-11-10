@@ -4,6 +4,5 @@
     <cost gold="3"/>
     <stats attack="2" health="2"/>
     <type main="Unit" tribe="Priest" range="Melee"/>
-    <art path=""/>
     <description text=""/>
 </card>
