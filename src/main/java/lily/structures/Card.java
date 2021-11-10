@@ -24,7 +24,11 @@ public class Card extends IText {
     Art art;
 
     @XmlElement
-    IText description;
+    ArrayList<IText> description;
+
+    public void setText(String text) {
+        super.text = text;
+    }
 
     public Cost getCost() {
         return cost;
@@ -46,7 +50,7 @@ public class Card extends IText {
         return art;
     }
 
-    public IText getDescription() {
+    public ArrayList<IText> getDescription() {
         return description;
     }
 }

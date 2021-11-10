@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
 <card text="World Ender">
     <cost gold="10" mana="10"/>
     <stats attack="10" health="10"/>
     <type main="Monster" tribe="Dragon" range="Melee"/>
     <tag text="Colossal"/>
     <art path="./placeholder.png" credit="leah"/>
-    <description text="When this card moves int oa space containing a structure or creature, destroy it."/>
+    <description text="When this card moves into a space containing a structure or creature, destroy it."/>
 </card>

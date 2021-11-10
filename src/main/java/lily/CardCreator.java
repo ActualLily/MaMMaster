@@ -1,6 +1,7 @@
 package lily;
 
 import lily.structures.Card;
+import lily.structures.IText;
 import org.apache.commons.text.WordUtils;
 
 import javax.imageio.ImageIO;
@@ -46,7 +47,9 @@ public class CardCreator {
                 writeOnImage(image, "[" + card.getType().getRange() + "]", RANGE_X, trackDescYPos, RANGE_SIZE, true);
             }
 
-            writeOnImage(image, card.getDescription().getText(), DESC_X, trackDescYPos, DESC_SIZE);
+            for (IText cardDescription : card.getDescription()) {
+                writeOnImage(image, cardDescription.getText(), DESC_X, trackDescYPos, DESC_SIZE);
+            }
 
             ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
@@ -79,8 +82,7 @@ public class CardCreator {
     }
 
     private void drawWrapped(Graphics graphics, String text, BufferedImage image, int locationX, int locationY) {
-        ArrayList<String> workingStrings = new ArrayList<>();
-        workingStrings.add(text);
+        ArrayList<String> workingStrings = new ArrayList<>(Arrays.asList(text.split("\\r?\\n")));
 
         for (int i = text.length() - 1; i > 10; i--) {
             int largestLength = 0;
@@ -92,10 +94,10 @@ public class CardCreator {
                 }
             }
 
-            if (largestLength <= (image.getWidth() - locationX)) {
+            if (largestLength <= (image.getWidth() - (locationX * 2))) {
                 break;
             } else {
-                workingStrings = new ArrayList<>(Arrays.asList(WordUtils.wrap(text, i).split("\\n")));
+                workingStrings = new ArrayList<>(Arrays.asList(WordUtils.wrap(text, i).split("\\r?\\n")));
             }
         }
 
@@ -104,7 +106,7 @@ public class CardCreator {
             int fontHeight = graphics.getFontMetrics().getHeight();
             locationY += fontHeight;
             if (trackDescYPos != 0.0) {
-                trackDescYPos += fontHeight;
+                trackDescYPos += (float) fontHeight / image.getHeight();
             }
         }
     }

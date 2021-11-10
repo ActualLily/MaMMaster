@@ -19,6 +19,10 @@ public class CardParser {
             Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
             card = (Card) jaxbUnmarshaller.unmarshal(input);
 
+            if (card.getText() == null) {
+                card.setText(input.getName().substring(0, input.getName().length() - 4));
+            }
+
         } catch (JAXBException e) {
             e.printStackTrace();
         }
