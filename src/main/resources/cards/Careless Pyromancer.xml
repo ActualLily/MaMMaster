@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="5"/>
+    <stats attack="2" health="2"/>
+    <type main="Unit" tribe="Evoker" range="Artillery"/>
+    <art path=""/>
+    <description text="Ready"/>
+    <description text="When this card enters the battlefield, deal 1 damage to it."/>
+</card>

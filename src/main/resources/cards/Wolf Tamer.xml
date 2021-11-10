@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="5"/>
+    <stats attack="2" health="2"/>
+    <type main="Unit" tribe="Hunter" range="Melee"/>
+    <art path=""/>
+    <description text="When this card enters the battlefield, create a 2/2 Melee Monster token in an empty adjacent tile."/>
+</card>

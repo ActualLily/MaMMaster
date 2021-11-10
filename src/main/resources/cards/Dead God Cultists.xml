@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="3"/>
+    <stats attack="2" health="2"/>
+    <type main="Unit" tribe="Priest" range="Melee"/>
+    <art path=""/>
+    <description text=""/>
+</card>
