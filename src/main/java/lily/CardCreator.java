@@ -62,15 +62,11 @@ public class CardCreator {
             }
 
             BufferedImage combined = new BufferedImage(image.getWidth(), image.getHeight(), BufferedImage.TYPE_INT_ARGB);
+            Graphics g = combined.getGraphics();
+            g.drawImage(image, 0, 0, null);
 
             if (card.getArt() != null) {
                 BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
-
-                 combined = new BufferedImage(image.getWidth(), image.getHeight(), BufferedImage.TYPE_INT_ARGB);
-
-                Graphics g = combined.getGraphics();
-
-                g.drawImage(image, 0, 0, null);
                 g.drawImage(art, 0, 0, null);
             }
 
