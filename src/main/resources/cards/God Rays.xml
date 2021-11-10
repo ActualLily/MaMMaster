@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="4"/>
+    <type main="Spell"/>
+    <description text="Penance 2"/>
+    <description text="Target creature takes 4 Damage"/>
+</card>

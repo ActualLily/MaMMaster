@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="4"/>
+    <type main="Spell"/>
+    <description text="Instant"/>
+    <description text="A unit you control or your commander gains an additional action."/>
+</card>

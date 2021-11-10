@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="10"/>
+    <stats health="3"/>
+    <type main="Structure"/>
+    <description text="(>, 4M) Search your deck for a “Dead God Cultists” and add it to your hand."/>
+</card>

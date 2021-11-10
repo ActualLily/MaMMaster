@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <description text="Target structure becomes an X/X Construct Monster where X is the structure’s Health. It loses any Occupy effects."/>
+</card>

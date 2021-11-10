@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="2"/>
+    <type main="Skill"/>
+    <description text="Target allied creature spends its action to move to your front rank, in the same file."/>
+</card>

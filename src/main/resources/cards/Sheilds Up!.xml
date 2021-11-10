@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="6"/>
+    <type main="Skill"/>
+    <description text="Continuous."/>
+    <description text="Target unit card. The next time the target would take damage, it doesn’t, then destroy this card."/>
+</card>

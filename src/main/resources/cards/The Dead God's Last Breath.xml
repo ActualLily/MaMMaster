@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="7"/>
+    <type main="Spell"/>
+    <description text="If you control at least 3 “Dead God Cultists” and a “Church of the Dead God”, destroy them and replace your Commander with “C’Darai, the Dead God”. "/>
+</card>

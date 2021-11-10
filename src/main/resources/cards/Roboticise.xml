@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <description text="Target creature gains Auto"/>
+</card>

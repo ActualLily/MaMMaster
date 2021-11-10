@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="6" mana="2"/>
+    <stats health="5"/>
+    <type main="Structure"/>
+    <description text="(!, 3M) When the opponent casts a spell, discard it."/>
+</card>
