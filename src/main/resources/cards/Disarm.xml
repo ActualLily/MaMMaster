@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="3"/>
+    <type main="Skill"/>
+    <description text="Target unit with melee range uses its action to make an attack. Then, enemy creature gains -1 Strength"/>
+</card>

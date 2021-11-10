@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="4"/>
+    <type main="Skill"/>
+    <description text="Target allied Dragon uses its action to make an attack with Artillery. Then the dragon moves to that creature’s space if it kills it."/>
+</card>

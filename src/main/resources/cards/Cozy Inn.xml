@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="4"/>
+    <stats health="6"/>
+    <type main="Structure"/>
+    <description text="While a unit occupies, add 2 gold at the end of your turn"/>
+</card>

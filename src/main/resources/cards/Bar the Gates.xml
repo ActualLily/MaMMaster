@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="3"/>
+    <type main="Skill"/>
+    <description text="Continuous."/>
+    <description text="Target structure card. Creatures cannot enter it’s tile."/>
+</card>

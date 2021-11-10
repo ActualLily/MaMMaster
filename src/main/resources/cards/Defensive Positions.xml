@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="5"/>
+    <type main="Skill"/>
+    <description text="Continuous."/>
+    <description text="All units you control have +3 Health as long as they are Ready"/>
+</card>

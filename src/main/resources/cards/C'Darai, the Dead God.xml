@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <stats health="5"/>
+    <type main="Commander"/>
+    <description text="(>, 10M) You win the game"/>
+</card>

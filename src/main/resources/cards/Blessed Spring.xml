@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="3"/>
+    <stats health="3"/>
+    <type main="Structure"/>
+    <description text="Monsters in this rank gain +2/+2"/>
+</card>
