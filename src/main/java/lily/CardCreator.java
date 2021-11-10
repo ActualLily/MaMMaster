@@ -9,6 +9,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
@@ -56,24 +57,20 @@ public class CardCreator {
                 }
             }
 
-            /* if (card.getArt() != null) {
-                BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath()));
-                Dimension imageBox = new Dimension((int) (image.getWidth() - (image.getWidth() * ART_X * 2)), (int) (image.getHeight() * ART_HEIGHT));
+            BufferedImage combined = new BufferedImage(image.getWidth(), image.getHeight(), BufferedImage.TYPE_INT_ARGB);
 
-                if (cardArt.getWidth() < imageBox.width) {
-                    imageBox.width = cardArt.getWidth();
-                }
+            if (card.getArt() != null) {
+                BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
 
-                if (cardArt.getHeight() < imageBox.height) {
-                    imageBox.height = cardArt.getHeight();
-                }
+                 combined = new BufferedImage(image.getWidth(), image.getHeight(), BufferedImage.TYPE_INT_ARGB);
 
-                BufferedImage croppedArt = cardArt.getSubimage((cardArt.getWidth() - imageBox.width) / 2, (cardArt.getHeight() - imageBox.height) / 2, imageBox.width, imageBox.height);
+                Graphics g = combined.getGraphics();
 
-                image.getGraphics().drawImage(croppedArt, (int) (ART_X * imageBox.getWidth()), (int) (ART_Y * imageBox.getHeight()), null);
-            } */
+                g.drawImage(image, 0, 0, null);
+                g.drawImage(art, 0, 0, null);
+            }
 
-            ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
+            ImageIO.write(combined, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
         } catch (IOException e) {
             System.out.println(e);
