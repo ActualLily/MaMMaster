@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <card text="World Ender">
     <cost gold="10" mana="10"/>
     <stats attack="10" health="10"/>
@@ -8,7 +6,9 @@
     <art path="./placeholder.png" credit="leah"/>
     <definitions>
         <description text="When this card moves into a space containing a structure or creature, destroy it."/>
-        <play text="When this card is put on the battlefield, heal 2 HP"/>
+        <passive text="Any time any player breathes, their commander loses 1 HP"/>
+        <active text="If World Ender registers your existence, their commander loses 10 HP"/>
+        <play text="When this card is put on the battlefield, its player cannot lose until World Ender is removed from the battlefield"/>
         <flavor text="When humanity threatens the earth they stand on, Goxodan awakens to set things right."/>
     </definitions>
 </card>
