@@ -19,9 +19,18 @@ public class Stats {
     }
 
     public String getAll() {
-        String builtType = attack.toString();
+        String builtType = "";
+
+        if (attack != null) {
+            builtType += attack;
+        }
+
+        if (attack != null && health != null) {
+            builtType += " / ";
+        }
+
         if (health != null) {
-            builtType += " / " + health;
+            builtType += health;
         }
 
         return builtType;
