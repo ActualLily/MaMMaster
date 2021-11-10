@@ -2,12 +2,15 @@ package lily;
 
 import lily.structures.Card;
 import lily.structures.GeneratorSettings;
+import org.apache.commons.text.WordUtils;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Objects;
 
 public class CardCreator {
@@ -19,7 +22,6 @@ public class CardCreator {
         font = Font.createFont(Font.TRUETYPE_FONT,
                 Objects.requireNonNull(getClass().getClassLoader()
                         .getResourceAsStream("Tangent-Black.ttf")));
-        font = font.deriveFont(52f);
     }
 
     public CardCreator(String templateImagePath) {
@@ -30,19 +32,64 @@ public class CardCreator {
         try {
             final BufferedImage image = ImageIO.read(new File(imagePath));
 
-            Graphics g = image.getGraphics();
-            g.setFont(font);
-            g.setColor(Color.BLACK);
-            g.drawString(card.getText(),
-                    (int) (image.getWidth() * GeneratorSettings.CARDNAME_OFFSETX),
-                    (int) (image.getHeight() * GeneratorSettings.CARDNAME_OFFSETY));
-            g.dispose();
+            writeOnImage(image, card.getText(), GeneratorSettings.NAME_X, GeneratorSettings.NAME_Y, GeneratorSettings.NAME_SIZE);
+            writeOnImage(image, card.getCost().getAll(), GeneratorSettings.COST_X, GeneratorSettings.COST_Y, GeneratorSettings.COST_SIZE, true);
+            writeOnImage(image, card.getDefinitions().getDescription().get(0).getText(), GeneratorSettings.DESC_X, GeneratorSettings.DESC_Y, GeneratorSettings.DESC_SIZE);
 
-            ImageIO.write(image, "png",
-                    new File("target/classes/cards/" + card.getText() + "_CARD.png"));
+            ImageIO.write(image, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
 
         } catch (IOException e) {
             System.out.println(e);
+        }
+    }
+
+    private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize, boolean rightbound) {
+        writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, true);
+    }
+
+    private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize) {
+        writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, false);
+    }
+
+    private void writeOnImage(BufferedImage image, String text, int locationX, int locationY, int fontSize, boolean rightbound) {
+        font = font.deriveFont((float) fontSize);
+
+        Graphics graphics = image.getGraphics();
+        graphics.setFont(font);
+        graphics.setColor(Color.BLACK);
+
+        if (rightbound) {
+            locationX = locationX - graphics.getFontMetrics().stringWidth(text);
+        }
+
+        drawWrapped(graphics, text, image, locationX, locationY);
+        graphics.dispose();
+    }
+
+    private void drawWrapped(Graphics graphics, String text, BufferedImage image, int locationX, int locationY) {
+        ArrayList<String> workingStrings = new ArrayList<>();
+        workingStrings.add(text);
+
+        for (int i = text.length() - 1; i > 10; i--) {
+            int largestLength = 0;
+
+            for (String string : workingStrings) {
+                int currentLength = graphics.getFontMetrics().stringWidth(string);
+                if (currentLength > largestLength) {
+                    largestLength = currentLength;
+                }
+            }
+
+            if (largestLength <= (image.getWidth() - locationX)) {
+                break;
+            } else {
+                workingStrings = new ArrayList<>(Arrays.asList(WordUtils.wrap(text, i).split("\\n")));
+            }
+        }
+
+        for (String string : workingStrings) {
+            graphics.drawString(string, locationX, locationY);
+            locationY = locationY + graphics.getFontMetrics().getHeight();
         }
     }
 }
