@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="3"/>
+    <stats attack="" health=""/>
+    <type main="Spell"/>
+    <description text="[3x3]"/>
+    <description text="Deal 2 damage to all units in target area."/>
+</card>

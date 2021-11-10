@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="2"/>
+    <stats attack="0" health="3"/>
+    <type main="Monster" tribe="Ghost" range="Ranged"/>
+    <description text="Targets of this cards attacks start their next turn Exhausted"/>
+</card>
