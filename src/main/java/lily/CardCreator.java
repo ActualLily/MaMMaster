@@ -36,12 +36,12 @@ public class CardCreator {
     public void create(Card card) {
 
         try {
-            final BufferedImage image = ImageIO.read(new File(imagePath));
+            BufferedImage image = ImageIO.read(new File(imagePath));
 
             writeOnImage(image, card.getText(), NAME_X, NAME_Y, NAME_SIZE);
             writeOnImage(image, card.getCost().getAll(), COST_X, COST_Y, COST_SIZE, true);
             writeOnImage(image, card.getType().getMainTribe(), TYPE_X, TYPE_Y, TYPE_SIZE);
-            writeOnImage(image, card.getStats().getAll(), STATS_X, STATS_Y, STATS_SIZE, true);
+            (image, card.getStats().getAll(), STATS_X, STATS_Y, STATS_SIZE, true);
 
             trackDescYPos = DESC_Y_START;
 
@@ -56,7 +56,7 @@ public class CardCreator {
             }
 
             if (card.getArt() != null) {
-                BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath()));
+                BufferedImage cardArt = ImageIO.read(new URL(card.getArt().getPath())).;
                 Dimension imageBox = new Dimension((int) (image.getWidth() - (image.getWidth() * ART_X * 2)), (int) (image.getHeight() * ART_HEIGHT));
 
                 if (cardArt.getWidth() < imageBox.width) {

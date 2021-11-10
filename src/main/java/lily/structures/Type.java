@@ -22,7 +22,12 @@ public class Type {
     }
 
     public String getMainTribe() {
-        return main + " / " + tribe;
+        String builtType = main;
+        if (tribe != null) {
+            builtType += " / " + tribe;
+        }
+
+        return builtType;
     }
 
     public String getRange() {
