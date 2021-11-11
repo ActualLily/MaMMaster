@@ -5,10 +5,10 @@ import jakarta.xml.bind.annotation.XmlAttribute;
 public class Cost {
 
     @XmlAttribute
-    Integer gold = 0;
+    Integer gold = null;
 
     @XmlAttribute
-    Integer mana = 0;
+    Integer mana = null;
 
     public Integer getGold() {
         return gold;
@@ -21,15 +21,15 @@ public class Cost {
     public String getAll() {
         String string = "(";
 
-        if (gold > 0) {
+        if (gold != null) {
             string = string + gold + "G";
         }
 
-        if (gold > 0 && mana > 0) {
+        if (gold != null && mana != null) {
             string = string + " / ";
         }
 
-        if (mana > 0) {
+        if (mana != null) {
             string = string + mana + "M";
         }
 

@@ -74,8 +74,8 @@ public class CardCreator {
 
                 if (SCALEART) {
                     int boundingbox = (int) (image.getWidth() - (image.getWidth() * ART_X * 2));
-                    if (boundingbox > art.getWidth()) {
-                        log.warn("image for " + card.getText() + " too small - resizing for you");
+                    if (boundingbox != art.getWidth()) {
+                        log.warn("image for " + card.getText() + " doesn't fit - resizing");
                         art = simpleResizeImage(art, boundingbox);
                     }
                 }
