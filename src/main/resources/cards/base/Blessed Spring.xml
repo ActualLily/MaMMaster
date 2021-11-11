@@ -2,6 +2,7 @@
 
 <card>
     <cost mana="3"/>
+    <art path="https://wow.zamimg.com/uploads/screenshots/normal/651454-zu-den-hugeln.jpg"/>
     <stats health="3"/>
     <type main="Structure"/>
     <description text="Monsters in this rank gain +2/+2"/>

@@ -2,6 +2,7 @@
 
 <card>
     <cost gold="3"/>
+    <art path="https://coolwallpapers.me/picsup/6130805-gate-art-fantasy-tower-game-castle-blue.jpg"/>
     <type main="Skill"/>
     <description text="Continuous."/>
     <description text="Target structure card. Creatures cannot enter it’s tile."/>

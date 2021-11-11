@@ -3,5 +3,6 @@
 <card>
     <cost mana="3"/>
     <type main="Spell"/>
+    <art path="https://pbs.twimg.com/media/B7wnkYHCAAAzjHp.jpg"/>
     <description text="Target structure becomes an X/X Construct Monster where X is the structure’s Health. It loses any Occupy effects."/>
 </card>
