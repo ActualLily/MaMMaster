@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost mana="4"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/7/b75b89f1-e032-4d8c-b2b6-1b76e8644801.jpg?1634350085"/>
+    <description text="Destroy any number of zombie creatures you control, and then create an X/X Melee zombie Monster on your back rank, where X is the number of creatures destroyed. "/>
+</card>
