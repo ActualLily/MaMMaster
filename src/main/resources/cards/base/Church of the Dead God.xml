@@ -2,7 +2,7 @@
 
 <card>
     <cost gold="10"/>
-    <art path="https://i.pinimg.com/736x/e2/d9/98/e2d998b252737a829d1869a88eba0ca2.jpg"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/7/07592731-68be-4218-bb2c-c2523c5a27f1.jpg?1562875353"/>
     <stats health="3"/>
     <type main="Structure"/>
     <description text="(>, 4M) Search your deck for a “Dead God Cultists” and add it to your hand."/>
