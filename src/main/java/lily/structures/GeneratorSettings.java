@@ -16,7 +16,7 @@ public class GeneratorSettings {
         public static final Double NAME_Y = 0.068;
         public static final Double COST_Y = NAME_Y;
         public static final Double TYPE_Y = 0.972;
-        public static final Double DESC_Y_START = 0.425;
+        public static final Double DESC_Y_START = 0.54;
         public static final Double STATS_Y = TYPE_Y;
 
         public static final Double NAME_X = DEFAULT_LEFTBOUND_X;

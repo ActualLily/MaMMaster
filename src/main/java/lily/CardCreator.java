@@ -68,10 +68,15 @@ public class CardCreator {
             if (card.getArt() != null) {
                 BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
 
-                int xPos = (int) (ART_X * image.getWidth());
+                int cropWidth = Math.min(art.getWidth(), (int) (image.getWidth() - (image.getWidth() * ART_X * 2)));
+                int cropHeight = Math.min(art.getHeight(), (int) (image.getHeight() * ART_HEIGHT));
+
+                BufferedImage croppedArt = art.getSubimage((art.getWidth() - cropWidth) / 2, (art.getHeight() - cropHeight) / 2, cropWidth, cropHeight);
+
+                int xPos = Math.max((int) (ART_X * image.getWidth()), (image.getWidth() - cropWidth) / 2);
                 int yPos = (int) (ART_Y * image.getHeight());
 
-                g.drawImage(art, xPos, yPos, null);
+                g.drawImage(croppedArt, xPos, yPos, null);
             }
 
             ImageIO.write(combined, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
