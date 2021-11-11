@@ -3,6 +3,7 @@ package lily;
 import lily.structures.Card;
 import lily.structures.IText;
 import org.apache.commons.text.WordUtils;
+import org.apache.log4j.Logger;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -18,6 +19,8 @@ import static lily.structures.GeneratorSettings.SettingConstants.*;
 
 public class CardCreator {
 
+    static Logger log = Logger.getLogger("Main");
+
     String imagePath = "src/main/resources/cardTemplate.png";
     Font font;
 
@@ -29,11 +32,10 @@ public class CardCreator {
                         .getResourceAsStream("Tangent-Black.ttf")));
     }
 
-    public CardCreator(String templateImagePath) {
-        this.imagePath = templateImagePath;
-    }
-
+    @SuppressWarnings("ThrowablePrintedToSystemOut")
     public BufferedImage create(Card card) {
+
+        log.info("creating " + card.getText());
 
         try {
             BufferedImage image = ImageIO.read(new File(imagePath));
@@ -66,6 +68,7 @@ public class CardCreator {
             g.drawImage(image, 0, 0, null);
 
             if (card.getArt() != null) {
+                log.info("downloading image from " + card.getArt().getPath());
                 BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
 
                 int cropWidth = Math.min(art.getWidth(), (int) (image.getWidth() - (image.getWidth() * ART_X * 2)));
