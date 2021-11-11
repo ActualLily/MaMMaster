@@ -33,7 +33,7 @@ public class CardCreator {
         this.imagePath = templateImagePath;
     }
 
-    public void create(Card card) {
+    public BufferedImage create(Card card) {
 
         try {
             BufferedImage image = ImageIO.read(new File(imagePath));
@@ -79,11 +79,13 @@ public class CardCreator {
                 g.drawImage(croppedArt, xPos, yPos, null);
             }
 
-            ImageIO.write(combined, "png", new File("target/classes/cards/" + card.getText() + "_CARD.png"));
+            return combined;
 
         } catch (IOException e) {
             System.out.println(e);
         }
+
+        return null;
     }
 
     private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize, boolean rightbound) {
