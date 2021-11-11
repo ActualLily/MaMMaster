@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="8"/>
+    <stats health="4"/>
+    <type main="Structure"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/2/720652e9-834c-4ac0-8008-b2b16c3b7507.jpg?1562612459"/>
+    <description text="Allied zombies have +3 Health"/>
+</card>
