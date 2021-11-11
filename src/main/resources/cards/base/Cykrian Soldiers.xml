@@ -3,6 +3,7 @@
 <card>
     <cost gold="3"/>
     <stats attack="3" health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/9/199f7563-563e-483c-8317-5380a83db955.jpg?1562783287"/>
     <type main="Unit" tribe="Solider" range="Melee"/>
     <description text=""/>
 </card>
