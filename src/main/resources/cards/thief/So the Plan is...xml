@@ -4,5 +4,5 @@
     <cost gold="7"/>
     <type main="Skill"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1636491537"/>
-    <description text="Target up to 3 allied thieves. Targets make attacks on valid enemies and have Elusive while they do."/>
+    <description text="Target up to 3 allied thieves. Targets make attacks that do not cost actions on valid enemies and have Elusive while they do."/>
 </card>
