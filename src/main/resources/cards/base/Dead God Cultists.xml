@@ -4,5 +4,6 @@
     <cost gold="3"/>
     <stats attack="2" health="2"/>
     <type main="Unit" tribe="Priest" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/a/8a631816-f5c0-4608-9078-0486a0bf6a49.jpg?1636419529"/>
     <description text=""/>
 </card>
