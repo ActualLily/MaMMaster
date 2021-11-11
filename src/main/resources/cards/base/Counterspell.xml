@@ -2,6 +2,7 @@
 
 <card>
     <cost mana="2"/>
+    <art path="http://actuallily.com/counterspell.jpg"/>
     <type main="Spell"/>
     <description text="Instant"/>
     <description text="When an enemy casts a spell, counter it."/>

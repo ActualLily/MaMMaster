@@ -2,6 +2,7 @@
 
 <card>
     <cost gold="5"/>
+    <art path="http://actuallily.com/recklessPyro.png"/>
     <stats attack="2" health="2"/>
     <type main="Unit" tribe="Evoker" range="Artillery"/>
     <description text="Ready"/>

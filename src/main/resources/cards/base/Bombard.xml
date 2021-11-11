@@ -2,6 +2,7 @@
 
 <card>
     <cost mana="3"/>
+    <art path="https://i.pinimg.com/originals/dd/45/66/dd456645363197ed29bf54c3743aceb6.jpg"/>
     <type main="Spell"/>
     <description text="[3x3]"/>
     <description text="Deal 2 damage to all units in target area."/>
