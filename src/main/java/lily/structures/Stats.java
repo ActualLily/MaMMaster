@@ -5,16 +5,16 @@ import jakarta.xml.bind.annotation.XmlAttribute;
 public class Stats {
 
     @XmlAttribute
-    Integer attack;
+    String attack;
 
     @XmlAttribute
-    Integer health;
+    String health;
 
-    public Integer getAttack() {
+    public String getAttack() {
         return attack;
     }
 
-    public Integer getHealth() {
+    public String getHealth() {
         return health;
     }
 
