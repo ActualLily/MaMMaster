@@ -9,9 +9,11 @@ public class GeneratorSettings {
         private static final Integer SIZE_MEDIUM = 42;
         private static final Integer SIZE_SMALL = 32;
 
+
         public static final Double ART_X = 0.01;
-        public static final Double ART_Y = 0.09;
+        public static final Double ART_Y = 0.093;
         public static final Double ART_HEIGHT = 0.4;
+        public static final boolean SCALEART = true;
 
         public static final Double NAME_Y = 0.068;
         public static final Double COST_Y = NAME_Y;

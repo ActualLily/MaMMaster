@@ -4,6 +4,7 @@ import lily.structures.Card;
 import lily.structures.IText;
 import org.apache.commons.text.WordUtils;
 import org.apache.log4j.Logger;
+import org.imgscalr.Scalr;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -71,6 +72,13 @@ public class CardCreator {
                 log.info("downloading image from " + card.getArt().getPath());
                 BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
 
+                if (SCALEART) {
+                    int boundingbox = (int) (image.getWidth() - (image.getWidth() * ART_X * 2));
+                    if (boundingbox > art.getWidth()) {
+                        log.warn("image for " + card.getText() + " too small - resizing for you");
+                        art = simpleResizeImage(art, boundingbox);
+                    }
+                }
                 int cropWidth = Math.min(art.getWidth(), (int) (image.getWidth() - (image.getWidth() * ART_X * 2)));
                 int cropHeight = Math.min(art.getHeight(), (int) (image.getHeight() * ART_HEIGHT));
 
@@ -142,5 +150,9 @@ public class CardCreator {
                 trackDescYPos += (float) fontHeight / image.getHeight();
             }
         }
+    }
+
+    private BufferedImage simpleResizeImage(BufferedImage originalImage, int targetWidth) {
+        return Scalr.resize(originalImage, targetWidth);
     }
 }
