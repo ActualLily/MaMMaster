@@ -2,6 +2,7 @@
 
 <card>
     <cost mana="3"/>
+    <art path="https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/boab/boab54_sanguineBondSplash.jpg"/>
     <type main="Spell"/>
     <description text="Continuous"/>
     <description text="Any time you would spend mana to cast a spell, you may spend your commander’s Health instead."/>

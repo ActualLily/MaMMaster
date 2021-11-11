@@ -2,6 +2,7 @@
 
 <card>
     <stats health="5"/>
+    <art path="https://megapencil.co/wp-content/uploads/2021/06/CthulhuNrThreeSR.jpg"/>
     <type main="Commander"/>
     <description text="(>, 10M) You win the game"/>
 </card>
