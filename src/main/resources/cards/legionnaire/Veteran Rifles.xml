@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="6"/>
+    <stats attack="4" health="3"/>
+    <type main="Unit" tribe="Legionnaire" range="Ranger"/>
+    <art path="https://i2.wp.com/nerdarchy.com/wp-content/uploads/2015/06/640x757_4183_Long_gunner_2d_steampunk_fantasy_picture_image_digital_art.jpg?w=640"/>
+    <description text="Your Skills that target this card cost 3 less gold."/>
+</card>
