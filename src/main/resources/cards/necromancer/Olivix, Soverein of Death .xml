@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <stats health="15"/>
+    <type main="Commander"/>
+    <art path="https://i.imgur.com/cFYjbjP.png"/>
+    <description text="(>, 1M) Overwhelm - Create two 1/1 Melee zombie monsters in your ranks."/>
+    <description text="(>, 8M) Consuming Wave - Choose a rank. All allied zombie creatures in that rank cannot be damaged this turn. Without using actions, they immediately move forward if they can, then attack if they have a valid target."/>
+</card>
