@@ -3,6 +3,7 @@
 <card>
     <cost gold="3"/>
     <type main="Resource"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/54065d26-39ae-412c-b60e-d22d7f3e78be.jpg?1591322082"/>
     <description text="(>) Payout x, where X is the number of Gold counters on this card. Add 1 Gold counter to this card."/>
     <description text="When this card has 5 gold counters on it and uses its payout action, then remove all its gold counters."/>
 </card>

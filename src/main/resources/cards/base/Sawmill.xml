@@ -3,6 +3,7 @@
 <card>
     <cost gold="0"/>
     <type main="Resource"/>
+    <art path="https://cdna.artstation.com/p/assets/images/images/009/783/810/large/fran-fdez-conceptos-ciencia-produccion.jpg?1520883100"/>
     <description text="Ready"/>
     <description text="(>) Payout 1"/>
 </card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="3"/>
+    <stats attack="3" health="2"/>
+    <type main="Unit" tribe="Druid" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/d/ed6dece3-058c-4738-a22f-8893345ddd1c.jpg?1562945011"/>
+    <description text="(1M) Shift, can no longer move, can no longer attack, can no longer take damage. "/>
+</card>

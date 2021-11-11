@@ -3,5 +3,6 @@
 <card>
     <cost gold="1"/>
     <type main="Resource"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/6/76f1d53b-ca2c-4e9b-832c-f1b01465a0c2.jpg?1605205580"/>
     <description text="(!) When a creature is played, Payout 1"/>
 </card>

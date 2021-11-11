@@ -3,5 +3,6 @@
 <card>
     <cost gold="5"/>
     <type main="Resource"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/9/49bed540-da8d-4148-8794-8e8d01ed5387.jpg?1562734732"/>
     <description text="(>, 1M) Payout 3"/>
 </card>
