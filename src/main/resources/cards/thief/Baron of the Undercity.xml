@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="6"/>
+    <stats attack="6" health="3"/>
+    <type main="Unit" tribe="Thief" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/1/e1ff5e66-4718-43c3-8a58-1a0a8e788f83.jpg?1592516564"/>
+    <description text="(>, XG) Thieves in the same file as this card gain +X Strength this turn (max 5)"/>
+</card>

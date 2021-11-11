@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="4"/>
+    <stats attack="3" health="2"/>
+    <type main="Unit" tribe="Thief" range="Melee"/>
+    <art path="https://i.redd.it/rvv808mkic661.jpg"/>
+    <description text="When this card attacks a unit, gain 2 Gold."/>
+</card>

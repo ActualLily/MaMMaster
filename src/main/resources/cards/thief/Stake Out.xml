@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card>
+    <cost gold="5"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/9/19b5b4fc-e1de-4520-9524-f9c4aa89b252.jpg?1593273502"/>
+    <description text="At the end of each of your turns, pay 2G then add one counter to this card. If you don’t pay, destroy this card."/>
+    <description text="When this card is destroyed, draw cards equal to the number of counters on it."/>
+</card>
