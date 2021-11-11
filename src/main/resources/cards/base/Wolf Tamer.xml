@@ -4,5 +4,6 @@
     <cost gold="5"/>
     <stats attack="2" health="2"/>
     <type main="Unit" tribe="Hunter" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1636224412"/>
     <description text="When this card enters the battlefield, create a 2/2 Melee Monster token in an empty adjacent tile."/>
 </card>

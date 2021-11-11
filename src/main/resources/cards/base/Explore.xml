@@ -3,5 +3,6 @@
 <card>
     <cost gold="4"/>
     <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/3/f3405ac8-a8e3-4c65-807e-6bfcfa162852.jpg?1608917440"/>
     <description text="Search your deck for a resource or structure card of your choice and place it on the field."/>
 </card>

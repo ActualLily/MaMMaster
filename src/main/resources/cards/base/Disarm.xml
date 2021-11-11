@@ -3,5 +3,6 @@
 <card>
     <cost gold="3"/>
     <type main="Skill"/>
+    <art path="https://cdna.artstation.com/p/assets/images/images/007/886/478/large/allen-morris-disarmed.jpg?1509139115"/>
     <description text="Target unit with melee range uses its action to make an attack. Then, enemy creature gains -1 Strength"/>
 </card>

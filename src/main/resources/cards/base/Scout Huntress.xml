@@ -4,5 +4,6 @@
     <cost gold="5"/>
     <stats attack="3" health="2"/>
     <type main="Unit" tribe="Hunter" range="Range"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/1/e112d77d-f019-4709-b31a-b02952df0e35.jpg?1562836199"/>
     <description text="When you play this card, choose a card in your opponent's hand, they reveal it. If it's a monster, you may pay (2M) to destroy it."/>
 </card>

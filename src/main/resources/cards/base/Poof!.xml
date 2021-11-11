@@ -3,6 +3,7 @@
 <card>
     <cost mana="2"/>
     <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/d/7d1c653e-f629-4105-a52c-379c5cd78208.jpg?1627428064"/>
     <description text="Instant"/>
     <description text="Return target creature to its owner's hand."/>
 </card>
