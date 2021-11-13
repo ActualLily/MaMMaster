@@ -22,7 +22,7 @@ public class CardCreator {
 
     static Logger log = Logger.getLogger("Main");
 
-    String imagePath = "src/main/resources/cardTemplate.png";
+    String imagePath = "src/main/resources/basicCard.png";
     Font font;
 
     Double trackDescYPos = 0.0;
