@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="3"/>
     <type main="Spell"/>
     <art path="https://pbs.twimg.com/media/B7wnkYHCAAAzjHp.jpg"/>

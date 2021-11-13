@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="3"/>
     <art path="https://wow.zamimg.com/uploads/screenshots/normal/651454-zu-den-hugeln.jpg"/>
     <stats health="3"/>

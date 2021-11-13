@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="2"/>
     <art path="http://actuallily.com/counterspell.jpg"/>
     <type main="Spell"/>

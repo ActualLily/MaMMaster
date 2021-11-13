@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="2"/>
     <type main="Spell"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/7/78/Prize_Coin_full.jpg/revision/latest/scale-to-width-down/484?cb=20210127154710"/>

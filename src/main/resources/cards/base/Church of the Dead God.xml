@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost gold="10"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/7/07592731-68be-4218-bb2c-c2523c5a27f1.jpg?1562875353"/>
     <stats health="3"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost gold="6" mana="2"/>
     <art path="https://cdna.artstation.com/p/assets/images/images/034/722/110/large/vitalii-sandula-.jpg?1613044673"/>
     <stats health="5"/>

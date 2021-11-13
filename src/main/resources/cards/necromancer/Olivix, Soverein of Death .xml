@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <stats health="15"/>
     <type main="Commander"/>
     <art path="https://i.imgur.com/cFYjbjP.png"/>

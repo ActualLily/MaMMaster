@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost gold="3"/>
     <type main="Skill"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/d/fdd76db0-1a67-4965-81a5-1d8d86b63971.jpg?1562948771"/>

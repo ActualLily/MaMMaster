@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost gold="6"/>
     <stats attack="6" health="3"/>
     <type main="Unit" tribe="Thief" range="Melee"/>

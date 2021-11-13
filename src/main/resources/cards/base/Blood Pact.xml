@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="3"/>
     <art path="https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/boab/boab54_sanguineBondSplash.jpg"/>
     <type main="Spell"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="3"/>
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/4/a448bc9e-f5db-4507-ac40-7d8ee3598585.jpg?1561990726"/>

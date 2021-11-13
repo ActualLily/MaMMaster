@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card text="World Ender">
+<card version="0.1">
     <cost gold="10" mana="10"/>
     <stats attack="10" health="10"/>
     <type main="Monster" tribe="Dragon" range="Melee"/>

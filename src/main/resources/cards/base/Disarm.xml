@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost gold="3"/>
     <type main="Skill"/>
     <art path="https://cdna.artstation.com/p/assets/images/images/007/886/478/large/allen-morris-disarmed.jpg?1509139115"/>

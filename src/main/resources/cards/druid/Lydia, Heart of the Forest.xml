@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <stats health="15"/>
     <type main="Commander"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/e/de32bf78-73c2-4cd4-b3b3-ef8be53e1e5e.jpg?1562709851"/>

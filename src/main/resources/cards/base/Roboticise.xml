@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<card>
+<card version="0.1">
     <cost mana="3"/>
     <type main="Spell"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/908418246628212756/7c28564b5d84779afc7ba9c89ca2ef6b.jpg"/>
