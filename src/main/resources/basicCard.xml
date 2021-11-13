@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<cardElements version="1.0">
-    <textElements>
-
+<elements version="1.0">
+    <textElements xPosStart="0.025" yPosStart="0.068" trackHeight="true" alignment="left" fontSize="42" wrap="true">
+        <name/>
     </textElements>
     <imageElements>
 
     </imageElements>
-</cardElements>
+</elements>

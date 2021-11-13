@@ -37,11 +37,13 @@ public class CardCreator {
         String version = card.getVersion();
         log.info("creating " + card.getText());
 
-        BufferedImage createdCard = null;
+        BufferedImage createdCard;
 
         if (version == null) {
-            createdCard = create00(card);
+            // Final "else" statement, will be filled later
         }
+
+        createdCard = create00(card);
 
         return createdCard;
     }
