@@ -31,12 +31,15 @@ public class Main {
             CardCreator cc = new CardCreator();
 
             Files.createDirectories(Path.of(FILE_PRINT + file.getParent().substring(25) + "/"));
-            ImageIO.write(cc.create(card), "png", new File(FILE_PRINT + file.getParent().substring(25) + "/" + card.getText() + "_CARD.png"));
+            ImageIO.write(cc.createByVersion(card), "png", new File(FILE_PRINT + file.getParent().substring(25) + "/" + card.getText() + "_CARD.png"));
+
         } else if (file.isDirectory()) {
             log.debug("found directory: " + file.getName());
+
             for (File fileEntry : Objects.requireNonNull(file.listFiles())) {
                 sendFilesToCardCreator(fileEntry);
             }
+
         }
     }
 }

@@ -33,11 +33,20 @@ public class CardCreator {
                         .getResourceAsStream("Tangent-Black.ttf")));
     }
 
-    @SuppressWarnings("ThrowablePrintedToSystemOut")
-    public BufferedImage create(Card card) {
-
+    public BufferedImage createByVersion(Card card) {
+        String version = card.getVersion();
         log.info("creating " + card.getText());
 
+        BufferedImage createdCard = null;
+
+        if (version == null) {
+            createdCard = create00(card);
+        }
+
+        return createdCard;
+    }
+
+    private BufferedImage create00(Card card) {
         try {
             BufferedImage image = ImageIO.read(new File(imagePath));
 
@@ -76,7 +85,7 @@ public class CardCreator {
                     int boundingbox = (int) (image.getWidth() - (image.getWidth() * ART_X * 2));
                     if (boundingbox != art.getWidth()) {
                         log.warn("image for " + card.getText() + " doesn't fit - resizing");
-                        art = simpleResizeImage(art, boundingbox);
+                        art = Scalr.resize(art, boundingbox);
                     }
                 }
                 int cropWidth = Math.min(art.getWidth(), (int) (image.getWidth() - (image.getWidth() * ART_X * 2)));
@@ -150,9 +159,5 @@ public class CardCreator {
                 trackDescYPos += (float) fontHeight / image.getHeight();
             }
         }
-    }
-
-    private BufferedImage simpleResizeImage(BufferedImage originalImage, int targetWidth) {
-        return Scalr.resize(originalImage, targetWidth);
     }
 }

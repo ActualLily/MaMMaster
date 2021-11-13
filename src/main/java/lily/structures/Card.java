@@ -1,5 +1,6 @@
 package lily.structures;
 
+import jakarta.xml.bind.annotation.XmlAttribute;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
@@ -7,6 +8,9 @@ import java.util.ArrayList;
 
 @XmlRootElement
 public class Card extends IText {
+
+    @XmlAttribute
+    String version = "0";
 
     @XmlElement
     Cost cost;
@@ -45,6 +49,10 @@ public class Card extends IText {
 
     public ArrayList<IText> getDescription() {
         return description;
+    }
+
+    public String getVersion() {
+        return version;
     }
 }
 
