@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="3" health="3"/>
+    <type main="Unit" tribe="Druid" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/8/e8b67ee8-3189-4426-8b1a-b540267768fd.jpg?1592517184"/>
+    <description text="When this card enters the battlefield, search your deck for a copy of The Forest and add it to your hand. "/>
+    <description text="(1M) Shift, gain +2 health and immediately move 1 tile."/>
+</card>
