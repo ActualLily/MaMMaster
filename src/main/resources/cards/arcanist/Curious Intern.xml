@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/f/7fbe8cf1-11df-4ca4-9a6b-265193c49250.jpg?1624590861"/>
+    <stats attack="1" health="2"/>
+    <type main="Unit" tribe="Arcanist" range="Melee"/>
+    <description text="When this card enters the battlefield, look at the top 3 cards of your deck. Put them back in any order."/>
+</card>
