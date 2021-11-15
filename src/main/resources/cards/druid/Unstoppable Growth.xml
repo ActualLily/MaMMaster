@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="6"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/7/6748a844-e185-4e3b-ac1d-8a735666d8ae.jpg?1636224994"/>
+    <description text="Target creature gains +6/+6."/>
+    <description text="This card costs (4M) if the target is occupying The Forest"/>
+</card>

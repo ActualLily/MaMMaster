@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/6/e62d4e76-cdb0-48c7-aa1c-b1f514057b68.jpg?1627709907"/>
+    <type main="Spell" tribe="Library"/>
+    <description text="Target creature gains +2 Health"/>
+</card>

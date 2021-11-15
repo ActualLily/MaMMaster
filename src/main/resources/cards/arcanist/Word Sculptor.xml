@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/5/45b3dbb0-0d68-4351-bfc9-a09c50454bf7.jpg?1624589385"/>
+    <stats attack="3" health="4"/>
+    <type main="Unit" tribe="Arcanist" range="Melee"/>
+    <description text="(>) Draw a card from The Library"/>
+</card>
