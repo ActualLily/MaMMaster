@@ -5,5 +5,5 @@
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/d/4d1d8aa1-d742-477c-819a-0113912d5011.jpg?1557576864"/>
     <description text="Instant"/>
-    <description text="Target allied unit returns to full Health"/>
+    <description text="Target allied unit recovers all damage taken."/>
 </card>

@@ -4,5 +4,5 @@
     <cost gold="4"/>
     <type main="Skill"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/5/854ddfc9-1ecd-45e1-b9aa-3390a2e3776f.jpg?1624741825"/>
-    <description text="Target allied Dragon uses its action to make an attack with Artillery. Then the dragon moves to that creature’s space if it kills it."/>
+    <description text="Target allied Dragon uses its action to make an Artillery attack. Then if the attack kills, the dragon moves to the previous tile of the destroyed card."/>
 </card>

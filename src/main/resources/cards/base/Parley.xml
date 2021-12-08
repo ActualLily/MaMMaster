@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="1"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1624589549"/>
+    <description text="Target unit card. The next time the target would take damage, it doesn’t, then destroy this card."/>
+</card>

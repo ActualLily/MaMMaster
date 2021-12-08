@@ -6,5 +6,5 @@
     <type main="Monster" tribe="Dragon" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/d/5db24df1-580f-4ff5-91a7-9a64a8352883.jpg?1631587815"/>
     <description text="Colossal"/>
-    <description text="When this card moves into a space containing a structure or creature, destroy it."/>
+    <description text="When this card moves into a tile containing a structure or creature, destroy them."/>
 </card>

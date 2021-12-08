@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/a/3ad5c175-581c-4fdd-b008-e7d10b0928c7.jpg?1576381778"/>
+    <description text="Target skill with Continuous is destroyed."/>
+</card>

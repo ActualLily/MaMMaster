@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="5" health="6"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/2/82a2e1d9-6763-4024-a18b-982d96395553.jpg?1562028672"/>
+    <type main="Unit" tribe="Solider" range="Melee"/>
+    <description text=""/>
+</card>

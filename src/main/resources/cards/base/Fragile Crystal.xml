@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <type main="Resource"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/7/174e631f-f024-41fd-8660-7cc8708ee3a2.jpg?1637353008"/>
+    <description text="(>) Charge 1. Destroy this card at the end of your turn."/>
+</card>

@@ -4,5 +4,5 @@
     <cost mana="2"/>
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/a/2a6c681a-2b5f-4c4e-81c3-91e8aba47985.jpg?1562378229"/>
-    <description text="Target a spell with Continuous. The spell ends."/>
+    <description text="Target spell with Continuous is destroyed."/>
 </card>

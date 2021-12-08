@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <stats attack="2" health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/a/8af7956d-f811-49d3-bef7-07f294dcea3c.jpg?1562030310"/>
+    <type main="Monster" tribe="Beast" range="Ranged"/>
+    <description text=""/>
+</card>

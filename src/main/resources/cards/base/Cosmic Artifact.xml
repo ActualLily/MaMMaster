@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="8"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ea4dfdd7-f35a-45d6-9fc7-2c096f92dd5f.jpg?1568003750"/>
+    <stats health="3"/>
+    <type main="Structure"/>
+    <description text="While a unit occupies, Charge 5"/>
+</card>

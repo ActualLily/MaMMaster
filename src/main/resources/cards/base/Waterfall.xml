@@ -5,5 +5,5 @@
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7bc6966c-18d9-4675-9594-6f0b2d11c405.jpg?1624590650"/>
     <description text="[3x1]"/>
-    <description text="Deal 1 damage to all creatures in target area and then move them one space in a direction of your choice. If they can't move, they take an additional 1 damage. "/>
+    <description text="Deal 1 damage to all creatures in target area and then move them one tile in a direction of your choice. If they can't move, they take an additional 1 damage."/>
 </card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <art path="https://cdna.artstation.com/p/assets/images/images/033/119/112/large/stella-chen-yui-thesecretbakery3.jpg?1608480067"/>
+    <stats health="4"/>
+    <type main="Structure"/>
+    <description text="(>) Payout 2"/>
+    <description text="(>) Charge 2, until the end of your turn."/>
+</card>
