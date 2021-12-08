@@ -7,5 +7,5 @@
     <description text="The next spell you play has following adjustments made to it:"/>
     <description text="- It may target any creature"/>
     <description text="- Damaging effects heal instead"/>
-    <description text="- Effects adjusting the target’s Strength or Health have their sign inverted"/>
+    <description text="- Effects adjusting the target’s Strength or Resilience have their sign inverted"/>
 </card>

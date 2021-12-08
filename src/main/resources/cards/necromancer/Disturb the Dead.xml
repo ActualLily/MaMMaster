@@ -5,6 +5,6 @@
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7b83536a-efa4-41f3-9424-75b0efc0aea5.jpg?1580014163"/>
     <description text="Continuous"/>
-    <description text="You may play creatures from your graveyard as if they were in your hand. "/>
+    <description text="You may play creatures from your discard zone as if they were in your hand. "/>
 
 </card>

@@ -4,5 +4,5 @@
     <cost mana="1"/>
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg?1562614644"/>
-    <description text="Target creature with 1 Health is destroyed and deals 1 damage to every creature in Range of it."/>
+    <description text="Target creature with 1 Resilience is destroyed and deals 1 damage to every creature in Range of it."/>
 </card>
