@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="2"/>
-    <type main="Spell"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/f/afcda8e4-d3dc-44f8-b277-b61fa261666b.jpg?1562927708"/>
-    <description text="Target zombie creature gains +5 Resilience"/>
-</card>

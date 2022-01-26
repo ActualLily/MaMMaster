@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="3"/>
-    <stats attack="1" health="4"/>
-    <type main="Monster" tribe="Zombie" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/f/ef494f81-638a-4e5d-b987-0dde7f2a135c.jpg?1562819610"/>
-    <description text="(>) This card can no longer attack or move, and set its Resilience to 6."/>
-</card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <stats health="15"/>
-    <type main="Commander"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/b/cb078fbb-beb9-4c0b-be93-ed1e73e6f8d8.jpg?1594735404"/>
-    <description text="(1M) Peruse - Draw a card from The Library. You may play it for no action this turn. "/>
-    <description text="(6M) Expert Spellcasting - Create a Continuous 3 spell in the active zone with “Your spells do not cost actions.” "/>
-</card>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1634347543"/>
-    <type main="Spell" tribe="Library"/>
-    <description text="Draw 2 cards."/>
-</card>

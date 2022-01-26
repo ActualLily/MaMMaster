@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/d/adcbe115-5482-4e5a-95bb-8ccbb01d3547.jpg?1624590252"/>
-    <type main="Spell" tribe="Library"/>
-    <description text="Target creature you control moves twice in a row for no action"/>
-</card>

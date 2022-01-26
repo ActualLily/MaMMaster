@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="1"/>
-    <type main="Resource"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/d/7df435cb-3aeb-490a-8fca-91f3b6936965.jpg?1591228536"/>
-    <description text="Charge 2"/>
+    <cost mana="0"/>
+    <type main="Basic Resource" tribe="Mana"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/6/d62fd366-c287-48c3-9ded-5dc63a34518c.jpg?1562743673"/>
+    <description text="Ready"/>
+    <description text="Charge 1"/>
 </card>

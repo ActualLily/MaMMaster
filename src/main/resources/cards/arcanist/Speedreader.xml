@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="4"/>
-    <stats attack="4" health="5"/>
-    <type main="Monster" tribe="Aberration" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/1/8148063c-a509-43ac-a291-c9410c30c2f2.jpg?1634349416"/>
-    <description text="(!) When you cast a spell, draw a card from your deck or The Library"/>
-</card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="2"/>
-    <stats attack="3" health="3"/>
-    <type main="Monster" tribe="Zombie" range="Ranged"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/c/fcb8d414-7f80-4a61-a0f2-0f16bf53e1b9.jpg?1594736387"/>
-    <description text="When you play this card, target creature takes 1 damage. "/>
-</card>

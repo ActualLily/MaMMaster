@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="3"/>
-    <stats attack="1" health="4"/>
-    <type main="Monster" tribe="Aberration" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1636494541"/>
-    <description text="If this card deals combat damage to an enemy creature, the enemy Retreats after Retaliating. "/>
-</card>

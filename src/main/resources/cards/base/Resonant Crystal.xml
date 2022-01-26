@@ -2,8 +2,9 @@
 
 <card version="0.1">
     <cost mana="2"/>
-    <type main="Resource"/>
+    <type main="Resource" tribe="Mana"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/5/758f95f8-bcb0-43ae-b474-56ebd855951e.jpg?1590511899"/>
-    <description text="Charge 1"/>
-    <description text="(>, 3G) This card becomes Charge 3 until the end of your turn."/>
+    <description text="Ready"/>
+    <description text="(>) Add X Mana, where X is the number of Mana counters on this card, then put 1 Mana counter on this card."/>
+    <description text="When this card has 3 Mana counters on it and would gain another, destroy it."/>
 </card>

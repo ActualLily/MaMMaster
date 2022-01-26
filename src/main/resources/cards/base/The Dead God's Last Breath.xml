@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="7"/>
-    <type main="Spell"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c3909816-5cc2-4712-bc7d-534ae0b9229c.jpg?1547515250"/>
-    <description text="If you control at least 3 “Dead God Cultists” and a “Church of the Dead God”, destroy them and replace your Commander with “C’Darai, the Dead God”. "/>
-</card>

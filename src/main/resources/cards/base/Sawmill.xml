@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost gold="0"/>
-    <type main="Basic Resource"/>
+    <type main="Basic Resource" tribe="Gold"/>
     <art path="https://cdna.artstation.com/p/assets/images/images/009/783/810/large/fran-fdez-conceptos-ciencia-produccion.jpg?1520883100"/>
     <description text="Ready"/>
-    <description text="(>) Payout 1"/>
+    <description text="(>) Add 1 Gold"/>
 </card>

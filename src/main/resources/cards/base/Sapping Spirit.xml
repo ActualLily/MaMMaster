@@ -5,5 +5,5 @@
     <stats attack="0" health="3"/>
     <type main="Monster" tribe="Ghost" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/2/424b08b1-d9a3-4f18-a5ef-0f46698ac7ed.jpg?1562848395"/>
-    <description text="Targets of this cards attacks start their next turn Exhausted"/>
+    <description text="Targets of this cards attacks are Exhausted at the start of their owners next Main Step"/>
 </card>

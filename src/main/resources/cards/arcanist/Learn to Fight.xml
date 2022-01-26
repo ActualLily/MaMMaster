@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/b/ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f.jpg?1624589767"/>
-    <type main="Spell" tribe="Library"/>
-    <description text="Target creature gains +2 Strength"/>
-</card>

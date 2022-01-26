@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <stats attack="1" health="1"/>
-    <type main="Monster" tribe="Zombie" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/f/6fedb37f-4f3c-477c-84c0-aa864e87c111.jpg?1608909610"/>
-    <description text="If this card is in your discard zone, you may play it as if it was in your hand. When you do, this card gains +1/+1"/>
-</card>

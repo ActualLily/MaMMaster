@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost mana="1"/>
-    <stats attack="1" health="1"/>
+    <stats attack="2" health="1"/>
     <type main="Monster" tribe="Dragon" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/9/a9a1cce7-1472-42fc-bfd3-c9ed9e563f03.jpg?1636491464"/>
-    <description text="(>) Deal 1 damage to target creature at Range"/>
+    <description text="(>) Make an Artillery Attack that deals 1 damage"/>
 </card>

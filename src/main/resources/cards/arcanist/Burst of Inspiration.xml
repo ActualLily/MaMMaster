@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/f/2fe4ee8e-579d-4bfa-8c19-bfdb1c0b7177.jpg?1636114277"/>
-    <type main="Spell"/>
-    <description text="Instant"/>
-    <description text="Gain 3 mana this turn. "/>
-</card>

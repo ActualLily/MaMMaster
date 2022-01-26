@@ -4,5 +4,5 @@
     <cost gold="1"/>
     <type main="Skill"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1624589549"/>
-    <description text="Target unit card. The next time the target would take damage, it doesn’t, then destroy this card."/>
+    <description text="Both you and your opponent reveal your hands. Choose a card in your opponent's hand and they discard it. Your opponent does the same to you. "/>
 </card>

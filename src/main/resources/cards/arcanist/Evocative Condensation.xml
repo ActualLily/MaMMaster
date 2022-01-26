@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="6"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7bd4fc26-8351-4371-948b-f43346c3e771.jpg?1599709680"/>
-    <type main="Spell"/>
-    <description text="The next spell you play with an area of effect applies its effect only to a single valid target, and applies it a number of times equal to the number of tiles it would normally effect."/>
-</card>

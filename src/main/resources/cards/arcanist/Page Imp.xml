@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="4"/>
-    <stats attack="1" health="1"/>
-    <type main="Monster" tribe="Aberration" range="Artillery"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/7/d74e1117-0196-4268-be97-a1e81b5dc90e.jpg?1624740545"/>
-    <description text="When this card is destroyed, draw a card from the Library "/>
-</card>

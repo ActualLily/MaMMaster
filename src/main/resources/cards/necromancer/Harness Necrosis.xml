@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <type main="Spell"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/e/ce7b626d-8536-4c57-b075-8320fcf1cdec.jpg?1630187364"/>
-    <description text="Target allied zombie is destroyed. Create two Mana Shards on the field."/>
-</card>

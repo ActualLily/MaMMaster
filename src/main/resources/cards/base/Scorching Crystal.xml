@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <type main="Resource"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/3/d344d88f-a63b-4593-990f-af6346cad91a.jpg?1592711223"/>
-    <description text="Charge 1"/>
-    <description text="(>) Deal 3 damage to any creature and destroy this card"/>
-</card>

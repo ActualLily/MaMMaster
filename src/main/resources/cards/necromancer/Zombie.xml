@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <stats attack="1" health="1"/>
-    <type main="Monster" tribe="Zombie" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/8/f8067745-35b6-4abd-9ae9-712159a26c89.jpg?1594736024"/>
-    <description text="Token"/>
-</card>

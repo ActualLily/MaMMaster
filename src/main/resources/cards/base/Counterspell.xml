@@ -5,5 +5,5 @@
     <art path="http://actuallily.com/counterspell.jpg"/>
     <type main="Spell"/>
     <description text="Instant"/>
-    <description text="When an enemy casts a spell, destroy it."/>
+    <description text="When an enemy plays a spell, destroy it."/>
 </card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <stats attack="2" health="1"/>
-    <type main="Monster" tribe="Zombie" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/5/153be768-ddad-44f2-bcdd-c40353c807d7.jpg?1634349717"/>
-    <description text="When this card is destroyed, draw 2"/>
-</card>
