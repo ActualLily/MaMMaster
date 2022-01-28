@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="7"/>
+    <stats attack="8" health="5"/>
+    <type main="Monster" tribe="Demon" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/f/9f2b9f27-459c-4585-9051-b83ffe053a74.jpg?1562852094"/>
+    <description text="When you Ready this card, it immediately moves one tile forward and then attacks every creature in its rank in a row from left to right."/>
+    <description text="If this card is in the enemy back rank, destroy it and deal its damage to your commander."/>
+</card>

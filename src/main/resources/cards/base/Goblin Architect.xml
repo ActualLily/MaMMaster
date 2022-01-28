@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <stats attack="1" health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/6/660e7067-9f1d-4e2c-bd12-0ad752a3cec8.jpg?1601077847"/>
+    <type main="Unit" tribe="Artificer" range="Melee"/>
+    <description text="(>) Discard this card to search your deck for a structure card of your choice and add it to your hand."/>
+</card>

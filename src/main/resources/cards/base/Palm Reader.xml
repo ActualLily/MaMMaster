@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="3" health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/6/6653ed3b-2a82-4e22-a9ca-18da5da94990.jpg?1562610873"/>
+    <type main="Unit" tribe="Diviner" range="Melee"/>
+    <description text="When this card enters the field, reveal the card on the bottom of your deck. Choose whether to keep it there or move it to the top."/>
+</card>

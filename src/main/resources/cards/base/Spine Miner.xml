@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <stats attack="2" health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/0/80bb3abd-ebaf-4dc2-97eb-ed4a2b005177.jpg?1576381279"/>
+    <type main="Unit" tribe="Commoner" range="Melee"/>
+    <description text="(>) If you control a Mine, add 2 Gold."/>
+</card>

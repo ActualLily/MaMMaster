@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <stats attack="3" health="3"/>
+    <type main="Monster" tribe="Demon" range="Ranged"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/a/6a67dd08-0064-4750-adf5-07bacb0296eb.jpg?1576384123"/>
+    <description text="When this card enters the field, target allied creature. Target gains +4/+4 and ‘when this creature leaves the field, deal damage to your commander equal to its strength’."/>
+</card>
