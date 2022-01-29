@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats attack="X" health="X"/>
+    <type main="Monster" tribe="Zombie" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/2/02351d67-2d73-43e3-82f7-5277c532d7ac.jpg?1631659321"/>
+    <description text="Created by Necrosynthesis"/>
+</card>

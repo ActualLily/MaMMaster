@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/7/974bf8cc-4259-48cc-8e7f-1580bb010d3f.jpg?1636119187"/>
+    <description text="Target creature has its resilience set to 1."/>
+</card>

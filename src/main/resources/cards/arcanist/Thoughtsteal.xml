@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/6/c6033d07-124c-4001-81e1-c6eb99e07fdd.jpg?1561845434"/>
+    <type main="Spell"/>
+    <description text="Your opponent reveals their hand. Choose one spell from it. You can cast a copy of that card this turn for no action."/>
+</card>

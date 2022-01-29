@@ -4,6 +4,6 @@
     <cost gold="6"/>
     <stats attack="4" health="3"/>
     <type main="Unit" tribe="Soldier" range="Ranged"/>
-    <art path="https://i2.wp.com/nerdarchy.com/wp-content/uploads/2015/06/640x757_4183_Long_gunner_2d_steampunk_fantasy_picture_image_digital_art.jpg?w=640"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937020256742944818/fhi5ah.png"/>
     <description text="Your Skills that target this card cost 3 less gold."/>
 </card>

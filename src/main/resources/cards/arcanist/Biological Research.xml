@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/7/6789b717-a000-464a-a39b-32c1aeefe560.jpg?1624592776"/>
+    <type main="Spell" tribe="Library"/>
+    <description text="Restore 4 health to your commander"/>
+</card>

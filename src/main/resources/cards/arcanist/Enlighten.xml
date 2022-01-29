@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/5/05521edf-f47f-4e7a-aec5-cdc4ae7368c2.jpg?1624589179"/>
+    <type main="Spell"/>
+    <description text="Target enemy creature gains -3/-3 until the start of your next turn."/>
+</card>
