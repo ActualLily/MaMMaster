@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <stats attack="4" health="4"/>
+    <type main="Monster" tribe="Aberration" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2bb3035b-3f13-4c1c-83a1-44c2750455ec.jpg?1592754443"/>
+    <description text="(>) Add 1 Mana, this mana can only be used to pay Shift Costs."/>
+</card>

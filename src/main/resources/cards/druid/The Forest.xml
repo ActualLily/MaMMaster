@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="2"/>
+    <cost mana="0"/>
     <stats health="1"/>
     <type main="Structure"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/8/f8f03bb2-313e-4688-945f-052eed678174.jpg?1572491394"/>
-    <description text="When this card enters the battlefield, create a copy of this card in every tile in your ranks that does not contain a structure."/>
     <description text="Occupying creatures with Shift abilities may spend an action to Shift for no mana cost."/>
+    <description text="Creatures may occupy this card even while in Combat"/>
 </card>

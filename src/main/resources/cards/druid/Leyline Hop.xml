@@ -5,5 +5,5 @@
     <type main="Spell"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/6/c68e8342-78d2-4826-a287-64c371b97d19.jpg?1592517267"/>
     <description text="Instant"/>
-    <description text="Target creature occupying The Forest moves to any other copy of The Forest you control"/>
+    <description text="Target creature occupying [The Forest] moves to the same tile as any other copy of [The Forest] you control"/>
 </card>
