@@ -5,5 +5,5 @@
     <type main="Skill"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/d/dd119aa8-8414-4942-9a28-3e68a9a52a8e.jpg?1592763342"/>
     <description text="Continuous."/>
-    <description text="When a zombie creature you control deals melee damage, it deals an additional 1 damage for each other zombie creature in Range of it."/>
+    <description text="When an allied Zombie deals melee damage, it deals an additional 1 damage for each other zombie in Range of it."/>
 </card>

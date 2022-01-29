@@ -5,5 +5,5 @@
     <stats attack="1" health="1"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/d/0da038c4-73ff-4d82-8440-9bca2f051fd5.jpg?1562814562"/>
-    <description text="Creatures within Range of this card during their owners upkeep gain -2 Resilience and this effect."/>
+    <description text="Creatures in Range of this card during their owners Ready Step gain -2 Resilience and this effect."/>
 </card>
