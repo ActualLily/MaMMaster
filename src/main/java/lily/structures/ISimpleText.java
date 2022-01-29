@@ -2,7 +2,7 @@ package lily.structures;
 
 import jakarta.xml.bind.annotation.XmlAttribute;
 
-public class IText {
+public class ISimpleText {
 
     @XmlAttribute
     String text;

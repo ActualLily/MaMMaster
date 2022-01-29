@@ -1,7 +1,7 @@
 package lily;
 
 import lily.structures.Card;
-import lily.structures.IText;
+import lily.structures.ISimpleText;
 import org.apache.commons.text.WordUtils;
 import org.apache.log4j.Logger;
 import org.imgscalr.Scalr;
@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Objects;
 
 import static lily.structures.GeneratorSettings.SettingConstants.*;
@@ -42,24 +43,27 @@ public class CardCreator {
             BufferedImage image = ImageIO.read(new File(imagePath));
 
             writeOnImage(image, card.getText(), NAME_X, NAME_Y, NAME_SIZE);
-            writeOnImage(image, card.getType().getMainTribe(), TYPE_X, TYPE_Y, TYPE_SIZE);
+            ArrayList<String> tribe = new ArrayList<>();
+            tribe.add(card.getType().getMain());
+            tribe.add(card.getType().getTribe());
+            writeOnImage(image, card.getType().toString(tribe), TYPE_X, TYPE_Y, TYPE_SIZE);
 
             if (card.getCost() != null) {
-                writeOnImage(image, card.getCost().getAll(), COST_X, COST_Y, COST_SIZE, true);
+                writeOnImage(image, card.getCost().toString(), COST_X, COST_Y, COST_SIZE, true);
             }
 
             if (card.getStats() != null) {
-                writeOnImage(image, card.getStats().getAll(), STATS_X, STATS_Y, STATS_SIZE, true);
+                writeOnImage(image, card.getStats().toString(), STATS_X, STATS_Y, STATS_SIZE, true);
             }
 
             trackDescYPos = DESC_Y_START;
 
             if (card.getType().getRange() != null) {
-                writeOnImage(image, "[" + card.getType().getRange() + "]", RANGE_X, trackDescYPos, RANGE_SIZE, true);
+                writeOnImage(image, RANGE_PREFIX + card.getType().toString(new ArrayList<>(Collections.singletonList(card.getType().getRange()))) + RANGE_SUFFIX, RANGE_X, trackDescYPos, RANGE_SIZE, true);
             }
 
             if (card.getDescription() != null) {
-                for (IText cardDescription : card.getDescription()) {
+                for (ISimpleText cardDescription : card.getDescription()) {
                     writeOnImage(image, cardDescription.getText(), DESC_X, trackDescYPos, DESC_SIZE);
                 }
             }
@@ -99,27 +103,32 @@ public class CardCreator {
         return null;
     }
 
-    private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize, boolean rightbound) {
-        writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, rightbound);
+    private int writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize, boolean rightbound) {
+        return writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, rightbound);
     }
 
-    private void writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize) {
-        writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, false);
+    private int writeOnImage(BufferedImage image, String text, double pctLocationX, double pctLocationY, int fontSize) {
+        return writeOnImage(image, text, (int) (image.getWidth() * pctLocationX), (int) (image.getHeight() * pctLocationY), fontSize, false);
     }
 
-    private void writeOnImage(BufferedImage image, String text, int locationX, int locationY, int fontSize, boolean rightbound) {
+    private int writeOnImage(BufferedImage image, String text, int locationX, int locationY, int fontSize, boolean rightbound) {
+
         font = font.deriveFont((float) fontSize);
 
         Graphics graphics = image.getGraphics();
         graphics.setFont(font);
         graphics.setColor(Color.BLACK);
 
+        int textWidth = graphics.getFontMetrics().stringWidth(text);
+
         if (rightbound) {
-            locationX = locationX - graphics.getFontMetrics().stringWidth(text);
+            locationX = locationX - textWidth;
         }
 
         drawWrapped(graphics, text, image, locationX, locationY);
         graphics.dispose();
+
+        return textWidth;
     }
 
     private void drawWrapped(Graphics graphics, String text, BufferedImage image, int locationX, int locationY) {

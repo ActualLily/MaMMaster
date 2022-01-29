@@ -1,8 +1,8 @@
-package lily.structures;
+package lily.structures.parameterized;
 
 import jakarta.xml.bind.annotation.XmlAttribute;
 
-public class Type {
+public class Type extends IParameterized {
 
     @XmlAttribute
     String main;
@@ -19,15 +19,6 @@ public class Type {
 
     public String getTribe() {
         return tribe;
-    }
-
-    public String getMainTribe() {
-        String builtType = main;
-        if (tribe != null) {
-            builtType += " / " + tribe;
-        }
-
-        return builtType;
     }
 
     public String getRange() {

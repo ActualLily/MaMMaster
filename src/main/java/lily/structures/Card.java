@@ -2,11 +2,14 @@ package lily.structures;
 
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
+import lily.structures.parameterized.Cost;
+import lily.structures.parameterized.Stats;
+import lily.structures.parameterized.Type;
 
 import java.util.ArrayList;
 
 @XmlRootElement
-public class Card extends IText {
+public class Card extends ISimpleText {
 
     @XmlElement
     Cost cost;
@@ -21,7 +24,7 @@ public class Card extends IText {
     Art art;
 
     @XmlElement
-    ArrayList<IText> description;
+    ArrayList<ISimpleText> description;
 
     public void setText(String text) {
         super.text = text;
@@ -43,7 +46,7 @@ public class Card extends IText {
         return art;
     }
 
-    public ArrayList<IText> getDescription() {
+    public ArrayList<ISimpleText> getDescription() {
         return description;
     }
 }
