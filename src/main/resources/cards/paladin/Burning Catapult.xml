@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="7"/>
+    <stats health="5"/>
+    <type main="Structure"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/544df614-277e-43dd-8611-3ec1e1747f57.jpg?1562270223"/>
+    <description text="(>) Make an Artillery Attack against an enemy structure, dealing 8 damage."/>
+</card>

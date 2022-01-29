@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <type main="Skill"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/6/63/Noble_Sacrifice_full.jpg/revision/latest?cb=20150326072619"/>
+    <description text="Instant"/>
+    <description text="When a Unit you control is targeted by a Power, create a 2/2 Melee Soldier Unit in your ranks. It becomes the new target of the Power"/>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <type main="Spell"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/b/b4/Consecration_full.jpg/revision/latest?cb=20140918025020"/>
+    <description text="Choose up to 3 tiles."/>
+    <description text="Allied creatures in the chosen tiles are healed for 5."/>
+    <description text="Enemy creatures in the chosen tiles are dealt 5 damage."/>
+</card>

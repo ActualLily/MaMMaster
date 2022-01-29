@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats health="4"/>
+    <type main="Structure"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/0/b05fde97-ab24-40c9-a1db-8844c3e62fc3.jpg?1562792809"/>
+    <description text="(>) Create a 1/2 Melee Soldier Unit in any adjacent tile."/>
+    <description text="(>, 3G) Put a Weapon Counter on all Soldiers you control. Units gain 1/0 for each Weapon Counter on them."/>
+</card>

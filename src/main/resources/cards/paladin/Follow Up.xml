@@ -5,5 +5,5 @@
     <type main="Skill"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/9/09a5603a-88c8-4b0c-b091-6d97e873859a.jpg?1562631539"/>
     <description text="Instant."/>
-    <description text="When an enemy unit retreats from a melee unit you control, your unit immediately moves back into combat with it but does not attack."/>
+    <description text="When an enemy unit retreats from a target melee unit you control, target uses a Charge Attack against it. "/>
 </card>

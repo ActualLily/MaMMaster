@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="4" health="2"/>
+    <type main="Unit" tribe="Soldier" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/6/62/Whirlwind_full.jpg/revision/latest?cb=20150730175551"/>
+    <description text="(>) Deal 1 Damage to all creatures in Range"/>
+</card>

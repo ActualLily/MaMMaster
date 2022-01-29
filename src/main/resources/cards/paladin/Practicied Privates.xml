@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost gold="3"/>
     <stats attack="3" health="2"/>
-    <type main="Unit" tribe="Legionnaire" range="Ranged"/>
+    <type main="Unit" tribe="Soldier" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/d/1db6393a-88b0-4973-9832-1482f69917ff.jpg?1592515970"/>
-    <description text="When this unit destroys a creature in an adjacent space, it can immediately move into the space it occupied. "/>
+    <description text="When this card destroys a creature in an adjacent tile, it can immediately move into that tile."/>
 </card>

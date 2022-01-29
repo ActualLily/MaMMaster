@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats health="15"/>
+    <type main="Commander" tribe="Paladin"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937005141452800010/akh-14-gideon-of-the-trials.jpg"/>
+    <description text="(>, 1G) Command: Target unit gains an additional action this turn."/>
+    <description text="(>, 6G) Field Training: All units you control gain +1/+1. You may pay an additional 1M any number of times when you use this ability. If you do, repeat this effect for every 1M spent."/>
+</card>
