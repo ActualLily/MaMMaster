@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/c/4cf3eb65-0f52-49c1-8243-14ce05de9f3b.jpg?1562735305"/>
+    <description text="Deal 3 damage or 3 Healing to all creatures in target File."/>
+</card>

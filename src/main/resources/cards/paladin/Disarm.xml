@@ -4,5 +4,5 @@
     <cost gold="2"/>
     <type main="Skill"/>
     <art path="https://static.wikia.nocookie.net/l5r/images/4/4e/Disarm.jpg/revision/latest?cb=20131227155419"/>
-    <description text="Target melee unit uses its action to make an attack. The retaliating creature gains -2 Strength"/>
+    <description text="Target melee unit uses its action to make an attack. The retaliating creature has -2 Strength"/>
 </card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/5/50/Holy_Nova_full.png/revision/latest?cb=20151022092632"/>
+    <description text="Create a Structure token with 3 Health in a Rank either you or no player controls. It has ‘Creatures controlled by the player who did not play [Light Barrier] cannot occupy this structure.’"/>
+    <description text="When you play this spell, you may spend an additional 1M up to 4 times. For every additional mana you spend, create an additional structure token in the same Rank."/>
+</card>

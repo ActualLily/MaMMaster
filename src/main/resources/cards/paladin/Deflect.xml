@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/c/ec06e42f-e294-44ef-8fa8-1d1a4c2090d8.jpg?1592708282"/>
+    <description text="When an enemy creature targets a unit you control with a Range attack, negate the damage and deal it to the attacker instead."/>
+</card>
