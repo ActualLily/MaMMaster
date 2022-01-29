@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="6"/>
+    <stats attack="4" health="5"/>
+    <type main="Monster" tribe="Aberration" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.jpg?1562261678"/>
+    <description text="(!) When a spell targets this card, the spells controller must pay an additional 2 mana, if they don't, discard the spell."/>
+</card>

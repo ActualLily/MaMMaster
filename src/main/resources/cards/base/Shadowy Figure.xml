@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <stats attack="2" health="1"/>
+    <type main="Monster" tribe="Demon" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/c/ac4fdefd-8774-400d-bea6-4064d87383f1.jpg?1562638829"/>
+    <description text="(>) Search your deck for a spell with “Dark Contract” in its name. Add it to your hand then deal damage to your commander equal to its cost. "/>
+</card>

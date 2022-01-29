@@ -5,5 +5,5 @@
     <art path="https://cdna.artstation.com/p/assets/images/images/034/722/110/large/vitalii-sandula-.jpg?1613044673"/>
     <stats health="5"/>
     <type main="Structure"/>
-    <description text="(!, 3M) When the opponent casts a spell, destroy it."/>
+    <description text="(!, 3M) When the opponent plays a spell, destroy it."/>
 </card>

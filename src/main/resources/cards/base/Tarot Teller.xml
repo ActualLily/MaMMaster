@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="7"/>
+    <stats attack="2" health="3"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/e/e4/Deck_of_Lunacy_full.jpg/revision/latest?cb=20201121055223"/>
+    <type main="Unit" tribe="Diviner" range="Melee"/>
+    <description text="When this card enters the field, search your deck for one skill and one spell then reveal them. Opponent chooses one to go to the top of your deck and the other goes on the bottom. "/>
+</card>

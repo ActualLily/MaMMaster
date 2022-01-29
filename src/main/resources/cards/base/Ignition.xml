@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/f/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5.jpg?1634350484"/>
+    <description text="Target creature gains 3 burn counters. Whenever target creature becomes ready, deal damage to them equal to the number of burn counters, then remove 1."/>
+</card>

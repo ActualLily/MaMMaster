@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/4/94ac96b6-5e67-43fb-ba65-fbcccb82bf1c.jpg?1625192695"/>
+    <description text="Destroy target creature, then your commander takes 4 damage"/>
+</card>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="1"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/5/b5339f6e-9ed7-4734-91c9-c2ed59ca1052.jpg?1636224326"/>
+    <description text="Destroy target [Farm]. It’s owner draws 2. "/>
+</card>

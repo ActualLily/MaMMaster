@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/9/d916306a-5cb3-4a38-9038-a433525c5b7b.jpg?1543675382"/>
+    <description text="Target creature makes an Artillery attack with +1 strength"/>
+</card>

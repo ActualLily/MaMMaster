@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="3" health="2"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/5/51/Auspicious_Spirits_full.jpg/revision/latest?cb=20210127141839"/>
+    <type main="Unit" tribe="Diviner" range="Melee"/>
+    <description text="When this card enters the field, look at the top 3 cards of your deck, then put them back in any order."/>
+</card>

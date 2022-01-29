@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/c/1c2b13b1-31f0-4676-88a7-53f3a190e9a2.jpg?1562826686"/>
+    <description text="Spells cannot be played until the end of your next turn."/>
+</card>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/549ed5bd-da29-4cd4-893e-9e53e33a8557.jpg?1593271977"/>
+    <type main="Spell"/>
+    <description text="Target resource card doubles it's Mana counters."/>
+</card>

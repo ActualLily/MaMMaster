@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <stats attack="6" health="5"/>
+    <type main="Monster" tribe="Demon" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1625771723"/>
+    <description text="Whenever you Ready this card, target one creature in Range and destroy it. If you can't, destroy this card."/>
+</card>

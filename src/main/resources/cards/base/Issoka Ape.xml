@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <stats attack="4" health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7b24ea58-0690-45d7-a84b-265b6277b59a.jpg?1562789630"/>
+    <type main="Monster" tribe="Beast" range="Melee"/>
+    <description text=""/>
+</card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <stats attack="1" health="3"/>
+    <type main="Monster" tribe="Beast" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/6/96916db2-5121-4ff1-880c-369744f11ecf.jpg?1562201594"/>
+    <description text="This card cannot be targetted by Range or Artillery attacks"/>
+</card>
