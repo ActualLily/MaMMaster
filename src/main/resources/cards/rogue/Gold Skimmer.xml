@@ -5,5 +5,5 @@
     <stats attack="0" health="4"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/7/b723d9cd-05f5-4894-9f2b-52a434a3019c.jpg?1627705067"/>
-    <description text="This card’s strength is equal to the number of resources you control with Payout that are Ready."/>
+    <description text="This card’s strength is equal to the number of gold resources you control that are Ready."/>
 </card>

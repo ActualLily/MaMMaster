@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats health="5"/>
+    <type main="Structure"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/4/f416e36a-15cb-43c8-b27f-82f65a95ddef.jpg?1562795446"/>
+    <description text="Units occupying this structure can’t be affected by skills and can’t enter combat."/>
+</card>

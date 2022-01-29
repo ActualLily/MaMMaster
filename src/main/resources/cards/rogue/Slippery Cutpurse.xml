@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="3"/>
-    <stats attack="2" health="3"/>
-    <type main="Unit" tribe="Thief" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1634347752"/>
-    <description text="When this card enters combat, gain 2 gold."/>
-</card>

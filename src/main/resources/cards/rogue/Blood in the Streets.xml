@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/8/d8606f40-0af4-443b-a413-a88dc3e8f32e.jpg?1631047655"/>
+    <description text="Destroy a number of enemy creatures equal to the number of Thief and Assassin cards you control."/>
+</card>

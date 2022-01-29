@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <type main="Skill"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/936997731455602728/51zptq.png"/>
+    <description text="Next time you would gain any amount of Gold, gain that amount of Mana as well."/>
+</card>

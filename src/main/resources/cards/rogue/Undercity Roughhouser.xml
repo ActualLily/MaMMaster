@@ -5,5 +5,5 @@
     <stats attack="3" health="6"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/0/000ac9e5-3c95-4e87-9424-109e2eea6b45.jpg?1572892902"/>
-    <description text="(>, 3G) This card gains +3 Strength. "/>
+    <description text="(>, 4G) This card gains +3 Strength. "/>
 </card>

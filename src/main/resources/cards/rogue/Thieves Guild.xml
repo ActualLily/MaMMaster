@@ -5,5 +5,5 @@
     <stats health="6"/>
     <type main="Structure"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2b7faa71-72f3-4b64-b6e2-d05ebd9c705d.jpg?1604196105"/>
-    <description text="(>) Your opponent loses gold and you gain gold both equal to twice the number of Thieves in the same rank as this card.  "/>
+    <description text="(>) Your opponent loses gold and you gain gold both equal to twice the number of Thieves in this Rank"/>
 </card>

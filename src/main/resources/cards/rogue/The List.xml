@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/8/086f97e9-8b62-44f3-b467-149c2ac5ca78.jpg?1608909875"/>
+    <description text="Unique"/>
+    <description text="Continuous"/>
+    <description text="When this card enters the active zone, choose a card name. It is added to The List."/>
+    <description text="Card names on the list are destroyed if they are played by either player."/>
+    <description text="(>, 5M) Mark for Death: Add another card name to the List"/>
+</card>

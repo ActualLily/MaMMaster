@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <type main="Spell"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/d/5d6178ed-6353-4733-81e1-7b3dc592c3bd.jpg?1562302252"/>
+    <description text="Target ally moves to a tile containing a structure."/>
+</card>

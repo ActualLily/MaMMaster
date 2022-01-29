@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <stats health="15"/>
-    <type main="Commander"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/5/15fcad03-4567-4f96-976e-01a07d8ab050.jpg?1562899196"/>
-    <description text="(>, 0g) Swindle: Target card you control with Payout activates it's payout effect without using an action."/>
-    <description text="(>, 10g) Extortion: All opponents cards with Payout become Ready. You may activate their Payout effects this turn as if you controlled them. Then they are Exhausted next turn."/>
-</card>
