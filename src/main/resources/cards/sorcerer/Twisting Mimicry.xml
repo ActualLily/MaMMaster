@@ -4,6 +4,6 @@
     <cost mana="4"/>
     <stats attack="0" health="0"/>
     <type main="Monster" tribe="Aberration" range="Melee"/>
-    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937019208963862628/mirrorhall-mimic--ghastly-mimicry-361.webp"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976"/>
     <description text="When this card enters the battlefield, it becomes a copy of target creature."/>
 </card>
