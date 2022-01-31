@@ -4,5 +4,5 @@
     <cost mana="0"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/2/92eba33e-efea-4e58-a832-1c6049fb211f.jpg?1624591454"/>
     <type main="Spell" tribe="Library"/>
-    <description text="At the start of their next turn, your opponent spends 5G."/>
+    <description text="Your opponent loses 5G."/>
 </card>

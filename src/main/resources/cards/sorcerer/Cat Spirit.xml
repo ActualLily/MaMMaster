@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats attack="1" health="1"/>
+    <type main="Monster" tribe="Spirit" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/d/9d66e724-49ee-4f08-a160-584350de1d95.jpg?1626093253"/>
+    <description text="(>) Destroy this card and Add 2 Mana."/>
+</card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats attack="6" health="1"/>
+    <type main="Commander Unit" tribe="Necromancer" range="Ranged"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937115737577898035/war-97-liliana-dreadhorde-general.jpg"/>
+    <description text="(1M) Escape the Tomb - Play a monster from your discard zone for no cost."/>
+    <description text="(>) Bury Alive - Destroy target creature. All creatures destroyed this way return to the field when this card leaves the field. "/>
+</card>

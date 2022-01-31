@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="2"/>
+    <cost mana="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/7/e7006f43-0b10-4693-b06f-e7cf86ab4129.jpg?1624591281"/>
     <type main="Spell"/>
     <description text="Target enemy creature deals damage to itself equal to its Strength."/>

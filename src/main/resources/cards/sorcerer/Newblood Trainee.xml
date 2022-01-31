@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="2" health="3"/>
+    <type main="Unit" tribe="Sorcerer" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/99e9318f-2e17-4b6e-895f-c17cd5d0d282.jpg?1624589792"/>
+    <description text="Your spells cost -1 Mana to play. "/>
+</card>

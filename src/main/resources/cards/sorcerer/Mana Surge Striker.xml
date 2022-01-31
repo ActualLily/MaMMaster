@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="7"/>
+    <stats attack="5" health="4"/>
+    <type main="Unit" tribe="Sorcerer" range="Ranged"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/6/761df6cd-0928-4167-8902-58fdb50181a0.jpg?1624589970"/>
+    <description text="(>, 5M) Destroy any number of Mana Resources you control. Deal damage target creature, structure, or commander equal to the number destroyed this way."/>
+</card>

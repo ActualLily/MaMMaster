@@ -4,5 +4,5 @@
     <cost mana="0"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/2/f235060a-eb49-4a73-bb5f-01228c3c4070.jpg?1624592751"/>
     <type main="Spell" tribe="Library"/>
-    <description text="Choose 2 cards in your opponent's hand, they reveal them. "/>
+    <description text="Opponent reveals the top 3 cards of their deck. Return them to the top of the deck in an order of your choice."/>
 </card>

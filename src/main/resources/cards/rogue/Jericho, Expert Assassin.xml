@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="7"/>
+    <stats attack="1" health="4"/>
+    <type main="Commander Unit" tribe="Rogue" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1627709050"/>
+    <description text="(>, 5G) Cross Off: Make an elusive melee attack, if the target takes damage, destroy it."/>
+    <description text="Sell Back - Mana Resources you control add Gold instead of Mana in all abilities and effects."/>
+</card>

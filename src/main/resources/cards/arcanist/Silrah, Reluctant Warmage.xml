@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <stats attack="4" health="2"/>
+    <type main="Commander Unit" tribe="Arcanist" range="Artillery"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/7/970f4f34-f834-41a7-aff1-7cef82cefc74.jpg?1562652060"/>
+    <description text="(>) Spellbook - Search The Library for a spell of your choice and play it."/>
+    <description text="Grow Magic - Gold Resources you control add Mana instead of Gold in all abilities and effects."/>
+</card>

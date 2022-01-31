@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <type main="Skill"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/5/d5edb608-c7d7-4fa9-b969-262c9789fc17.jpg?1627702404"/>
+    <description text="Continuous"/>
+    <description text="(>, XM) Heal your commander for X"/>
+</card>

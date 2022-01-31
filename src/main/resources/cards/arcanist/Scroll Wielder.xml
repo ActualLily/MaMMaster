@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="5"/>
+    <cost gold="6"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/8/c8152ab0-c6fc-4568-b837-4e84129e7b57.jpg?1624739648"/>
     <stats attack="3" health="2"/>
     <type main="Unit" tribe="Arcanist" range="Ranged"/>

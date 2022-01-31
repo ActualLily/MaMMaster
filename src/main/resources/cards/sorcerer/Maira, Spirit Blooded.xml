@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats health="15"/>
+    <type main="Commander" tribe="Sorcerer"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937022820674846730/war-56-kasmina-enigmatic-mentor.jpg"/>
+    <description text="(>) Split Spirit - Search your deck for a 0M Monster and play it. It gains Bonded. "/>
+    <description text="(XM) Blood Mana - All your card’s and their ability’s mana costs are reduced by X until the end of your turn."/>
+</card>

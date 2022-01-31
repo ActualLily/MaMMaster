@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="2"/>
+    <cost mana="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/c/ccca07a9-5c24-490f-8871-b125cb337e2c.jpg?1598304240"/>
     <type main="Spell"/>
     <description text="Deal damage to target creature equal to the number of cards from your Library that are in play."/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7b9bb587-f732-42c9-a2a7-152629889997.jpg?1627706019"/>
+    <type main="Spell"/>
+    <description text="Play the top card of your deck for no action or cost."/>
+    <description text="If it is not a spell or has no valid target, destroy it instead. "/>
+    <description text="Repeat this process 2 more times. "/>
+</card>

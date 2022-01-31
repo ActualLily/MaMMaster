@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <stats attack="0" health="0"/>
+    <type main="Monster" tribe="Aberration" range="Melee"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937019208963862628/mirrorhall-mimic--ghastly-mimicry-361.webp"/>
+    <description text="When this card enters the battlefield, it becomes a copy of target creature."/>
+</card>
