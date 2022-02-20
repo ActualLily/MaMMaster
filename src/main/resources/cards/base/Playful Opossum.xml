@@ -5,5 +5,5 @@
     <stats attack="1" health="2"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
     <art path="https://i0.wp.com/dianebradley.com/dbrad/wp-content/uploads/2016/06/1466037026.jpg?fit=1080%2C1080"/>
-    <description text="(>) Target allied creature is destroyed, and then immediately returned to the field in the same tile. "/>
+    <description text="(>) Target allied creature is destroyed, and then returned to the field in the same tile. "/>
 </card>

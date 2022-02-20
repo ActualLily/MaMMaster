@@ -4,6 +4,6 @@
     <cost gold="7"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/f/7f0b7bfc-f126-4885-a663-6f8dcc52e663.jpg?1543675109"/>
     <stats attack="4" health="3"/>
-    <type main="Unit" tribe="Hunter" range="Melee"/>
-    <description text="(>) Reveal the top card of your deck, if it’s a Mana Resource, play it."/>
+    <type main="Unit" tribe="Sorcerer" range="Melee"/>
+    <description text="(>, 3M) Draw a card and reveal it, if it’s a Mana Resource, play it."/>
 </card>

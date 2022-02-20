@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="0"/>
     <stats attack="5" health="1"/>
     <type main="Unit" tribe="Wizard" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/3/83f43730-1c1f-4150-8771-d901c54bedc4.jpg?1571282906"/>
-    <description text="Created by Sandragath's Personal Diary"/>
+    <description text="Token"/>
 </card>

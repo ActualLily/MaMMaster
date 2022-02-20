@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="10"/>
-    <stats attack="1" health="1"/>
-    <type main="Monster" tribe="Demon" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/f/afb997b6-d872-438f-bf8a-db976bc27a2d.jpg?1562803121"/>
-    <description text="When this card enters the field, discard any number of cards from your hand. This card gains stats equal to the number of cards discarded this way. When this card leaves the field, you lose the game. "/>
-</card>
