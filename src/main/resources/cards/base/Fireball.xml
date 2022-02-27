@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="3"/>
-    <type main="Spell"/>
+    <cost mana="4"/>
+    <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/3/23d31207-a9ec-4947-ba11-56925ee5d55c.jpg?1626117874"/>
     <description text="[2x2]"/>
     <description text="Deal 5 damage to all creatures in target area."/>

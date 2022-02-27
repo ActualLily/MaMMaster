@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost gold="3"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/b/fb24cb19-3409-45f7-b0e0-7c652064d2dd.jpg?1562258011"/>
-    <description text="Continuous"/>
-    <description text="Target unit can use its move action to move to any tile in your Ranks."/>
+    <description text="Attach to target unit"/>
+    <description text="Attached card can use its move action to move to any tile in your Ranks."/>
 </card>

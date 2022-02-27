@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost mana="3"/>
     <art path="https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/boab/boab54_sanguineBondSplash.jpg"/>
-    <type main="Spell"/>
-    <description text="Continuous"/>
+    <type main="Spell" tribe="Dark"/>
+    <description text="Continuous 3"/>
     <description text="Any time you would spend mana to play a card, you may spend an equal amount of your commander’s Health instead."/>
 </card>

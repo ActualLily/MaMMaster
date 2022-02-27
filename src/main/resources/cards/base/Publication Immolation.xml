@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="4"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/4/a448bc9e-f5db-4507-ac40-7d8ee3598585.jpg?1561990726"/>
-    <description text="Opponent discards their hand, then draws cards equal to however many they ."/>
+    <description text="Destroy each card in your opponent's hand, then they draw cards equal to however many were destroyed this way."/>
 </card>

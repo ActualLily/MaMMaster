@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="8"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Event"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/9/79248b68-4fab-46da-ab15-5c71c1f68d4b.jpg?1568004683"/>
     <description text="Continuous 3"/>
     <description text="Whenever you play a creature, draw a card."/>

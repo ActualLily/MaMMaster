@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="3"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="War"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/908409112281370674/rq6261.png"/>
     <description text="[3x3]"/>
     <description text="Deal 2 damage to all units in target area."/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="2"/>
+    <cost mana="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/8/b883113c-e52b-4633-b4a4-016093327b6a.jpg?1562835117"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Arcane"/>
     <description text="Instant"/>
     <description text="When an enemy plays a spell, destroy it."/>
 </card>

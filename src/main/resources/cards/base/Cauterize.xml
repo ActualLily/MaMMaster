@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost mana="1"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/1/e1efad9a-2fcf-4045-8105-bf9f5e79d12c.jpg?1562640129"/>
+    <description text="Instant"/>
     <description text="Deal 2 damage to target creature, then heal it for 4. "/>
 </card>

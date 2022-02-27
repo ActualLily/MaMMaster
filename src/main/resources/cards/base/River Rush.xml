@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="8"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/d/fd13d2c1-3db7-4fdc-9321-57c9d6e8c3ae.jpg?1562375911"/>
-    <description text="Choose a Rank and Player. Return all creatures from the chosen Rank to the Chosen player’s back Rank, to their owners hand."/>
+    <description text="Choose a Player. Return all creatures in that player's Ranks to their hand owners’ hand."/>
 </card>

@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost gold="6"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/5/c5a4c2ab-c5bc-4e07-8671-a688ebd5471c.jpg?1562834862"/>
-    <description text="Continuous."/>
-    <description text="Target unit card. The next time the target would take damage, it doesn’t, then destroy this card."/>
+    <description text="Attach to target Unit"/>
+    <description text="The next time the attached card would take damage, it doesn’t, then destroy this card."/>
 </card>

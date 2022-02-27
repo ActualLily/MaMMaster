@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost mana="3"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Arcane"/>
     <art path="https://pbs.twimg.com/media/B7wnkYHCAAAzjHp.jpg"/>
-    <description text="Target structure becomes an X/X Construct Monster where X is the structure’s Health. It loses any Occupy effects."/>
+    <description text="Attach to target structure"/>
+    <description text="Attached structure becomes an X/X Construct Monster where X is the structure’s Health. It loses any Occupy effects."/>
 </card>

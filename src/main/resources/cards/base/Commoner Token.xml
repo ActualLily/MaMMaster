@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats attack="1" health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/c/fc6d6524-d8bd-4eb9-9222-747443492b8c.jpg?1562258014"/>
+    <type main="Unit" tribe="Commoner" range="Melee"/>
+    <description text="Token"/>
+</card>

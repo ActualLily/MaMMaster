@@ -4,7 +4,7 @@
     <cost gold="12"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/9/a9d61651-349e-40d0-a7c4-c9561e190405.jpg?1557577572"/>
     <stats health="12"/>
-    <type main="Structure"/>
+    <type main="Structure" tribe="Building"/>
     <description text="Unique"/>
     <description text="Your monsters cost 3M less to play and have +3/+3"/>
 </card>

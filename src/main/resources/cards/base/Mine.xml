@@ -5,5 +5,5 @@
     <type main="Resource" tribe="Gold"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/c/5c83074d-0c9b-4b58-94ca-d75240485579.jpg?1572491198"/>
     <description text="(>) Add 2 Gold"/>
-    <description text="(>) Deal 3 damage to any target and destroy this card."/>
+    <description text="(>) Deal 3 damage to target creature and destroy this card."/>
 </card>

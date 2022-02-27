@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="0"/>
-    <stats attack="1" health="1"/>
-    <type main="Unit" tribe="Commoner" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/b/1bf35971-f1c4-4ccb-af5c-fd396391bb4b.jpg?1636208775"/>
-    <description text="Created by [Farm]"/>
-</card>

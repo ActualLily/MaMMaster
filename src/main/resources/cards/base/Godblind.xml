@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="3"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/e/4eb60957-0811-40c3-a92b-cce3e6a94745.jpg?1562910930"/>
     <description text="Enemy commander only has 1 action on their next turn."/>
 </card>

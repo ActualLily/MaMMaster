@@ -4,6 +4,6 @@
     <cost gold="4"/>
     <art path="https://i.pinimg.com/originals/d3/75/05/d37505753fbb72a516a4a82117b7c498.jpg"/>
     <stats health="6"/>
-    <type main="Structure"/>
+    <type main="Structure" tribe="Building"/>
     <description text="While a unit occupies, add 2 gold at the end of your turn"/>
 </card>

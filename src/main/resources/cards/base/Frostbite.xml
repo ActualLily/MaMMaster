@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="2"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/0/c01d2835-060c-4ac3-b586-84811878a64d.jpg?1576381494"/>
     <description text="Deal 2 damage to target creature, if it is exhausted, deal 4 damage instead."/>
 </card>

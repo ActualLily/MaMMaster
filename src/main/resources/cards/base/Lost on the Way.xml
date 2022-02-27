@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/e/1e5fc39d-590a-436b-ab90-a1741d2ae3da.jpg?1562827161"/>
+    <description text="Instant"/>
+    <description text="When your opponent plays a creature, return it to its owner's hand."/>
+</card>

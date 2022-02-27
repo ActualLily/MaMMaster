@@ -4,7 +4,7 @@
     <cost gold="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/1/81a59737-f06f-49b7-a490-3dc1115b47b7.jpg?1562919043"/>
     <stats health="3"/>
-    <type main="Structure"/>
+    <type main="Structure" tribe="Building"/>
     <description text="(>) Search your deck for a [Crystal Ball] and add it to your hand."/>
     <description text="Cards added to your hand with the effects of [Crystal Ball] cost -1 Mana to play."/>
 </card>
