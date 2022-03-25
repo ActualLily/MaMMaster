@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="5"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/8/086f97e9-8b62-44f3-b467-149c2ac5ca78.jpg?1608909875"/>
     <description text="Unique"/>
     <description text="Continuous"/>

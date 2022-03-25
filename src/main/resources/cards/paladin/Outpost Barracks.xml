@@ -3,8 +3,9 @@
 <card version="0.1">
     <cost gold="5"/>
     <stats health="4"/>
-    <type main="Structure"/>
+    <type main="Structure" tribe="Building"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/0/b05fde97-ab24-40c9-a1db-8844c3e62fc3.jpg?1562792809"/>
-    <description text="(>) Create a 1/2 Melee Soldier Unit in any adjacent tile."/>
-    <description text="(>, 3G) Put a Weapon Counter on all Soldiers you control. Units gain 1/0 for each Weapon Counter on them."/>
+    <description text="(>, 2G) Play a Soldier Unit."/>
+    <description text="(>) Create a Soldier Token (a 1/2 Melee Soldier Unit). "/>
+    <description text="(>, 3G) All Soldier units you control gain +1 Strength "/>
 </card>

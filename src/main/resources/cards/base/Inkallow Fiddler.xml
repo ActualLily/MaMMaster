@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="3" health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/e/0eaf3018-ae27-4e2e-b6da-dbdebd58fc2b.jpg?1592713293"/>
+    <type main="Unit" tribe="Artificer" range="Melee"/>
+    <description text="(>) Play an Equipment Skill"/>
+    <description text="(>) Target Skill with Attach attaches to another valid target."/>
+</card>

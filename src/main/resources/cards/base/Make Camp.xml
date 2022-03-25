@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="4"/>
-    <type main="Skill" tribe="Event"/>
+    <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/c/dc85412e-333d-4e7d-8c85-40618cf1b6c2.jpg?1604201149"/>
     <description text="Heal your commander for 3."/>
     <description text="Return any number of cards from your hand to your deck, shuffle, and draw that many cards."/>

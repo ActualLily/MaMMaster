@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="1" health="6"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/a/ad/Strongman_full.jpg/revision/latest?cb=20210127145013"/>
+    <type main="Unit" tribe="Thief" range="Melee"/>
+    <description text="When this card deals damage to a creature, return it to it’s owners hand."/>
+</card>

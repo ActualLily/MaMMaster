@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="2"/>
-    <type main="Skill"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1627704524"/>
-    <description text="Target 2 allied creatures and destroy them."/>
-</card>

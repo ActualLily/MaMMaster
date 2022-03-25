@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <stats attack="2" health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/1/212e9011-a9b7-4a60-bb47-ce5c3c147280.jpg?1608909392"/>
+    <type main="Unit" tribe="Commoner" range="Melee"/>
+    <description text="Elusive"/>
+</card>

@@ -5,6 +5,6 @@
     <stats attack="0" health="5"/>
     <type main="Monster" tribe="Aberration" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ea476ee1-67d9-4dd8-a5ac-f68a155eb18b.jpg?1624740590"/>
-    <description text="(>) Call a card name. Reveal the top card of your deck. If the card name matches your call, create a Wizard Token (a 5/1 Ranged Wizard Unit)"/>
-    <description text="While the token created by this card is on the field, this card cannot be destroyed."/>
+    <description text="(>) Choose a card name. Reveal the top card of your deck. If the card name matches your choice, create a Wizard Token (a 5/1 Ranged Wizard Unit)"/>
+    <description text="While the token created by this card is on the field, this card cannot be destroyed. "/>
 </card>

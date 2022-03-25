@@ -2,9 +2,8 @@
 
 <card version="0.1">
     <cost gold="6"/>
-    <type main="Skill" tribe="Event"/>
+    <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/9/e9bf3f93-a06f-4364-bb8e-b2b1eb77dcc3.jpg?1637631207"/>
-    <description text="Move the bottom 5 cards of your deck to the extra zone, face up."/>
-    <description text="You may play these cards as if they were in your hand this turn. "/>
+    <description text="Move the bottom 5 cards of your deck to the extra zone, face up. They are playable this turn."/>
     <description text="At the end of your turn, destroy any of these cards still in the extra zone. "/>
 </card>

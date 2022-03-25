@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost Mana="3"/>
+    <stats attack="2" health="3"/>
+    <type main="Monster" tribe="Beast" range="Ranged"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1643112412"/>
+    <description text="(>) Use an ability on an enemy Gold Resource card as if it were your own."/>
+</card>

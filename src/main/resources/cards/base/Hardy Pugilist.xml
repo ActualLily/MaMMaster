@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="6" health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/e/1e6237d7-454b-4b1b-b732-1adda35d746d.jpg?1562901374"/>
+    <type main="Unit" tribe="Soldier" range="Melee"/>
+    <description text="If this card has taken no damage, and would be destroyed by damage, it isn't, then remove all damage from this card."/>
+</card>

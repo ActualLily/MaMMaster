@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="4" health="3"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/c/c2/Bladed_Lady_full.jpg/revision/latest?cb=20201113021231"/>
+    <type main="Unit" tribe="Thief" range="Ranged"/>
+    <description text="When this card enters the field, it deals 4 damage to target creature, then this card gains -1 Strength."/>
+    <description text="Whenever this card deals damage, it gains -1 Strength"/>
+</card>

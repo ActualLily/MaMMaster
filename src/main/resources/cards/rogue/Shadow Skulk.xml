@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost mana="4"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Arcane"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/6/6e/Shadowstep_full.jpg/revision/latest?cb=20150730175308"/>
-    <description text="Continuous 3"/>
-    <description text="Target allied creature has Elusive."/>
+    <description text="Attach to target creature"/>
+    <description text="Attached card has Elusive."/>
 </card>

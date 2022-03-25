@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost Mana="2"/>
+    <stats attack="1" health="4"/>
+    <type main="Monster" tribe="Beast" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/0/0d/Fleethoof_Pearltusk_full.jpg/revision/latest?cb=20201113011557"/>
+    <description text="(3G) Play a [Performance Elephant]"/>
+</card>

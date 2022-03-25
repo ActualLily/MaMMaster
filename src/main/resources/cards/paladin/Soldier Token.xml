@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <stats attack="1" health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/a/baff03f3-a8ca-4c35-ae71-43b5d237b519.jpg?1562740835"/>
+    <type main="Unit" tribe="Soldier" range="Melee"/>
+    <description text="Token"/>
+</card>

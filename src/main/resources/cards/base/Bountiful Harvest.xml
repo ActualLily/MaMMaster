@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="3"/>
-    <type main="Skill" tribe="Event"/>
+    <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5ad86b17-3fed-418a-938c-c49adb409531.jpg?1626097139"/>
     <description text="Continuous 2"/>
     <description text="[Farm]s you control add 4 gold instead of 3."/>

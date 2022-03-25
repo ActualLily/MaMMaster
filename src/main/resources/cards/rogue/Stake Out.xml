@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="5"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/9/19b5b4fc-e1de-4520-9524-f9c4aa89b252.jpg?1593273502"/>
     <description text="Continuous"/>
     <description text="During each of your End Steps, you may pay 2G then add one Time counter to this card. If you don’t pay, discard this card. "/>

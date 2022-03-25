@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <stats attack="1" health="1"/>
+    <type main="Unit" tribe="Assassin" range="Melee"/>
+    <art path="https://cdn.discordapp.com/attachments/600782648704630882/954776098145718302/1000.png"/>
+    <description text="At the end of your turn, this card gains +1/+1"/>
+    <description text="(>, 5G) Target creature or commander takes damage equal to this card’s Strength, then destroy this card. "/>
+</card>

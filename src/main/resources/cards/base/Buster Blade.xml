@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill" tribe="Equipment"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/5/35a30091-7f68-4a67-b47e-f44318fc93b2.jpg?1591230194"/>
+    <description text="Attach to target Unit"/>
+    <description text="Attached unit has 'The first time this Unit attacks each turn, it regains its action.'"/>
+</card>

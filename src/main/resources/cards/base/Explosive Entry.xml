@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell" tribe="War"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7ba639ff-fe82-4ac3-9fb4-eac168bef053.jpg?1643998793"/>
+    <description text="Deal 3 damage to target creature, then play a Unit."/>
+</card>

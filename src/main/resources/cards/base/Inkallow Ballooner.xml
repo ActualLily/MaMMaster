@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <stats attack="3" health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/b/bba1650f-eddf-49a9-820e-489cb8d5b6fa.jpg?1627702172"/>
+    <type main="Unit" tribe="Artificer" range="Ranged"/>
+    <description text=""/>
+</card>

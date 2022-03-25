@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <type main="Skill" tribe="Knack"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/eac2c4a6-54b9-41ac-9265-39dd0be75726.jpg?1562950896"/>
+    <description text="Target allied Monster gains +1 Strength, then deals damage equal to its strength to target enemy creature. "/>
+</card>

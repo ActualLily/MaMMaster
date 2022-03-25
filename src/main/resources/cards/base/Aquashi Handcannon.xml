@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="8"/>
+    <type main="Skill" tribe="Equipment"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/a/0afae574-aa96-4500-9882-a4b10337b6f5.jpg?1619397326"/>
+    <description text="Attach to target unit"/>
+    <description text="Attached card has '(>, 5G) Deal 5 damage to target creature in Range'"/>
+</card>

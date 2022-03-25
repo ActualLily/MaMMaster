@@ -2,9 +2,9 @@
 
 <card version="0.1">
     <cost mana="2"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Equipment"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/715e637a-dfd8-45a0-b1ea-53e4abd29307.jpg?1592517669"/>
-    <description text="Place a Key counter on an enemy controlled structure."/>
-    <description text="While the Key counter is on that structure, you control it as if it was in your Ranks."/>
-    <description text="The key counter is destroyed when the Structure takes any damage."/>
+    <description text="Attach to target structure."/>
+    <description text="Attached structure is controlled by you as if it was in your ranks even if it isn't. "/>
+    <description text="If the attached structure takes any damage, destroy this card."/>
 </card>
