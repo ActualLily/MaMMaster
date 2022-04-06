@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="8"/>
-    <art path="https://cdna.artstation.com/p/assets/images/images/034/722/110/large/vitalii-sandula-.jpg?1613044673"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/9/39c9e4b5-364b-4c0b-bb47-266563a6abf2.jpg?1572893511"/>
     <stats health="5"/>
     <type main="Structure" tribe="Building"/>
     <description text="(!, 3M) When the opponent plays a spell, destroy it."/>

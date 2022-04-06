@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="4"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/4/44ac622c-db04-41bf-817e-4698843e6346.jpg?1562907512"/>
-    <description text="Distribute up to 3 Weapon Counters among any number of units you control. Units gain +1/+0 for each Weapon Counter on them."/>
+    <description text="Up to 3 Target units you control gain +1 Strength. You may target the same unit more than once."/>
 </card>

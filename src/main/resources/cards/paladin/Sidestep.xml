@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="4"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/3/5305b5c6-2af6-4b5c-9a57-0a2d2628e2f4.jpg?1562348499"/>
     <description text="Target allied unit moves one tile along it’s Rank then has +4 Resilience until your next Start Step."/>
 </card>

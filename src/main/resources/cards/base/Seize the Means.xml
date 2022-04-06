@@ -4,6 +4,7 @@
     <cost gold="6"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/3/b3b7a69c-75d2-49a6-ab56-ef608d0b0208.jpg?1631049630"/>
-    <description text="Exhaust all allied units. "/>
-    <description text="The next X cards you play have their Gold costs set to 0, where X is the number of units this card exhausted."/>
+    <description text="Continuous"/>
+    <description text="When this card is played, exhaust all allied units. Put a Refund Counter on this card for each creature exhausted this way."/>
+    <description text="Whenever you would pay a gold cost, remove a Refund Counter from this card instead. Destroy this card when it has no counters on it."/>
 </card>

@@ -5,5 +5,5 @@
     <type main="Spell" tribe="Arcane"/>
     <art path="https://pbs.twimg.com/media/B7wnkYHCAAAzjHp.jpg"/>
     <description text="Attach to target structure"/>
-    <description text="Attached structure becomes an X/X Construct Monster where X is the structure’s Health. It loses any Occupy effects."/>
+    <description text="Attached structure is a Construct Monster with stats both equal to it’s Health. It loses any Occupy effects."/>
 </card>

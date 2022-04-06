@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost Mana="0"/>
+    <stats health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/8/98e43870-4bed-4d76-a633-a6326c736d22.jpg?1562706936"/>
+    <type main="Structure" tribe="Magical"/>
+    <description text="Token"/>
+</card>

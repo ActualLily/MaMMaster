@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="2"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Tactic"/>
     <art path="https://static.wikia.nocookie.net/l5r/images/4/4e/Disarm.jpg/revision/latest?cb=20131227155419"/>
-    <description text="Target melee unit uses its action to make an attack. The retaliating creature has -2 Strength"/>
+    <description text="Target allied melee unit makes an attack. The retaliating creature has -2 Strength"/>
 </card>
