@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="6"/>
+    <cost gold="3"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/718352b9-1a68-44a1-947b-34f525f21223.jpg?1592517319"/>
-    <description text="If there is a contested rank, you control it until the end of your turn, even if it contains enemy creatures."/>
+    <description text="You control the centre rank until end of turn, even if it contains enemy creatures or structures"/>
 </card>

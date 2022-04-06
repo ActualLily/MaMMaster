@@ -4,5 +4,5 @@
     <cost gold="2"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/4/94bda699-2b5d-4f5b-bee5-792b99d2b64a.jpg?1557576800"/>
-    <description text="Target allied creature spends its action to move to your front rank, in the same file."/>
+    <description text="Target allied creature moves to the centre rank in the same file. "/>
 </card>

@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost gold="2"/>
-    <type main="Resource" tribe="Gold"/>
+    <type main="Structure" tribe="Building"/>
+    <stats health="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/9/593aa59a-4025-4df8-9f27-188fc7712fde.jpg?1627708684"/>
     <description text="Ready"/>
     <description text="(!) Whenever a unit is played, Add 2 Gold."/>

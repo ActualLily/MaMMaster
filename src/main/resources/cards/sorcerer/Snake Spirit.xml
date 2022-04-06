@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <stats attack="1" health="1"/>
-    <type main="Monster" tribe="Spirit" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5aa96f63-d5c3-47d3-a54d-a67883406fc5.jpg?1562818582"/>
-    <description text="(>) Destroy this card and view your opponent's hand. "/>
-</card>

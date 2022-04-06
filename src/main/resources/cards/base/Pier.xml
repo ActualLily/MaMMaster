@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost gold="3"/>
-    <type main="Resource" tribe="Gold"/>
+    <type main="Structure" tribe="Building"/>
+    <stats health="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/6/76f1d53b-ca2c-4e9b-832c-f1b01465a0c2.jpg?1605205580"/>
     <description text="(>) Add 2 Gold"/>
     <description text="(>, 1G) Heal your commander for 1"/>

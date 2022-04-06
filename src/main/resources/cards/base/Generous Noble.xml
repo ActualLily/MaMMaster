@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <stats attack="1" health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/9/59ea095b-af0e-4178-b6f4-816abb635fc0.jpg?1562913268"/>
+    <type main="Unit" tribe="Commoner" range="Melee"/>
+    <description text="When this card is played, add 2 Gold."/>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats attack="6" health="6"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/7/67a76010-d932-4727-8b5e-b8e2d14e1362.jpg?1627708716"/>
+    <type main="Monster" tribe="Dragon" range="Ranged"/>
+    <description text="Token"/>
+    <description text="(>) Add 4 Gold"/>
+</card>

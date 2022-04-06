@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/2/22ed0ee7-6749-4f38-8e53-c11b46b17e5d.jpg?1562628996"/>
-    <type main="Spell" tribe="Library"/>
-    <description text="The next spell you play costs 2 less mana. "/>
-</card>

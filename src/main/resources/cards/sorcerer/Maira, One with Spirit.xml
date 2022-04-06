@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="6"/>
-    <stats attack="3" health="3"/>
-    <type main="Commander Unit" tribe="Sorcerer" range="Artillery"/>
+    <cost mana="X"/>
+    <stats attack="X" health="3"/>
+    <type main="Unit" tribe="Sorcerer" range="Artillery"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/937022838777450516/stx-196-kasmina-enigma-sage.jpg"/>
-    <description text="Solidify Spirits - Whenever a Bonded creature you control would go to the extra zone, you can immediately play it."/>
-    <description text="(>) Flock of Spirits - Search your deck for up to 5 differently named 0M Monsters and play them. "/>
+    <description text="Unique"/>
+    <description text="Flock of Spirits - When this card enters the field, search your deck for up to 3 XM or lower Monsters and play them."/>
 </card>

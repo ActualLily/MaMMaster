@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <type main="Structure" tribe="Object"/>
+    <stats health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1636491428"/>
+    <description text="(>) Add a Growth Counter to this card."/>
+    <description text="(>) Add Gold equal to the number of Growth Counters on this card."/>
+    <description text="(>) If this card has 4 or more Growth counters on it, destroy it and create a Gilded Dragon Token (a 6/6 Ranged Dragon Monster with ‘(>) Add 4 Gold’)"/>
+</card>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="0"/>
+    <cost mana="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/e/bead678c-7b6a-4668-9919-623312e08a65.jpg?1562631756"/>
-    <type main="Spell" tribe="Library"/>
-    <description text="Deal 2 damage to target creature."/>
+    <type main="Spell" tribe="Elemental"/>
+    <description text="Discard a spell from your hand then deal 4 damage to target creature. "/>
 </card>

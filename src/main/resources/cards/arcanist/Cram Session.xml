@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="3"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.jpg?1627428330"/>
-    <type main="Spell"/>
-    <description text="Your commander gains 5 health."/>
-    <description text="Draw 2 cards from The Library."/>
-</card>

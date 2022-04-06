@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost mana="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/2/f2fa5133-c238-47e8-befd-3729a3e4303a.jpg?1594736835"/>
-    <type main="Spell"/>
-    <description text="Destroy target allied creature. "/>
-    <description text="A Bonded creature you control gains stats equal to the destroyed creature’s stats."/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Destroy target allied Monster."/>
+    <description text="Then, target allied Monster gains stats equal to the destroyed creature’s stats."/>
 </card>

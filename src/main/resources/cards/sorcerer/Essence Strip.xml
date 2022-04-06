@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="4"/>
+    <cost mana="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/543c64ff-2c51-4a63-a940-dc8645717c85.jpg?1624591748"/>
-    <type main="Spell"/>
-    <description text="Target creature or structure loses all effects and abilities."/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Target creature loses all effects and abilities."/>
 </card>

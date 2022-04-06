@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/7/57d230fc-d382-40b4-bdbd-5fe880fa16bf.jpg?1624592487"/>
-    <stats attack="2" health="2"/>
-    <type main="Monster" tribe="Aberration" range="Melee"/>
-    <description text="Created by Lost and Found"/>
-</card>

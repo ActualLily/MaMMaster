@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="0"/>
-    <stats attack="1" health="1"/>
+    <cost mana="2"/>
+    <stats attack="3" health="2"/>
     <type main="Monster" tribe="Spirit" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/1/21de4a01-98d3-4af3-9c6e-29e16d2c1767.jpg?1624589813"/>
     <description text="(>) Destroy this card and draw 1."/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="2"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/b/cb33529b-80bd-4f52-94cc-d8371c53ad75.jpg?1594735558"/>
-    <type main="Spell"/>
-    <description text="Continuous"/>
-    <description text="During your draw phase, you may draw from The Library instead of your deck."/>
-</card>

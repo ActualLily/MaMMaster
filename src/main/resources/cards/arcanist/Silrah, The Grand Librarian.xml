@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <stats health="15"/>
-    <type main="Commander" tribe="Arcanist"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/0/20d5521d-e9f1-49e0-aa13-8e6de794cb12.jpg?1576384117"/>
-    <description text="(>, 1M) Peruse - Draw a card from The Library. You may play it for no action this turn."/>
-    <description text="(>, 6M) Slick Spellcasting - Your spells do not cost actions until the start of your next turn."/>
-</card>

@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost gold="4"/>
-    <type main="Resource" tribe="Gold"/>
+    <type main="Structure" tribe="Building"/>
+    <stats health="4"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1636773926"/>
     <description text="(>) Add Gold equal to the number of allied units"/>
 </card>

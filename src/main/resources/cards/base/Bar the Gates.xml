@@ -5,5 +5,5 @@
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/918216789253578752/6130805-gate-art-fantasy-tower-game-castle-blue.jpg"/>
     <type main="Skill" tribe="Talent"/>
     <description text="Attach to target structure."/>
-    <description text="Creatures cannot enter attached card’s tile."/>
+    <description text="Creatures cannot move into attached card’s tile."/>
 </card>

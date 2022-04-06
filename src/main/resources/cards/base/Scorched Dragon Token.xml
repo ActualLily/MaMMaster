@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats attack="6" health="6"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/7/27aee582-0d32-428c-8ffa-4122e92a810d.jpg?1631585176"/>
+    <type main="Monster" tribe="Dragon" range="Ranged"/>
+    <description text="Token"/>
+    <description text="(>) Deal 4 damage to target creature or commander.’"/>
+</card>

@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost mana="5"/>
-    <type main="Resource" tribe="Mana"/>
+    <type main="Structure" tribe="Object"/>
+    <stats health="4"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/2/02a992ad-8f34-41c5-b66e-d4ca659d0e27.jpg?1562386205"/>
     <description text="(>) Add 1 Mana and add 1 mana counter to this card"/>
     <description text="(>) Play a spell with cost equal to or less than the number of mana counters on this card for no cost."/>

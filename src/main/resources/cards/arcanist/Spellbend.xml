@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="4"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/d/9d3a7998-ccac-45ad-a4e9-3a2cb057f63b.jpg?1624589440"/>
-    <type main="Spell"/>
-    <description text="The next spell you play is [2x2], and applies any single target effects to all valid targets in that area."/>
-</card>

@@ -2,7 +2,8 @@
 
 <card version="0.1">
     <cost mana="1"/>
-    <type main="Resource" tribe="Mana"/>
+    <type main="Structure" tribe="Magical"/>
+    <stats health="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/4/04d5d429-e0c6-42cc-a477-da7dabb1c295.jpg?1592516724"/>
     <description text="When you play this card, put 3 Mana Counters on it."/>
     <description text="When this card has 0 Mana Counters on it, destroy it."/>
