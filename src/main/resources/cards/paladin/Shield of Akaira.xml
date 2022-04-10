@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="8"/>
+    <type main="Skill" tribe="Equipment"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/7/97c2cc25-f3cd-4bfb-b9cc-53d1f42cd69a.jpg?1562791312"/>
+    <description text="Attach to target Paladin or Soldier Unit"/>
+    <description text="Attached creature has +4 Resilience and '(!) When this card is dealt damage, pay Mana equal to the damage to negate it.'"/>
+</card>

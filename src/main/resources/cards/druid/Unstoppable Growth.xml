@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="6"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Sylvan"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/6/06ec9e8b-4bd8-4caf-a559-6514b7ab4ca4.jpg?1557576917"/>
     <description text="Target creature gains +6/+6."/>
     <description text="This card costs (4M) if the target is occupying The Forest"/>

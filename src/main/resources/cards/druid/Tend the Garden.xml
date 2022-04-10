@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="5"/>
-    <type main="Skill"/>
+    <type main="Skill" tribe="Talent"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/9/9f/Nourish_full.png/revision/latest?cb=20151003034405"/>
     <description text="Create 1 [Mana Crystal] and draw a card."/>
     <description text="If you control at least 5 copies of [The Forest], create 2 [Mana Crystal]s and draw 2 cards instead."/>

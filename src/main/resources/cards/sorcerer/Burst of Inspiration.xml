@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="1"/>
+    <cost mana="0"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/4/247939d9-87e9-4f01-b223-fb4cfa7dbbe1.jpg?1562846529"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Arcane"/>
     <description text="Instant"/>
-    <description text="Gain 3 mana this turn. "/>
+    <description text="When you play a Spell or activate a reaction ability, Add 3 mana."/>
 </card>

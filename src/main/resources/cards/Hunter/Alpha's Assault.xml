@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill" tribe="Knack"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.jpg?1627707358"/>
+    <description text="Continuous"/>
+    <description text="When you attack for the first time each turn, target attacking Monster gains +1/+1"/>
+</card>

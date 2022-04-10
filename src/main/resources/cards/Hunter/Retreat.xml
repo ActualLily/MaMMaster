@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="2"/>
+    <type main="Skill" tribe="Tactic"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/7/c730b0c4-e8cf-4c6f-b65c-faebf508fc3c.jpg?1562932274"/>
+    <description text="Return target allied creature to your hand."/>
+</card>

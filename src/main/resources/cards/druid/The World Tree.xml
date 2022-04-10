@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost mana="2"/>
     <stats health="5"/>
-    <type main="Structure"/>
+    <type main="Structure" tribe="Natural"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/7/a70cb6d9-3955-4064-917b-11dec26440c5.jpg?1631053286"/>
     <description text="When this card enters the battlefield, create a copy of [The Forest] in every tile in your Ranks that does not contain a structure. "/>
     <description text="When this card is destroyed, destroy all copies of [The Forest] you control"/>

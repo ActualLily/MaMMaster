@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="2"/>
+    <stats attack="2" health="1"/>
+    <type main="Unit" tribe="Sorcerer" range="Ranged"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/4/74be6236-4095-419c-9927-fbd874df21f8.jpg?1637082381"/>
+    <description text="(>) Play a Spirit Monster"/>
+</card>

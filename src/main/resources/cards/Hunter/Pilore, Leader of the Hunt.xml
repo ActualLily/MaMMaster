@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats health="15"/>
+    <type main="Commander" tribe="Hunter"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/6/c6d60af9-d006-4441-974e-117599283ee3.jpg?1604193210"/>
+    <description text="(!, 1M) Primal Instinct - When you play a creature, it gains Ready."/>
+    <description text="(>, 6G) Hunt to Death - Target allied creature attacks target enemy creature regardless of Attack Class, then the enemy creature retaliates regardless of Attack Class."/>
+</card>

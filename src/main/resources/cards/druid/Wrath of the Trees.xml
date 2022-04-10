@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost mana="3"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Sylvan"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/1/b16ba7be-47e6-4c64-918d-bec60abccaa3.jpg?1562932421"/>
     <description text="Deal 5 damage to target creature."/>
-    <description text="This card costs (1M) if the target is occupying The Forest"/>
+    <description text="This card costs (1M) if the target is occupying [The Forest]"/>
 </card>

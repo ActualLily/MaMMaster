@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <type main="Spell" tribe="Divine"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/d/0d5c2401-da2c-46f9-b850-f37edcbb85cd.jpg?1608908694"/>
+    <description text="Continuous"/>
+    <description text="The first allied Unit to attack each turn gains +1/+1"/>
+</card>

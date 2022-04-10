@@ -4,6 +4,6 @@
     <stats health="15"/>
     <type main="Commander" tribe="Rogue"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/5/15fcad03-4567-4f96-976e-01a07d8ab050.jpg?1562899196"/>
-    <description text="(>, 0G) Swindle: Target allied Gold Resource activates an ability of your choice without using an action."/>
+    <description text="(>, 0G) Swindle: Target allied Structure activates a Gold Resource Ability of your choice without using an action."/>
     <description text="(>, XG) Pay Off: Target creatures whose combined Strength is equal to or less than X are exhausted next turn."/>
 </card>

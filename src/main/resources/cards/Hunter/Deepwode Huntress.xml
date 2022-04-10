@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost gold="5"/>
     <stats attack="3" health="2"/>
-    <type main="Unit" tribe="Hunter" range="Range"/>
+    <type main="Unit" tribe="Hunter" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/1/e112d77d-f019-4709-b31a-b02952df0e35.jpg?1562836199"/>
-    <description text="When this card enters the field, reveal your opponents hand. You may pay (2M) to destroy target monster in their hand."/>
+    <description text="When this card enters the field, reveal your opponent's hand. You may pay 2M to destroy target monster in their hand."/>
 </card>

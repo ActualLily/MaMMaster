@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <stats attack="5" health="3"/>
+    <type main="Unit" tribe="Paladin" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/04SH003T11-full.png/revision/latest/scale-to-width-down/1000?cb=20210303045421"/>
+</card>

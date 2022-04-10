@@ -3,6 +3,6 @@
 <card version="0.1">
     <cost mana="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ea56de43-c0fd-4627-846d-41a962b95f17.jpg?1631046662"/>
-    <type main="Spell"/>
-    <description text="Target allied monster, it gains bonded"/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Target allied monster, it gains ‘When this card is destroyed, you may play it until end of turn.’"/>
 </card>

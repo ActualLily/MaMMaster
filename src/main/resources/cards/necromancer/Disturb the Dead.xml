@@ -2,9 +2,9 @@
 
 <card version="0.1">
     <cost mana="5"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7b83536a-efa4-41f3-9424-75b0efc0aea5.jpg?1580014163"/>
     <description text="Continuous"/>
-    <description text="You may play creatures from your discard zone as if they were in your hand. "/>
+    <description text="Creatures in your discard zone are Playable"/>
 
 </card>

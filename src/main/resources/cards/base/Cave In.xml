@@ -4,5 +4,5 @@
     <cost gold="4"/>
     <type main="Skill" tribe="Trap"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/7/67bb2ca9-32b8-442d-b6a0-d624a87f5af8.jpg?1562612958"/>
-    <description text="Destroy target Mine Resource, then destroy target creature."/>
+    <description text="Destroy target [Mine], then destroy target creature."/>
 </card>

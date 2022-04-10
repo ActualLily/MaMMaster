@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="8"/>
+    <type main="Skill" tribe="Talent"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/b/9bc42032-8727-4f78-b369-ba103d965b73.jpg?1562832815"/>
+    <description text="Return any number of allied creatures on the field to your hand, then destroy that many enemy creatures."/>
+</card>

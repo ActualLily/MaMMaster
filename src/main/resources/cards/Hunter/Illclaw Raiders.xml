@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <stats attack="4" health="2"/>
+    <type main="Monster" tribe="Beast" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/7/37284ba8-441c-4cf6-95c6-6a0f52e6d36d.jpg?1572893351"/>
+    <description text="Ready"/>
+    <description text="At the end of your turn, return this card to your hand. "/>
+</card>

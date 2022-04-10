@@ -6,5 +6,5 @@
     <type main="Unit" tribe="Sorcerer" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/6/761df6cd-0928-4167-8902-58fdb50181a0.jpg?1624589970"/>
     <description text="(>) Play a Structure that costs Mana"/>
-    <description text="(>, 5M) Destroy any number of Structures you control. Deal damage to target creature, structure, or commander equal to the number of cards destroyed this way."/>
+    <description text="(>, 5M) Destroy any number of Structures you control that have Mana Resource Abilities. Deal damage to target creature, structure, or commander equal to the number of cards destroyed this way."/>
 </card>

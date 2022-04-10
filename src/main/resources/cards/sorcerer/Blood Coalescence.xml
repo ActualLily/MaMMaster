@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost mana="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/c/0cb88075-14f8-4ac9-b947-5ca1d30938f1.jpg?1604195307"/>
-    <type main="Spell"/>
+    <type main="Spell" tribe="Dark"/>
     <description text="Deal up to 10 damage to your commander. "/>
-    <description text="A bonded creature you control gains +X Resilience where X is the number of damage dealt to your commander this way."/>
+    <description text="Then, target allied monster gains +X Resilience where X is the number of damage dealt to your commander this way."/>
 </card>

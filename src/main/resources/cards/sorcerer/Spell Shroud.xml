@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/e/9ea0f387-210f-466c-a5da-9b3aea7d360b.jpg?1630244467"/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Continuous 3"/>
+    <description text="Mana Resource Abilities on Cards you control are Reactions"/>
+</card>

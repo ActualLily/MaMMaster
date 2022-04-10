@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost gold="6"/>
     <stats health="5"/>
-    <type main="Structure"/>
+    <type main="Structure" tribe="Building"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/8/48da33b1-d59c-43f1-8e55-480096b674e5.jpg?1636110493"/>
-    <description text="(>) Create a 1/1 zombie monster in this tile and deal 1 damage to this card."/>
+    <description text="(>) Create a Zombie Token (a 1/1 melee zombie monster) in this tile and deal 1 damage to this card."/>
 </card>

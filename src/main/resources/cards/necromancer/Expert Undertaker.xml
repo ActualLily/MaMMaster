@@ -5,5 +5,5 @@
     <stats attack="1" health="3"/>
     <type main="Unit" tribe="Necromancer" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/9/e99bb258-7b05-4c70-8a67-d7a5709a60ff.jpg?1562785774"/>
-    <description text="(!) When a creature within Range of this card dies, return it to the field under your control with 1 Resilience and it's a zombie instead of its usual subtype."/>
+    <description text="(!) When a creature within Range of this card dies, play it, except it has 1 Resilience and it's a zombie instead of its usual subtype."/>
 </card>

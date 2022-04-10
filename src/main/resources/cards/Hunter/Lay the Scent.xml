@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/2/025af99f-a029-4f99-9c76-676b68821520.jpg?1576384990"/>
+    <description text="Continuous 3"/>
+    <description text="Whenever you return a creature to your hand, deal 2 damage to target creature."/>
+</card>

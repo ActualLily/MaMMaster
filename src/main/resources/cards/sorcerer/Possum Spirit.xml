@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="1"/>
+    <stats attack="2" health="2"/>
+    <type main="Monster" tribe="Spirit" range="Melee"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/962649406321094676/unknown.png"/>
+    <description text="(>) Destroy this card and play a creature"/>
+</card>

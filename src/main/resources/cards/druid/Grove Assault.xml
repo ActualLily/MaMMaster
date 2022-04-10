@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="1"/>
-    <type main="Spell"/>
+    <cost mana="5"/>
+    <type main="Spell" tribe="Sylvan"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/7/e7d3012e-1798-4f72-8d9a-b2d16f817502.jpg?1636755938"/>
     <description text="Deal X damage to target creature or enemy commander. X is equal to the number of copies of [The Forest] you control. "/>
 </card>

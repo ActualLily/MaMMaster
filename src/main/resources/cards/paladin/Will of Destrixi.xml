@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <type main="Spell" tribe="Divine"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/2/c281997b-1566-4469-a14c-6645f81ab023.jpg?1608908650"/>
+    <description text="Unique"/>
+    <description text="Continuous"/>
+    <description text="(>, 1M) Give Penance - Exhaust target paladin you control, put one light counter on this card."/>
+    <description text="For each light counter on this card, Units you control have +1/+1."/>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <type main="Spell" tribe="Divine"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/6/d6b74008-c102-470e-a4a4-57bf319916ee.jpg?1645416718"/>
+    <description text="[3x3]"/>
+    <description text="Deal 2 damage to enemy creatures in target area."/>
+    <description text="Allied creatures in target area gain +2/+2"/>
+</card>

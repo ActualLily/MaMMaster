@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="6"/>
     <stats health="15"/>
     <type main="Commander" tribe="Necromancer"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/937115751792410684/mic-121-liliana-death-s-majesty.jpg"/>
-    <description text="(>, 1M) Overwhelm - Create two 1/1 Melee zombie monsters in your ranks."/>
+    <description text="(>, 1M) Overwhelm - Create two Zombie Tokens (a 1/1 Melee zombie monster)"/>
     <description text="(>, 8M) Consuming Wave - Choose a rank. All allied creatures in that Rank move one tile forward and then make an Elusive melee attack."/>
 </card>

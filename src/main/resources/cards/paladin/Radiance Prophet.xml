@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <stats attack="2" health="3"/>
+    <type main="Unit" tribe="Paladin" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/b/b6/Northshire_Cleric_full.jpg/revision/latest/scale-to-width-down/1000?cb=20151024153210"/>
+    <description text="When this card enters the field, search your deck for a Divine Spell and add it to your hand. "/>
+    <description text="It costs 1 less this turn for each Paladin you control. "/>
+</card>
