@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="2"/>
+    <stats attack="1" health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/b/0b4399b6-e67f-40d8-8676-f5db7e04a6c9.jpg?1572490397"/>
+    <type main="Unit" tribe="Commoner" range="Melee"/>
+    <description text="At the start of your turn, add 2 Gold."/>
+    <description text="(>) Exhaust target Sawmill you control, add 2 Gold."/>
+</card>

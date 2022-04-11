@@ -5,5 +5,5 @@
     <stats attack="2" health="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/4/747223a5-c669-4d0e-a062-265eb47710cd.jpg?1557576852"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
-    <description text=""/>
+    <description text="Token"/>
 </card>

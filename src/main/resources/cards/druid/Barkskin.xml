@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost mana="2"/>
     <type main="Spell" tribe="Sylvan"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/a/3a93c8e2-fb27-43af-83a7-2bd4d40e0eff.jpg?1592516994"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/d/cd273ef2-4aed-4c7e-8c97-fe8b1af9ce69.jpg?1562836071"/>
     <description text="Target creature gains +3 Resilience."/>
     <description text="If the target is occupying [The Forest], it gains +6 Resilience instead"/>
 </card>

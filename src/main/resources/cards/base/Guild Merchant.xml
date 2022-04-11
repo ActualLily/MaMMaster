@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <stats attack="2" health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.jpg?1627705401"/>
+    <type main="Unit" tribe="Commoner" range="Melee"/>
+    <description text="(>) Discard a card from your hand, add gold equal to it’s Gold Cost."/>
+    <description text="(>) Discard a card from your hand, draw a card."/>
+</card>
