@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="0"/>
-    <type main="Structure" tribe="Object"/>
+    <type main="Artefact" tribe="Natural"/>
     <stats health="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1636491428"/>
     <description text="(>) Add a Growth Counter to this card."/>

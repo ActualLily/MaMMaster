@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="0"/>
-    <type main="Structure" tribe="Resource"/>
+    <type main="Structure" tribe="Building"/>
     <stats health="1"/>
     <art path="https://cdna.artstation.com/p/assets/images/images/009/783/810/large/fran-fdez-conceptos-ciencia-produccion.jpg?1520883100"/>
     <description text="Ready"/>

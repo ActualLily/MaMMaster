@@ -5,6 +5,6 @@
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/715e637a-dfd8-45a0-b1ea-53e4abd29307.jpg?1592517669"/>
     <description text="Attach to target structure."/>
-    <description text="Attached structure is controlled by you as if it was in your ranks even if it isn't. "/>
+    <description text="Attached structure is controlled by you."/>
     <description text="If the attached structure takes any damage, destroy this card."/>
 </card>

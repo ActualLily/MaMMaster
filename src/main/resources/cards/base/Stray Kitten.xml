@@ -5,5 +5,5 @@
     <stats attack="0" health="1"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/f/bf0053e1-96c7-40cd-84b2-b213195199c9.jpg?1572373899"/>
-    <description text="Play this card into any Structure, even if it's not in your Ranks."/>
+    <description text="Play this card into any Construct, even if it's not in your Ranks."/>
 </card>

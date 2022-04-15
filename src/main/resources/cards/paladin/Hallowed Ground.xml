@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost mana="5"/>
     <stats health="3"/>
-    <type main="Structure" tribe="Magical"/>
+    <type main="Artefact" tribe="Enchantment"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/9/d9b65d56-7e8c-4864-8ccf-ee2e2190acda.jpg?1559592325"/>
     <description text="Whenever a unit you control is retaliated against, it is healed for 2 after the attack resolves."/>
 </card>

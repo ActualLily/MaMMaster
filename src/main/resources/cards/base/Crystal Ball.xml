@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="4"/>
-    <type main="Structure" tribe="Object"/>
+    <type main="Artefact" tribe="Relic"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/936985473312784394/32s9j4.png"/>
     <stats health="5"/>
     <description text="(>) Choose a card type. Reveal the top card of your deck. If the card type matches your call, draw it, if not, place it on the bottom of your deck."/>

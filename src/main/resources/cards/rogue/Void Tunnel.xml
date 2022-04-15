@@ -4,5 +4,5 @@
     <cost mana="3"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/d/5d6178ed-6353-4733-81e1-7b3dc592c3bd.jpg?1562302252"/>
-    <description text="Target ally moves to a tile containing a structure."/>
+    <description text="Target ally moves to a tile containing a Construct."/>
 </card>

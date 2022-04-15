@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost mana="5"/>
-    <type main="Structure" tribe="Magical"/>
+    <type main="Artefact" tribe="Enchantment"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/0/7096c9a6-2e73-41f8-b20a-b29a9f0b760c.jpg?1572893134"/>
     <stats health="2"/>
     <description text="When this card enters the field, destroy target monster."/>
