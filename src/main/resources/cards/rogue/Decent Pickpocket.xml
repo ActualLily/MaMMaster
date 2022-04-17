@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="1"/>
+    <cost gold="0"/>
     <stats attack="1" health="1"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/1/117d84f7-45c5-4cfc-a5cd-c44416b48417.jpg?1625976076"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="7"/>
-    <stats attack="6" health="5"/>
+    <cost mana="6"/>
+    <stats attack="7" health="7"/>
     <type main="Monster" tribe="Dragon" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/e/5ed1070d-fc21-4f4c-8e6e-5e4a2e6e2dce.jpg?1631587194"/>
-    <description text="(>) Play a Dragon Monster"/>
+    <description text="(>) Play a Dragon Monster for no cost."/>
 </card>

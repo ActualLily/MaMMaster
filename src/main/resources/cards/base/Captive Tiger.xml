@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost Mana="4"/>
+    <cost mana="4"/>
     <stats attack="2" health="4"/>
     <type main="Monster" tribe="Beast" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/c/3c969aa0-b0e5-42cd-abba-0a3c7266142c.jpg?1584830869"/>

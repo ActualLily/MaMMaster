@@ -4,5 +4,5 @@
     <cost gold="5"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/8/e864fd80-baee-468e-9dc3-e650cc203b23.jpg?1638596713"/>
-    <description text="Target enemy unit, destroy it. Opponent gains gold equal to the destroyed unit’s Resilience."/>
+    <description text="Target enemy unit, destroy it. Opponent gains gold equal to the destroyed unit’s Cost"/>
 </card>

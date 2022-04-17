@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats attack="2" health="1"/>
+    <type main="Monster" tribe="Dragon" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/7/07135c4d-b4de-4054-800a-11090ed32692.jpg?1562300282"/>
+    <description text="(>) Add 1 Gold"/>
+</card>

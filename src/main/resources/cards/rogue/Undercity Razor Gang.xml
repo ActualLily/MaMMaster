@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost gold="4"/>
-    <stats attack="3" health="2"/>
+    <stats attack="3" health="4"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
     <art path="https://i.redd.it/rvv808mkic661.jpg"/>
-    <description text="When this card attacks a unit, gain 2 Gold."/>
+    <description text="When this card attacks or retaliates against a unit, add 2 Gold."/>
 </card>

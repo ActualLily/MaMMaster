@@ -6,5 +6,5 @@
     <stats health="3"/>
     <type main="Structure" tribe="Building"/>
     <description text="(>) Search your deck for a [Crystal Ball] and add it to your hand."/>
-    <description text="Cards added to your hand with the effects of [Crystal Ball] cost -1 Mana to play."/>
+    <description text="Cards added to your hand with the ability of [Crystal Ball] cost -1 Mana to play."/>
 </card>

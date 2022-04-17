@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost Mana="0"/>
+    <cost mana="0"/>
     <stats attack="1" health="2"/>
     <type main="Monster" tribe="Zombie" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/5/053b59b4-a22c-4228-aadc-ae9da6bb465e.jpg?1594736452"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <stats attack="1" health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/7/c786ea5b-52ad-4d1b-855e-ce6d0b9af67e.jpg?1562088795"/>
+    <type main="Unit" tribe="Hunter" range="Melee"/>
+    <description text="(>) Add 1 Mana"/>
+</card>

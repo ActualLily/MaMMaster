@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/a/bae6a5fb-39f5-4cf8-85f7-661cb4570507.jpg?1627706864"/>
+    <description text="Add 5 Gold"/>
+    <description text="If this is the first card you played this game, it costs 0M"/>
+</card>

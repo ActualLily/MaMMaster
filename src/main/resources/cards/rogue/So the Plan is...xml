@@ -4,5 +4,5 @@
     <cost gold="10"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1636491537"/>
-    <description text="Target up to 3 allied thieves. Each Target makes an attack that does not cost an action and has Elusive while it does."/>
+    <description text="Target up to 3 allied thieves or assassins. Each Target makes an attack and has Elusive while it does."/>
 </card>
