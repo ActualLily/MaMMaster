@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Artefact" tribe="Relic"/>
+    <stats health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/e/1e8a43c1-42d1-45ef-8a63-4b87775a6e88.jpg?1584831352"/>
+    <description text="(>, 1M) Add a Mana Counter to this card."/>
+    <description text="(>) Add Mana equal to the number of counters on this card, and then remove all counters from this card. "/>
+</card>

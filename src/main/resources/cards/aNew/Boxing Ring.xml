@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="10"/>
+    <type main="Structure" tribe="Building"/>
+    <stats health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/6/86fd3454-efe7-4feb-a6ad-069ae2fdbd18.jpg?1649702140"/>
+    <description text="(>, 4G) Each player chooses up to one Creature they control. Your chosen Creature attacks theirs. Each player whose Creature is not destroyed after the attack adds 6 Gold"/>
+</card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill" tribe="Equipment"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/f/df67ec01-9d4c-4ae1-9c8a-f94d649c81bc.jpg?1648156214"/>
+    <description text="Attach to target Druid Unit or Beast Monster"/>
+    <description text="Attached creature has “(>, 1M) create a [Fragile Crystal]”"/>
+</card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="7"/>
-    <type main="Spell" tribe="Sylvan"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/a/3a93c8e2-fb27-43af-83a7-2bd4d40e0eff.jpg?1592516994"/>
-    <description text="Destroy all Artillery creatures."/>
-    <description text="Deal 3 damage to all creatures that aren’t occupying [The Forest]"/>
-</card>

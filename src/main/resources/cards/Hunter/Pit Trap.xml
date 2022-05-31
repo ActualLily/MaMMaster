@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="5"/>
-    <type main="Skill" tribe="Trap"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/0/109a4596-552a-45dc-88a6-41810d078d66.jpg?1593812890"/>
-    <description text="Instant"/>
-    <description text="When an enemy creature attacks, destroy that creature."/>
-</card>

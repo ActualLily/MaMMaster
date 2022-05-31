@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats attack="2" health="3"/>
+    <cost mana="6"/>
+    <type main="Monster" tribe="Beast" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020"/>
+    <description text="Unique"/>
+    <description text="Lieutenant Druid"/>
+    <description text="Spread the Safety - Whenever this card attacks, Create a copy of [the Forest] in its tile. "/>
+    <description text="One with the Forest - This card has +1 Strength for each copy of [the Forest] you control."/>
+</card>

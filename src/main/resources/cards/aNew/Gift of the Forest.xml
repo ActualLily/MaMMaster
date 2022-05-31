@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell" tribe="Sylvan"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/a/7a3f8878-5928-47ec-bb31-f4ee24ad982b.jpg?1562738151"/>
+    <description text="Attach to target Druid"/>
+    <description text="Attached card’s Shift abilities do not end when it readys"/>
+</card>

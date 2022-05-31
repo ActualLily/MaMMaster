@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="3"/>
-    <type main="Skill" tribe="Talent"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5afe37a0-ccc3-467a-b787-304465b38355.jpg?1627707514"/>
-    <description text="Each creature you control moves."/>
-</card>

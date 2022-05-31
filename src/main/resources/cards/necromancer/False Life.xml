@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="2"/>
-    <type main="Spell" tribe="Dark"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1562880895"/>
-    <description text="Target creature in any discard zone, Play it, except it has 1 Resilience"/>
-</card>

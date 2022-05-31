@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <type main="Structure" tribe="Building"/>
+    <stats health="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/0/1016b884-9a4c-41de-bd65-14271f4f6f9a.jpg?1650029833"/>
+    <description text="(>) Add 1 Gold"/>
+    <description text="(>, 1G) Destroy this card and Add 5 Gold"/>
+</card>

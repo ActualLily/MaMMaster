@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="6"/>
-    <type main="Skill" tribe="Trap"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/6/66470bac-cce0-4e79-82f9-9fb77aa950eb.jpg?1562819218"/>
-    <description text="Instant"/>
-    <description text="When an enemy creature moves, deal 2 damage to that creature, every creature in its File, and the enemy commander."/>
-</card>
