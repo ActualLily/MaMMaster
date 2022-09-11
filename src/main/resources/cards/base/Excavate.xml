@@ -4,5 +4,5 @@
     <cost gold="4"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/e/fed54d00-b11f-4529-864c-63a114617b36.jpg?1624740639"/>
-    <description text="Return an Artefact card from the Discard Zone to your hand"/>
+    <description text="Choose an Artefact in your discard zone and put it in your hand."/>
 </card>

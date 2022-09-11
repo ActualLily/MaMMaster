@@ -4,5 +4,5 @@
     <cost mana="6"/>
     <type main="Spell" tribe="Sylvan"/>
     <art path="https://i.pinimg.com/originals/39/43/ab/3943abe7f4a4afd470111c6002427fcf.jpg"/>
-    <description text="Destroy all creatures that are not occupying [The Forest]"/>
+    <description text="Destroy all creatures that are not occupying a Forest Token"/>
 </card>

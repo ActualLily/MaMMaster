@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="6"/>
+    <cost gold="4"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/5/f50b922e-32dd-4645-b6f4-c07d1a0c70fc.jpg?1627705456"/>
-    <description text="Deal 3 damage to target creature, if it kills it, add 3 Gold"/>
+    <description text="Target a creature. Until your turn ends, it has -3 Resilience. If it is destroyed this turn, draw 1"/>
 </card>

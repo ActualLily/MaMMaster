@@ -5,5 +5,5 @@
     <stats attack="0" health="0"/>
     <type main="Monster" tribe="Aberration" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976"/>
-    <description text="When this card enters the battlefield, it becomes a copy of target Monster."/>
+    <description text="When this card is played, choose a monster, then this card becomes a copy of it."/>
 </card>

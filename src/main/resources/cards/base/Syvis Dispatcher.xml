@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="1"/>
+    <cost gold="2"/>
     <stats attack="1" health="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/e/1e6237d7-454b-4b1b-b732-1adda35d746d.jpg?1562901374"/>
     <type main="Unit" tribe="Commoner" range="Melee"/>
     <description text="Ready"/>
+    <description text="(>) Play a Commoner Unit"/>
 </card>

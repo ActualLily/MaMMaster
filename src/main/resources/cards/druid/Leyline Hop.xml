@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Spell" tribe="Sylvan"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/e/be8b1acf-dd87-42ca-ad19-c27d21066030.jpg?1592516120"/>
+    <description text="Instant"/>
+    <description text="Target a creature occupying a Forest Token, it moves to the same tile as any other Forest Token then gains +2 Resilience"/>
+</card>

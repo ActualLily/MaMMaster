@@ -3,8 +3,8 @@
 <card version="0.1">
     <cost gold="8"/>
     <stats health="4"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Occult"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/2/720652e9-834c-4ac0-8008-b2b16c3b7507.jpg?1562612459"/>
     <description text="(>) Play a Zombie Monster"/>
-    <description text="Allied zombies have +3 Resilience"/>
+    <description text="While this card is on the field, allied zombies have +3 Resilience"/>
 </card>

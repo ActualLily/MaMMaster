@@ -4,6 +4,5 @@
     <cost gold="7"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/1/61b22c5d-3b29-47c1-8a04-13586461a143.jpg?1597684060"/>
-    <description text="Choose an enemy creature."/>
-    <description text="Destroy all creatures with Resilience lower than chosen creature's strength."/>
+    <description text="Choose an enemy creature, then destroy all creatures with Resilience lower than the chosen creature's strength"/>
 </card>

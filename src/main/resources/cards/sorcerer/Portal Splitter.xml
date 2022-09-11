@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <stats attack="4" health="4"/>
+    <type main="Monster" tribe="Aberration" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/5/c5d9286d-449b-4959-98ae-bd6a35be221d.jpg?1625977821"/>
+    <description text="(>) Destroy this card and play a creature"/>
+</card>

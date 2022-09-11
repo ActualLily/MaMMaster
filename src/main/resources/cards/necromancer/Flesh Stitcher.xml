@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="6"/>
+    <cost gold="8"/>
     <stats attack="3" health="5"/>
     <type main="Unit" tribe="Necromancer" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/0/00c57090-c1fe-4100-a03c-95607074280e.jpg?1562799064"/>
-    <description text="When this card enters the field, choose one;"/>
-    <description text="- Zombies you control have +3 Strength"/>
-    <description text="- Zombies you control have +3 Resilience"/>
-    <description text="- Zombies you control have Ranged"/>
+    <description text="When this card is played, choose one;"/>
+    <description text="- While this card is on the field, Allied Zombies have +3 Strength"/>
+    <description text="- While this card is on the field, Allied Zombies have +3 Resilience"/>
+    <description text="- While this card is on the field, Allied Zombies are Ranged"/>
 </card>

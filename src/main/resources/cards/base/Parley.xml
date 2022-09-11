@@ -4,5 +4,6 @@
     <cost gold="1"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1624589549"/>
-    <description text="Both you and your opponent reveal your hands. Choose a card in your opponent's hand and they discard it. Your opponent does the same to you. "/>
+    <description text="Both players reveal their hands."/>
+    <description text="Choose a card in the opponent's hand and destroy it, then the opponent chooses a card in your hand and destroys it."/>
 </card>

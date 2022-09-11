@@ -4,5 +4,5 @@
     <cost mana="2"/>
     <art path="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/li/li130_shriek.jpg"/>
     <type main="Spell" tribe="Arcane"/>
-    <description text="Target card doubles it's Gold counters."/>
+    <description text="Target a construct, double its Gold counters."/>
 </card>

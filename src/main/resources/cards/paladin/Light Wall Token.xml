@@ -6,5 +6,5 @@
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/8/98e43870-4bed-4d76-a633-a6326c736d22.jpg?1562706936"/>
     <type main="Artefact" tribe="Enchantment"/>
     <description text="Token"/>
-    <description text="Creatures cannot enter this Artefacts tile, unless they are allied to the player that created this token"/>
+    <description text="Enemy Creatures cannot enter this tile"/>
 </card>

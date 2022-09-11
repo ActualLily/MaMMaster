@@ -4,6 +4,5 @@
     <cost mana="6"/>
     <type main="Spell" tribe="Sylvan"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/6/06ec9e8b-4bd8-4caf-a559-6514b7ab4ca4.jpg?1557576917"/>
-    <description text="Target creature gains +6/+6."/>
-    <description text="This card costs (4M) if the target is occupying The Forest"/>
+    <description text="Choose a creature, it gains +5/+5. If the chosen card is occupying a Forest token, this card costs 4M. "/>
 </card>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <type main="Spell" tribe="Divine"/>
-    <art path="https://art.hearthstonejson.com/v1/256x/CS3_016.jpg"/>
-    <description text="Target allied unit makes a Range attack and has +2 strength while it does."/>
-</card>

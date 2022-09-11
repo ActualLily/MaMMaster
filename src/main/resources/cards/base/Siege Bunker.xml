@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost gold="4"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Military"/>
     <stats health="8"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/5/35a65437-430a-42ef-854f-6e66f8e1a04a.jpg?1562907598"/>
-    <description text="Damage dealt to occupying creatures is negated and dealt to this card instead."/>
+    <description text="When a creature occupying this card takes damage, prevent it, then deal damage to this card equal to the prevented damage."/>
 </card>

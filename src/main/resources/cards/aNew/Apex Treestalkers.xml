@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="7"/>
-    <stats attack="5" health="5"/>
-    <type main="Unit" tribe="Druid" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.jpg?1615522751"/>
-    <description text="(2M) Shift (Beast), choose either +3 Strength or +3 Resilience."/>
-</card>

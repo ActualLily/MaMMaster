@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="2"/>
-    <stats attack="2" health="2"/>
-    <type main="Unit" tribe="Druid" range="Ranged"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/8/28cb4bcd-8a74-47b2-90d3-36eb4f66402d.jpg?1562603150"/>
-    <description text="(1M) Shift (Beast), Gain +3 Strength and become Melee"/>
-</card>

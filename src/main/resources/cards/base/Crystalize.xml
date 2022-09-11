@@ -4,6 +4,6 @@
     <cost mana="1"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/d/cd0e9e1b-bd37-43a7-abd3-4582315a268d.jpg?1562644250"/>
-    <description text="Attach to target creature"/>
-    <description text="Attached card cannot move or attack, and gains “(>) add 1 mana”"/>
+    <description text="Attach to a creature"/>
+    <description text="Attached card cannot move or attack, and has '(>) add 1 mana'"/>
 </card>

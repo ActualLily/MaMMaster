@@ -4,5 +4,5 @@
     <cost mana="1"/>
     <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/3/a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691.jpg?1631047222"/>
-    <description text="Deal 2 damage to target creature. It is exhausted next turn. "/>
+    <description text="Target a creature, deal 2 damage to it and Stun it."/>
 </card>

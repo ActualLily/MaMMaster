@@ -4,7 +4,7 @@
     <cost mana="2"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/715e637a-dfd8-45a0-b1ea-53e4abd29307.jpg?1592517669"/>
-    <description text="Attach to target structure."/>
-    <description text="Attached structure is controlled by you."/>
-    <description text="If the attached structure takes any damage, destroy this card."/>
+    <description text="Attach to a Building."/>
+    <description text="The attached card is allied."/>
+    <description text="When the attached card takes damage, destroy this card."/>
 </card>

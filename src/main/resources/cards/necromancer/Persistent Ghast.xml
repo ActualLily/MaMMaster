@@ -5,5 +5,5 @@
     <stats attack="3" health="2"/>
     <type main="Monster" tribe="Spirit" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/2/623c9804-42c4-4b69-bc39-f70d96929d07.jpg?1561944354"/>
-    <description text="If this card would move from your discard zone to the field, create a copy instead."/>
+    <description text="When you play this card, if it was in your discard zone, create a copy of it instead. "/>
 </card>

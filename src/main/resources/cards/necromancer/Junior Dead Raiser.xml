@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="2"/>
+    <cost gold="3"/>
     <stats attack="2" health="1"/>
     <type main="Unit" tribe="Necromancer" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/4/84b5f6da-5e0f-4cce-92fe-7aa69124e265.jpg?1626096237"/>
-    <description text="When you play this card, create a 1/1 melee zombie monster."/>
+    <description text="When you play this card, create a Zombie Token (a 1/1 melee zombie monster)"/>
 </card>

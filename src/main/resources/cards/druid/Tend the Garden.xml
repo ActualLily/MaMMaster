@@ -4,6 +4,5 @@
     <cost gold="5"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/9/9f/Nourish_full.png/revision/latest?cb=20151003034405"/>
-    <description text="Create 1 [Mana Crystal] and draw a card."/>
-    <description text="If you control at least 5 copies of [The Forest], create 2 [Mana Crystal]s and draw 2 cards instead."/>
+    <description text="Add 1 Mana and draw a card. If there are at least 5 allied Forest Tokens, add 2 Mana and draw 2 cards instead."/>
 </card>

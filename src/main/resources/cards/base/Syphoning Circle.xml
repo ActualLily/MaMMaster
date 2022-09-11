@@ -5,5 +5,5 @@
     <type main="Artefact" tribe="Enchantment"/>
     <stats health="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.jpg?1627702592"/>
-    <description text="All creatures in this Rank have “(>) Add 1 Mana.”"/>
+    <description text="While this card is on the field, allied creatures in this Rank have “(>) Add 1 Mana.”"/>
 </card>

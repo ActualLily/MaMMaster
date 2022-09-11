@@ -5,5 +5,5 @@
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/4/247939d9-87e9-4f01-b223-fb4cfa7dbbe1.jpg?1562846529"/>
     <type main="Spell" tribe="Arcane"/>
     <description text="Instant"/>
-    <description text="When you play a Spell or activate a reaction ability, Add 3 mana."/>
+    <description text="When you play a Spell or activate an ability, Add 3 mana."/>
 </card>

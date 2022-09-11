@@ -5,5 +5,5 @@
     <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/e/8eb38041-043a-4b18-9d9a-f1283684e8f1.jpg?1636131216"/>
     <description text="Continuous"/>
-    <description text="Whenever you play a creature, create a Zombie Token (a 1/1 melee zombie monster) as well."/>
+    <description text="When you play a creature, create a Zombie Token (a 1/1 melee zombie monster) as well"/>
 </card>

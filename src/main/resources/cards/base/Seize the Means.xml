@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="6"/>
+    <cost gold="10"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/3/b3b7a69c-75d2-49a6-ab56-ef608d0b0208.jpg?1631049630"/>
     <description text="Continuous"/>
-    <description text="When this card is played, exhaust all allied units. Put a Refund Counter on this card for each creature exhausted this way."/>
-    <description text="Whenever you would pay a gold cost, remove a Refund Counter from this card instead. Destroy this card when it has no counters on it."/>
+    <description text="When this card is played, exhaust all allied units and buildings. For each creature exhausted this way, put a Refund Counter on this card."/>
+    <description text="When you play a Unit, Skill, or Building, remove a Refund Counter from this card and play the card for free instead."/>
+    <description text="When this card has no counters on it, destroy it."/>
 </card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="3"/>
+    <type main="Skill" tribe="Knack"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.jpg?1654116944"/>
+    <description text="Target a creature and Choose an allied Monster."/>
+    <description text="Chosen card deals damage to the target equal to its strength."/>
+</card>

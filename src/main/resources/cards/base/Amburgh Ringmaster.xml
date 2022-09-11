@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="12"/>
+    <cost gold="15"/>
     <stats attack="6" health="5"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/9/9f/Ringmaster_Whatley_full.jpg/revision/latest?cb=20201106204740"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
     <description text="Unique"/>
-    <description text="When this card enters the field, play any number of Unit or Skill cards."/>
+    <description text="When this card is played, play any number of Unit or Skill cards for no cost."/>
 </card>

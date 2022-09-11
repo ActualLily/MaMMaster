@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <type main="Spell" tribe="Sylvan"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/7/677166cf-4e1e-43ac-a67b-afaf33c0d14e.jpg?1562202227"/>
+    <description text="Continuous 2"/>
+    <description text="Target a 2x2 area. While this card is on the field, forest tokens in it have '(>) Destroy this card, then play a Creature.'"/>
+</card>

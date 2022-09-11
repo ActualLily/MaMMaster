@@ -5,5 +5,5 @@
     <stats attack="6" health="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1640088167"/>
     <type main="Unit" tribe="Soldier" range="Melee"/>
-    <description text="If this card has taken no damage, and would be destroyed by damage, it isn't, then remove all damage from this card."/>
+    <description text="When at least 3 damage is dealt to this card, prevent that damage."/>
 </card>

@@ -4,7 +4,5 @@
     <cost mana="5"/>
     <type main="Spell" tribe="Divine"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/6/d6b74008-c102-470e-a4a4-57bf319916ee.jpg?1645416718"/>
-    <description text="[3x3]"/>
-    <description text="Deal 2 damage to enemy creatures in target area."/>
-    <description text="Allied creatures in target area gain +2/+2"/>
+    <description text="Target a 3x3 area. Deal 2 damage to enemy creatures in area. Allied creatures in target area gain +2/+2."/>
 </card>

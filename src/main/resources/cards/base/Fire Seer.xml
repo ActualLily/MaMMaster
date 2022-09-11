@@ -4,6 +4,6 @@
     <cost gold="6"/>
     <stats attack="2" health="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/f/6fdc6fcf-2fd7-4751-b352-0992bc880132.jpg?1631587258"/>
-    <type main="Unit" tribe="Diviner" range="Melee"/>
-    <description text="(>, 2M) Return the top card of your discard pile to the top of your deck."/>
+    <type main="Unit" tribe="Diviner" range="Ranged"/>
+    <description text="(>, 2M) Choose a Power in your discard zone and put it on top of your deck."/>
 </card>

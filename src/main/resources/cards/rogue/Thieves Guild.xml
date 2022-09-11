@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost gold="8"/>
     <stats health="6"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Criminal"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2b7faa71-72f3-4b64-b6e2-d05ebd9c705d.jpg?1604196105"/>
-    <description text="(>) Your opponent loses gold and you gain gold both equal to twice the number of Thieves in this Rank"/>
+    <description text="(>) For each Thief Unit in this rank, add 2 Gold and the opponent pays 2 Gold"/>
 </card>

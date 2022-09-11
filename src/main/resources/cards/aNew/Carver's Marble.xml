@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="4"/>
-    <type main="Artefact" tribe="Relic"/>
-    <stats health="1"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/9/0930f71c-c3c8-4bdd-8468-6a61349cc8ca.jpg?1652822135"/>
-    <description text="(>) This card becomes a copy of target Artefact"/>
-</card>

@@ -5,5 +5,5 @@
     <stats attack="3" health="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/6/6653ed3b-2a82-4e22-a9ca-18da5da94990.jpg?1562610873"/>
     <type main="Unit" tribe="Diviner" range="Melee"/>
-    <description text="When this card enters the field, reveal the card on the bottom of your deck. You may move it to the top."/>
+    <description text="When this card is played, reveal the bottom card of your deck. You may put it on the top."/>
 </card>

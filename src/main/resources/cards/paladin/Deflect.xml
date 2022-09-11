@@ -5,5 +5,5 @@
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/c/ec06e42f-e294-44ef-8fa8-1d1a4c2090d8.jpg?1592708282"/>
     <description text="Instant"/>
-    <description text="When an enemy creature targets a unit you control with a Range attack, negate the damage and deal it to the attacker instead."/>
+    <description text="Choose an allied Unit being attacked by an enemy Range or Artillery Creature. Negate the damage then deal that much damage to the attacker."/>
 </card>

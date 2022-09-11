@@ -5,5 +5,5 @@
     <stats attack="2" health="3"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/e/e4/Deck_of_Lunacy_full.jpg/revision/latest?cb=20201121055223"/>
     <type main="Unit" tribe="Diviner" range="Melee"/>
-    <description text="When this card enters the field, search your deck for one skill and one spell then reveal them. Opponent chooses one to go to the top of your deck and the other goes on the bottom. "/>
+    <description text="When this card is played, choose a skill and a spell in your deck and reveal them, then shuffle. The opponent chooses one of the revealed cards. Put the Chosen card on the bottom of your deck and the other on the top."/>
 </card>

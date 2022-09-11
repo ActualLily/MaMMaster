@@ -5,5 +5,5 @@
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/9/79248b68-4fab-46da-ab15-5c71c1f68d4b.jpg?1568004683"/>
     <description text="Continuous 3"/>
-    <description text="Whenever you play a creature, draw a card."/>
+    <description text="When you play a creature, draw a card."/>
 </card>

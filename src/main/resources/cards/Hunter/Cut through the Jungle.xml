@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="5"/>
+    <cost gold="10"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/9/f9ae7693-a6b5-42f8-9f05-c0643b95a710.jpg?1627708646"/>
-    <description text="Destroy any number of Structures you control with Gold Resource Abilities, then play that many Units"/>
+    <description text="Choose any number of allied Buildings with Gold Resource abilities, destroy them, then play that many Units for free."/>
 </card>

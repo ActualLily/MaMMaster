@@ -4,6 +4,6 @@
     <stats health="15"/>
     <type main="Commander" tribe="Sorcerer"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/937022820674846730/war-56-kasmina-enigmatic-mentor.jpg"/>
-    <description text="(>,1M) Blood Bond - Target allied Monster gains ‘When this creature is destroyed, you may immediately pay it’s cost to play it.’"/>
-    <description text="(5M) Arcana Exemplar - Spells in your hand cost 2M less and have Instant this turn."/>
+    <description text="(1M) Channel Through - When an allied Monster attacks, if it’s the first attack this turn, play a Spell."/>
+    <description text="(>, 5M) Arcana Exemplar - Until the start of your next turn, Spells in your hand cost 2M less and have Instant."/>
 </card>

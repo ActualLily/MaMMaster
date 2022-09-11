@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="10"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/d/6df5d9dc-e4d9-42d6-8a5e-40ac04bc3dc8.jpg?1661583438"/>
+    <stats health="6"/>
+    <type main="Building" tribe="Civilian"/>
+    <description text="(>) Play a Spell"/>
+    <description text="While this card is on the field, when you play a spell, for each creature in this file, that spell costs 1M less."/>
+</card>

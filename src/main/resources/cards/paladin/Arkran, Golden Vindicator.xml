@@ -6,6 +6,6 @@
     <type main="Monster" tribe="Dragon" range="Melee"/>
     <art path="https://static.wikia.nocookie.net/wowpedia/images/7/76/Nozdormu_the_Timeless.jpg/revision/latest/scale-to-width-down/1000?cb=20191104202353"/>
     <description text="Unique"/>
-    <description text="This card costs 1 less Mana for each Paladin Unit in your discard zone."/>
-    <description text="When this card enters the field, play up to 3 Paladin Units from your hand. Deal 1 damage to each enemy creature for each Paladin played this way."/>
+    <description text="When this card is played, it costs 1M less for each Paladin Unit and Dragon Monster in your discard zone. "/>
+    <description text="When this card is played, you may play up to 3 Paladin Units for free. Deal 1 damage to each enemy creature for each Paladin played this way."/>
 </card>

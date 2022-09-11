@@ -5,6 +5,5 @@
     <stats attack="3" health="3"/>
     <type main="Unit" tribe="Sorcerer" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/d/bd41352f-617f-40f6-b612-11022180c18b.jpg?1562740934"/>
-    <description text="(!) When an enemy plays a spell, destroy it, then deal 3 damage to this card."/>
-    <description text="If this card survives this damage, you may pay (1M) to create a copy of the destroyed spell, and play it for no cost."/>
+    <description text="(!) When the opponent plays a spell, destroy it, then deal 3 damage to this card. Then, if this card is not destroyed, you may pay (1M) to play a copy of that spell for free."/>
 </card>

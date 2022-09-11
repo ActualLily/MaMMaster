@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="10"/>
+    <type main="Building" tribe="Civilian"/>
+    <stats health="8"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/2/628eda6f-f88e-4d82-a884-d1537302adb4.jpg?1653866996"/>
+    <description text="(>, 5G) Add 10 Gold."/>
+    <description text="While this card is on the field, your Gold limit is increased by 5."/>
+    <description text="When this card is played, choose a card in your deck and attach it to this card face down."/>
+    <description text="When this card is destroyed, you may play the attached card for free."/>
+</card>

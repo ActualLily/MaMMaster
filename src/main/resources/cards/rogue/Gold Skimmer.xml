@@ -5,5 +5,5 @@
     <stats attack="0" health="4"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1627710070"/>
-    <description text="This card’s strength is equal to the number of Structures with Gold Resource Abilities you control that are Ready."/>
+    <description text="This card’s strength is equal to the number of allied Buildings with Gold Resource Abilities that are Ready."/>
 </card>

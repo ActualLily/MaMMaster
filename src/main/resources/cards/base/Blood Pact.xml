@@ -5,5 +5,5 @@
     <art path="https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/boab/boab54_sanguineBondSplash.jpg"/>
     <type main="Spell" tribe="Dark"/>
     <description text="Continuous 3"/>
-    <description text="Any time you would spend mana to play a card, you may spend an equal amount of your commander’s Health instead."/>
+    <description text="When you play a spell, you may pay commander health equal to the cost of the spell. If you do, the spell costs 0M."/>
 </card>

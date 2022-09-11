@@ -2,8 +2,8 @@
 
 <card version="0.1">
     <cost mana="2"/>
-    <stats attack="4" health="2"/>
+    <stats attack="3" health="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/0/808d06bb-1467-4c91-965e-bf8874ffa5e6.jpg?1592710792"/>
     <type main="Monster" tribe="Aberration" range="Melee"/>
-    <description text=""/>
+    <description text="Ready"/>
 </card>

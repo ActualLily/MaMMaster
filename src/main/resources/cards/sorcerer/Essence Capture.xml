@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/7/b7ad4441-e300-4267-bedb-4ae6a64f59cd.jpg?1661528322"/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Attach to a creature"/>
+    <description text="Attached card has no effects or abilities"/>
+</card>

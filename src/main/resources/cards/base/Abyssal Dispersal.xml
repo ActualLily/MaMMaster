@@ -5,5 +5,5 @@
     <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/5/d544553a-6b8b-475b-9d10-a932610bf474.jpg?1641602529"/>
     <description text="Continuous 3"/>
-    <description text="(!) When an enemy plays a spell, deal damage to your commander equal to its cost to destroy it."/>
+    <description text="(!) When the opponent plays a spell, you may pay commander health equal to its cost. If you do, destroy it. "/>
 </card>

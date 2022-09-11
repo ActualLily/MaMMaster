@@ -4,5 +4,5 @@
     <cost mana="1"/>
     <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/4/94ac96b6-5e67-43fb-ba65-fbcccb82bf1c.jpg?1625192695"/>
-    <description text="Destroy target creature, then your commander takes 4 damage"/>
+    <description text="Target a creature, destroy it, then deal 4 damage to your commander"/>
 </card>

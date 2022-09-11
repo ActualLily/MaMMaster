@@ -4,5 +4,5 @@
     <cost mana="1"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/7/78/Prize_Coin_full.jpg/revision/latest/scale-to-width-down/484?cb=20210127154710"/>
-    <description text="Target allied creature regains its action. At the end of your turn, destroy it."/>
+    <description text="Choose an allied creature, it has an additional action this turn. At the end of your turn, destroy it."/>
 </card>

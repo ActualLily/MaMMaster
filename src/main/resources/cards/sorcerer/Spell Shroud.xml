@@ -5,5 +5,5 @@
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/e/9ea0f387-210f-466c-a5da-9b3aea7d360b.jpg?1630244467"/>
     <type main="Spell" tribe="Arcane"/>
     <description text="Continuous 3"/>
-    <description text="Mana Resource Abilities on Cards you control are Reactions"/>
+    <description text="While this card is on the field, Mana Resource Abilities of allied Creatures and Constructs that cost an Action are Reactions instead."/>
 </card>

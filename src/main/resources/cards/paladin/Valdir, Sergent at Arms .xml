@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="8"/>
+    <stats attack="5" health="5"/>
+    <type main="Unit" tribe="Paladin" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/2/52de8fc6-6d9b-402e-a6c8-4c39b0c92f07.jpg?1558667570"/>
+    <description text="Unique"/>
+    <description text="Praesidium Lieutenant "/>
+    <description text="Commanding Presence - When this card destroys a creature, all allied units gain +1/+1"/>
+    <description text="(>, 1M) Radiant Light - Target an adjacent creature, it takes 3 damage or has +3 resilience until end of turn."/>
+</card>

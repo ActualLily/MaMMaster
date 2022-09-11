@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill" tribe="Talent"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/0/20fc5ff1-b8bd-44d5-a659-17eeae06736a.jpg?1562826904"/>
+    <description text="Continuous 3"/>
+    <description text="When you play a Creature, create a Wolf Token (a 2/2 melee Beast Monster)"/>
+</card>

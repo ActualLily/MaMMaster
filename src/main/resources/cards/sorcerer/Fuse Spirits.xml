@@ -4,6 +4,5 @@
     <cost mana="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/2/f2fa5133-c238-47e8-befd-3729a3e4303a.jpg?1594736835"/>
     <type main="Spell" tribe="Arcane"/>
-    <description text="Destroy target allied Monster."/>
-    <description text="Then, target allied Monster gains stats equal to the destroyed creature’s stats."/>
+    <description text="Target an allied Monster, destroy it, then choose an allied Monster, it gains stats equal to the targets stats. "/>
 </card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="4"/>
-    <stats attack="2" health="3"/>
-    <type main="Unit" tribe="Druid" range="Ranged"/>
-    <art path="https://cdn.discordapp.com/attachments/380783567208448000/908996052722540554/unknown.png"/>
-    <description text="(2M) Shift (Beast), Gain +2 Resilience, and if this card is not occupying [The Forest], draw a card."/>
-</card>

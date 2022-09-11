@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://www.artofmtg.com/wp-content/uploads/2021/03/Khalni-Territory-Zendikar-Rising-MtG-Art.jpg"/>
+    <description text="Continuous"/>
+    <description text="When your turn starts, add 1 Gold"/>
+    <description text="When your turn starts, add Mana equal to the number of Mana Counters on this card."/>
+    <description text="(>, 5G) Put a mana counter on this card."/>
+</card>

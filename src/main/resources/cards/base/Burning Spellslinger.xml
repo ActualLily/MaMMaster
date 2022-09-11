@@ -5,5 +5,5 @@
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/1/8169929c-641f-41c8-a48e-1a7d0c57726b.jpg?1619394723"/>
     <stats attack="3" health="3"/>
     <type main="Unit" tribe="Evoker" range="Ranged"/>
-    <description text="Spells you play that deal damage, deal +1 damage. "/>
+    <description text="When you play a spell that deals damage, it deals an additional 1 damage. "/>
 </card>

@@ -5,5 +5,5 @@
     <stats attack="2" health="5"/>
     <type main="Unit" tribe="Sorcerer" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/b/0b6dfe49-9fd6-4fa0-b73e-e6470d8e7ca7.jpg?1562897186"/>
-    <description text="When this card deals damage, add 1 Mana"/>
+    <description text="When this card attacks, add 1 Mana"/>
 </card>

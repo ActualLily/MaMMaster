@@ -4,5 +4,5 @@
     <cost gold="5"/>
     <type main="Skill" tribe="Knack"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/c/5c62ea13-9bd5-46ce-a861-68cf9a2c6f8c.jpg?1603555430"/>
-    <description text="Target a Unit and a Monster you control, they both gain +3/+3."/>
+    <description text="Choose an allied Unit and an allied Monster, they gain +3/+3."/>
 </card>

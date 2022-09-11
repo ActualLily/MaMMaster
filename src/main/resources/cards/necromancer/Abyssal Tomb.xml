@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats health="6"/>
+    <type main="Building" tribe="Occult"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/8/48da33b1-d59c-43f1-8e55-480096b674e5.jpg?1636110493"/>
+    <description text="(>) Deal 1 damage to this card, then create a Zombie Token (a 1/1 melee zombie monster)"/>
+</card>

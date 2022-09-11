@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="2"/>
-    <type main="Skill" tribe="Talent"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/7/a7895890-a774-4c7c-9f15-78b8aadfd9ef.jpg?1576384931"/>
-    <description text="Target Structure you control moves to another tile in your ranks, then put a gold counter on it."/>
-</card>

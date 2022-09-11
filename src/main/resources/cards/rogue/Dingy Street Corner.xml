@@ -3,7 +3,7 @@
 <card version="0.1">
     <cost gold="6"/>
     <stats health="4"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Criminal"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/c/1c1f543b-2222-4ef5-b4f7-2c3d2ea27fdc.jpg?1561818387"/>
-    <description text="While occupied by a unit, Units in this rank have +1 Resilience, and Thieves in this rank have an additional +1 Resilience."/>
+    <description text="While a unit occupies this card, all Units in this rank have +1 Resilience and Thief units in this rank have an additional +1 Resilience.."/>
 </card>

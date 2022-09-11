@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://pbs.twimg.com/media/B7wnkYHCAAAzjHp.jpg"/>
+    <description text="Attach to a Building and destroy all creatures in its tile."/>
+    <description text="Attached card is an Aberration Monster, its stats are both equal to its Health."/>
+</card>

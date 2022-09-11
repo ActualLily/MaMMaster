@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="0"/>
+    <stats health="1"/>
+    <type main="Artefact" tribe="Natural"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/2/12ccc686-bbaa-4c34-a7b8-a1e763fe0ad0.jpg?1650426113"/>
+    <description text="(>) Add 1 Mana"/>
+    <description text="(>, 1M) Create a Forest Token"/>
+</card>

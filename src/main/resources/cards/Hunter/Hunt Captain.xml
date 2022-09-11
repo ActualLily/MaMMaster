@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="10"/>
+    <stats attack="4" health="5"/>
+    <type main="Unit" tribe="Hunter" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/4/f4072640-0f9b-4f0a-84cc-eda415cc92e7.jpg?1653531653"/>
+    <description text="When you put an allied creature in your hand, this card gains +1/+1."/>
+</card>

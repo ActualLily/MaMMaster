@@ -5,5 +5,5 @@
     <stats attack="6" health="4"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/8/585c11e2-4c30-436c-9dbd-354b154f6def.jpg?1562829524"/>
-    <description text="When this card enters the field, return target allied creature to your hand."/>
+    <description text="When this card is played, choose an allied creature and put it in your hand."/>
 </card>

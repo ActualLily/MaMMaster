@@ -5,5 +5,5 @@
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/8/b883113c-e52b-4633-b4a4-016093327b6a.jpg?1562835117"/>
     <type main="Spell" tribe="Arcane"/>
     <description text="Instant"/>
-    <description text="When an enemy plays a spell, destroy it."/>
+    <description text="When the opponent plays a spell, destroy it."/>
 </card>

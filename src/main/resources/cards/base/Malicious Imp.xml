@@ -5,5 +5,5 @@
     <stats attack="4" health="1"/>
     <type main="Monster" tribe="Demon" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/4/846f5cda-3d93-4dfd-b1c3-1dff7b814d98.jpg?1562737863"/>
-    <description text="When this card enters the field, deal 2 damage to an allied creature or commander."/>
+    <description text="When this card is played, target an allied creature or commander and deal 2 damage to it. "/>
 </card>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="5"/>
+    <cost mana="6"/>
     <stats attack="5" health="4"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
     <description text="(>) Play a Beast Monster."/>
+    <description text="(>, 4M) All allied Beast Monsters gain +1/+1"/>
 </card>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/2/92eba33e-efea-4e58-a832-1c6049fb211f.jpg?1624591454"/>
-    <type main="Spell" tribe="Arcane"/>
-    <description text="Your opponent loses 5 Gold and you gain 5 Gold"/>
-</card>

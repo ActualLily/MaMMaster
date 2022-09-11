@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="5"/>
+    <cost mana="6"/>
     <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/b/7b83536a-efa4-41f3-9424-75b0efc0aea5.jpg?1580014163"/>
     <description text="Continuous"/>
-    <description text="Creatures in your discard zone are Playable"/>
-
+    <description text="Creatures in your discard zone are Playable. "/>
 </card>

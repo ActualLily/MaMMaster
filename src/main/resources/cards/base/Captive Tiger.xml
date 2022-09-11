@@ -5,5 +5,5 @@
     <stats attack="2" health="4"/>
     <type main="Monster" tribe="Beast" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/c/3c969aa0-b0e5-42cd-abba-0a3c7266142c.jpg?1584830869"/>
-    <description text="This card has +1 Strength for each Thief you control"/>
+    <description text="While this card is on the field, for each allied Thief, this card has +1 Strength"/>
 </card>

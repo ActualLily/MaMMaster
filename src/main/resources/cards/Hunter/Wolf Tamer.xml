@@ -5,6 +5,5 @@
     <stats attack="2" health="2"/>
     <type main="Unit" tribe="Hunter" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1636224412"/>
-    <description text="When this card enters the field, create a Wolf Token (a 2/2 Melee Beast Monster)"/>
-    <description text="When you play this card, you may pay 1M, if you do, create 2 Wolf Tokens instead."/>
+    <description text="When this card is played, create a Wolf Token (a 2/2 Melee Beast Monster) and you may pay 1M. If you do, create 2 Wolf Tokens instead."/>
 </card>

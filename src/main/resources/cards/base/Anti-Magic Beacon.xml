@@ -4,6 +4,6 @@
     <cost gold="8"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/9/39c9e4b5-364b-4c0b-bb47-266563a6abf2.jpg?1572893511"/>
     <stats health="5"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Military"/>
     <description text="(!, 3M) When the opponent plays a spell, destroy it."/>
 </card>

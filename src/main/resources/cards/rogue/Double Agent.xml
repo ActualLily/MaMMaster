@@ -4,5 +4,5 @@
     <cost gold="4"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/1/d1f20feb-b1ed-4d80-bef9-f3cc44ffb7b0.jpg?1562564388"/>
-    <description text="Target enemy unit deals damage to its owners commander equal to its strength"/>
+    <description text="Target an enemy unit, it deals damage to its owners commander equal to its strength"/>
 </card>

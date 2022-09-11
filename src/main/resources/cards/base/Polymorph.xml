@@ -4,5 +4,5 @@
     <cost mana="2"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/f/1f9719c8-2dfe-4141-9ede-2ee3a282b5e9.jpg?1562433489"/>
-    <description text="Destroy target creature, it’s controller creates a Bear Token (a 3/3 melee Beast Monster) in the same tile."/>
+    <description text="Target a creature and destroy it, its player creates a Bear Token (a 3/3 melee Beast Monster) in its tile."/>
 </card>

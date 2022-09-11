@@ -5,5 +5,5 @@
     <stats attack="3" health="2"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/5/51/Auspicious_Spirits_full.jpg/revision/latest?cb=20210127141839"/>
     <type main="Unit" tribe="Diviner" range="Melee"/>
-    <description text="When this card enters the field, look at the top 3 cards of your deck, then put them back in any order."/>
+    <description text="When this card is played, look at the top 3 cards of your deck and put them on top in any order."/>
 </card>

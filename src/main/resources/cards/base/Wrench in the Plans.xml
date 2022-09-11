@@ -4,5 +4,6 @@
     <cost gold="3"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/a/3ad5c175-581c-4fdd-b008-e7d10b0928c7.jpg?1576381778"/>
-    <description text="Destroy target Skill"/>
+    <description text="Instant"/>
+    <description text="Target a skill, destroy it unless the opponent pays 4G."/>
 </card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="6"/>
-    <type main="Structure" tribe="Building"/>
-    <stats health="3"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459"/>
-    <description text="(>) Choose a Monster you control and up to one Monster your opponent controls. Exhaust both and Add Gold equal to your Monster’s Resilience"/>
-</card>

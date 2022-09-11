@@ -5,5 +5,5 @@
     <stats attack="1" health="2"/>
     <type main="Unit" tribe="Soldier" range="Melee"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/d/d1/Recruiter_full.png/revision/latest/scale-to-width-down/400?cb=20150828233627"/>
-    <description text="(>) Play a Soldier Unit that costs 4G or less."/>
+    <description text="(>) Play a Soldier Unit"/>
 </card>

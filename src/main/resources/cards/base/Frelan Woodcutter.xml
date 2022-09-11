@@ -2,7 +2,7 @@
 
 <card version="0.1">
     <cost gold="3"/>
-    <stats attack="1" health="2"/>
+    <stats attack="3" health="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/c/cc329134-4b71-4c33-8cfb-c3867a733115.jpg?1576384953"/>
     <type main="Unit" tribe="Commoner" range="Melee"/>
     <description text="(>) Add 2 Gold"/>

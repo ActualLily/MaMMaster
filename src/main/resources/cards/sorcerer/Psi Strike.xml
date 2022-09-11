@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="1"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/3/037d6277-1fc3-41a4-ade6-7cca10535b0f.jpg?1562781919"/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Destroy a spell in your hand and Target a creature, then deal 4 damage to it."/>
+</card>

@@ -4,5 +4,5 @@
     <cost mana="1"/>
     <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/e/ce7b626d-8536-4c57-b075-8320fcf1cdec.jpg?1630187364"/>
-    <description text="Target allied zombie is destroyed. Add 4 Mana."/>
+    <description text="Target an allied zombie and destroy it, then add 4 Mana."/>
 </card>

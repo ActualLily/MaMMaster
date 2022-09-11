@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="8"/>
+    <cost mana="4"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ea4dfdd7-f35a-45d6-9fc7-2c096f92dd5f.jpg?1568003750"/>
     <stats health="3"/>
     <type main="Artefact" tribe="Relic"/>
-    <description text="While a unit occupies, at the start of your turn Add 5 Mana"/>
+    <description text="While a Unit occupies this card, when your turn starts, Add 2 Mana"/>
 </card>

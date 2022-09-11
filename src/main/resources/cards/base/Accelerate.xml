@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/908417121279680602/akh-220-prepare.jpg"/>
+    <description text="Continuous 2"/>
+    <description text="Attach to an allied creature."/>
+    <description text="Attached card has an additional action. "/>
+</card>

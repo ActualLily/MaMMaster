@@ -4,7 +4,6 @@
     <cost mana="3"/>
     <type main="Spell" tribe="Sylvan"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/7/f717a468-696c-4a84-b943-75046138f2bf.jpg?1562001982"/>
-    <description text="[2x2]"/>
     <description text="Continuous 2"/>
-    <description text="Units cannot use their action to move while in the target area. Your units are not affected by this spell if they are occupying The Forest"/>
+    <description text="Target a 2x2 area. Units in it cannot move. If an allied creature in the area is occupying a Forest Token, it is unaffected by this spell."/>
 </card>

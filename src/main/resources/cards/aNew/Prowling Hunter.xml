@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="1"/>
-    <stats attack="1" health="2"/>
-    <type main="Unit" tribe="Druid" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/7/97ab4974-d0a4-4033-b150-8928b46dc626.jpg?1562927121"/>
-    <description text="(1M) Shift (Beast), Gain +2 Strength and move 1 tile."/>
-</card>

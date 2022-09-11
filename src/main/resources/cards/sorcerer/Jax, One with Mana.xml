@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="6"/>
+    <stats attack="2" health="3"/>
+    <type main="Monster" tribe="Aberration" range="Artillery"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/8/786ae686-0790-4ba1-927f-523984331549.jpg?1608909123"/>
+    <description text="Unique"/>
+    <description text="Imperium Lieutenant"/>
+    <description text="Familiar Flock - When this card is played, choose 3 Monsters in your deck and play them for no cost, they are ready, then put a Bond Counter on each of them."/>
+    <description text="When this card is destroyed, destroy all allied creatures with Bond Counters."/>
+</card>

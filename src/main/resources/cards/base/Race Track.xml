@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Building" tribe="Civilian"/>
+    <stats health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459"/>
+    <description text="(>) Choose an allied Monster and up to one enemy Monster. Exhaust both creatures, then add Gold equal to the allied Monster’s Resilience"/>
+</card>

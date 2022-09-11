@@ -5,5 +5,5 @@
     <type main="Spell" tribe="Divine"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/f/2fb6587b-a945-4dce-8985-c4bce3c7de71.jpg?1559335424"/>
     <description text="Instant"/>
-    <description text="When your commander would take damage, negate that damage."/>
+    <description text="When your commander takes damage, prevent that damage."/>
 </card>

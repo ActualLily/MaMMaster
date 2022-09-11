@@ -4,5 +4,5 @@
     <cost gold="8"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/0/20ded7af-8086-465e-a980-3099217d324c.jpg?1634350460"/>
-    <description text="Destroy target structure, then deal damage to all creatures in its tile equal to its base Health."/>
+    <description text="Target a Construct and destroy it, then deal damage to all creatures in its tile equal to its base Health"/>
 </card>

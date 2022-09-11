@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="12"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/9/a9d61651-349e-40d0-a7c4-c9561e190405.jpg?1557577572"/>
+    <stats health="12"/>
+    <type main="Building" tribe="City"/>
+    <description text="Unique"/>
+    <description text="When you play a Monster, reduce its cost by 3M."/>
+    <description text="While this card is on the field, Allied Monsters have +3/+3"/>
+    <description text="While this card is on the field, Allied Units have -3/-3"/>
+</card>

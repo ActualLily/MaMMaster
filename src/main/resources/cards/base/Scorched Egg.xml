@@ -5,7 +5,7 @@
     <type main="Artefact" tribe="Natural"/>
     <stats health="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1636223567"/>
-    <description text="(>) Add a Growth Counter to this card."/>
-    <description text="(>) Deal damage to target creature equal to the number of Growth counters on this card."/>
-    <description text="(>) If this card has 4 or more Growth counters on it, destroy it and create a Scorched Dragon Token (a 6/6 Ranged Dragon Monster with ‘(>) Deal 4 damage to target creature or commander.’)"/>
+    <description text="(>) Put a Growth Counter on this card"/>
+    <description text="(>) Target a creature and deal damage to it equal to the number of Growth counters on this card."/>
+    <description text="(>) If this card has 4 or more Growth counters on it, destroy it and create a Scorched Dragon Token (a 6/6 Ranged Dragon Monster with ‘(>) Target a creature or commander and deal 4 damage to it.’)"/>
 </card>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="4"/>
+    <cost gold="5"/>
     <type main="Skill" tribe="Equipment"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/4/a4c3ca8c-c77c-43b8-84ad-796313ecc813.jpg?1594752360"/>
-    <description text="Attach to target creature"/>
-    <description text="Attached creature has +3 Resilience and 'When this card would go to the discard zone, shuffle it into your deck instead'"/>
+    <description text="Attach to a creature"/>
+    <description text="Attached card has +3 Resilience and “When this card is destroyed, shuffle it into your deck instead”"/>
 </card>

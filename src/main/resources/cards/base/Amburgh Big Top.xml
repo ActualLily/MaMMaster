@@ -2,9 +2,9 @@
 
 <card version="0.1">
     <cost gold="8"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Civilian"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/9/9b/Grand_Finale_full.jpg/revision/latest?cb=20201113015854"/>
     <stats health="4"/>
-    <description text="When this card enters the field, search your deck for a Thief Unit and play it."/>
-    <description text="(>) Add gold equal to the number of creatures on the field that aren’t Thieves. "/>
+    <description text="When this card enters the field, Fetch a Thief Unit and play it for no cost."/>
+    <description text="(>) Add gold equal to the number of creatures on the field that aren’t Thieves."/>
 </card>

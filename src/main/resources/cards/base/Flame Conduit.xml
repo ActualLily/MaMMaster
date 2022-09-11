@@ -5,5 +5,5 @@
     <stats attack="2" health="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/b/9b434a60-0875-47f4-a626-2c9bfa3c9b3b.jpg?1562927765"/>
     <type main="Unit" tribe="Evoker" range="Artillery"/>
-    <description text="(!) When you play a spell, this unit may immediately attack with strength equal to the cost of the played spell."/>
+    <description text="(!) When you play a spell, this card makes an attack with strength equal to the cost of the played spell. "/>
 </card>

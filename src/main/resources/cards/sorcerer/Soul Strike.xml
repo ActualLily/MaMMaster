@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="0"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/e/ce7ff657-aa44-4336-895a-87518159cef6.jpg?1572490229"/>
-    <type main="Spell" tribe="Arcane"/>
-    <description text="Instant"/>
-    <description text="Deal 3 damage to your commander and target creature."/>
-</card>

@@ -4,6 +4,6 @@
     <cost gold="8"/>
     <type main="Skill" tribe="Knack"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1627428247"/>
-    <description text="Create a Bird Token (a 1/1 Ranged Beast Monster) or give an allied Monster +1/+1"/>
-    <description text="Repeat this effect 4 additional times."/>
+    <description text="Choose an allied Monster and it gains +1/+1, or Create a Bird Token (a 1/1 Ranged Beast Monster)"/>
+    <description text="Repeat this effect 4 times."/>
 </card>

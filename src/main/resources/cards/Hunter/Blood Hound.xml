@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <stats attack="5" health="3"/>
+    <type main="Monster" tribe="Beast" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/c/fcdf19a4-1892-4033-9039-0a86d0f5c9c4.jpg?1645417154"/>
+    <description text="When this card is played, for each creature that left the field this turn, add 2 Mana."/>
+</card>

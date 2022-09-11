@@ -4,5 +4,5 @@
     <cost gold="1"/>
     <type main="Skill" tribe="Talent"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/7/571bc9eb-8d13-4008-86b5-2e348a326d58.jpg?1615499802"/>
-    <description text="Destroy target Structure you control, then add 6 Gold."/>
+    <description text="Target an allied Building and Destroy it, then add 6 Gold."/>
 </card>

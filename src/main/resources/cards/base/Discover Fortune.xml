@@ -4,6 +4,6 @@
     <cost mana="2"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/a/bae6a5fb-39f5-4cf8-85f7-661cb4570507.jpg?1627706864"/>
+    <description text="While this card is in your hand, if there are no allied constructs, it costs 0M"/>
     <description text="Add 5 Gold"/>
-    <description text="If this is the first card you played this game, it costs 0M"/>
 </card>

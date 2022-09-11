@@ -4,5 +4,5 @@
     <cost mana="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/f/0f4e699f-5f2c-4487-8a40-42be6f561631.jpg?1599707174"/>
     <type main="Spell" tribe="Arcane"/>
-    <description text="Target allied Monster gains -3/+3"/>
+    <description text="Choose an allied Monster, it gains -3/+3"/>
 </card>

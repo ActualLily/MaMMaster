@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <stats attack="X" health="X"/>
+    <type main="Monster" tribe="Treefolk" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/7/77cf9d11-936f-4e02-8595-0cbcabaafb1e.jpg?1601079780"/>
+    <description text="While this card is on the field, its stats are both equal to the number of Buildings on the field."/>
+</card>

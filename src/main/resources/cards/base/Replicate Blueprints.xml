@@ -4,6 +4,5 @@
     <cost mana="4"/>
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/4/34ffaefe-1b9e-418d-9760-b7d546f03542.jpg?1543675102"/>
-    <description text="Search your deck for a Building Structure card, reveal it, then shuffle it back into your deck."/>
-    <description text="Create a copy of the revealed card and play it."/>
+    <description text="Choose a Building card in your deck and reveal it, then shuffle. Create a copy of the chosen card and play it for free."/>
 </card>

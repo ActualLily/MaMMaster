@@ -5,5 +5,5 @@
     <stats attack="2" health="1"/>
     <type main="Unit" tribe="Assassin" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/d/fd4348ec-fdb1-4c3b-bec5-42513c6c0662.jpg?1627703368"/>
-    <description text="(>, XG) Deal X damage at Range."/>
+    <description text="(>, XG) Target an adjacent creature, deal X damage to it."/>
 </card>

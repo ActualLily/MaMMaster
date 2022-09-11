@@ -4,5 +4,5 @@
     <cost mana="0"/>
     <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/b/ab95fe13-c09b-4eed-aeae-fb1c5b6eb476.jpg?1627703711"/>
-    <description text="Deal 1 damage to target creature, then add 2 Mana"/>
+    <description text="Target a creature and deal 1 damage to it, then add 2 Mana."/>
 </card>

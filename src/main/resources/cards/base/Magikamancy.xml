@@ -4,5 +4,5 @@
     <cost mana="2"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/549ed5bd-da29-4cd4-893e-9e53e33a8557.jpg?1593271977"/>
     <type main="Spell" tribe="Arcane"/>
-    <description text="Target card doubles it's Mana counters."/>
+    <description text="Target a construct, double its Mana counters."/>
 </card>

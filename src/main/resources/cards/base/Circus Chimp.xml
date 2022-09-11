@@ -5,5 +5,5 @@
     <stats attack="2" health="3"/>
     <type main="Monster" tribe="Beast" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1643112412"/>
-    <description text="(>) Use an ability on an enemy Construct card as if it were your own."/>
+    <description text="(>) Choose an enemy construct, activate one of its abilities as if it were allied. "/>
 </card>

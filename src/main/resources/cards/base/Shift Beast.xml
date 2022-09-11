@@ -5,5 +5,5 @@
     <stats attack="4" health="4"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/5/95d5c36c-bcc8-459c-9f4b-b265ccdb1f06.jpg?1627703119"/>
     <type main="Monster" tribe="Aberration" range="Melee"/>
-    <description text="(>) Move twice in a row."/>
+    <description text="(>) Move 2"/>
 </card>

@@ -5,5 +5,5 @@
     <stats attack="0" health="3"/>
     <type main="Monster" tribe="Beast" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/4/c402ef0e-51e7-4da6-a434-b99c5d435698.jpg?1562631879"/>
-    <description text="When this card enters the field, Add 2 Mana"/>
+    <description text="When this card is played, Add 2 Mana"/>
 </card>

@@ -5,5 +5,5 @@
     <type main="Skill" tribe="Tactic"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/6/63/Noble_Sacrifice_full.jpg/revision/latest?cb=20150326072619"/>
     <description text="Instant"/>
-    <description text="When target Unit you control is targeted by a Power, create a Recruit Token (a 1/1 Melee Soldier Unit). It becomes the target of the Power"/>
+    <description text="When an allied Unit is targeted by a Power, create a Recruit Token (a 1/1 Melee Soldier Unit). It becomes the target of the Power"/>
 </card>

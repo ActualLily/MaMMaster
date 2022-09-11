@@ -5,5 +5,5 @@
     <type main="Spell" tribe="Arcane"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/e/1e5fc39d-590a-436b-ab90-a1741d2ae3da.jpg?1562827161"/>
     <description text="Instant"/>
-    <description text="When your opponent plays a creature, return it to its owner's hand."/>
+    <description text="When the opponent plays a creature, put it in its player’s hand."/>
 </card>

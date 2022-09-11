@@ -4,6 +4,6 @@
     <cost mana="3"/>
     <type main="Spell" tribe="Divine"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/5/50/Holy_Nova_full.png/revision/latest?cb=20151022092632"/>
-    <description text="Create a Light Wall Token (a 1 Health Enchantment Artefact, with ‘Creatures cannot enter this Artefacts tile, unless they are allied to the player that created this token.’). It can be created in contested Ranks."/>
-    <description text="When you play this spell, you may spend an additional 1M up to 4 times. For every additional mana you spend, create an additional Artefact token in the same Rank."/>
+    <description text="Create a Light Wall Token (a 1 Health Enchantment Artefact, with ‘Enemy Creatures cannot enter this tile’). It can be created in contested Ranks."/>
+    <description text="When this card is played, you may spend an additional 1M up to 4 times. If you do, for every 1M you spent, create an additional token in the same Rank."/>
 </card>

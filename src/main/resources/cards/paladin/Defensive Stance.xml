@@ -4,5 +4,6 @@
     <cost gold="3"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/d/fdd76db0-1a67-4965-81a5-1d8d86b63971.jpg?1562948771"/>
-    <description text="Until the start of your next turn, target Unit gains Resilience equal to its Strength, and can not Attack or Retaliate."/>
+    <description text="Instant"/>
+    <description text="Choose an allied Unit. Until the start of your next turn, it has additional Resilience equal to its Strength and cannot Attack."/>
 </card>

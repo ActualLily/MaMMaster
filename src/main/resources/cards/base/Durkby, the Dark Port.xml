@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="12"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/a/aa8e3add-48d4-4330-9a5c-28f3f4defaf8.jpg?1650039285"/>
+    <stats health="10"/>
+    <type main="Building" tribe="City"/>
+    <description text="Unique"/>
+    <description text="When you play a Skill, reduce its cost by 5G."/>
+    <description text="While this card is on the field, allied Ranged and Artillery Units have +3 Strength "/>
+    <description text="While this card is on the field, you cannot play spells."/>
+</card>

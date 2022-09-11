@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill" tribe="Tactic"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/7/771e307c-b2e3-47ac-aac2-59f0c3542fa6.jpg?1631057813"/>
+    <description text="Continuous"/>
+    <description text="Choose up to 3 units in your hand and attach them to this card face down. "/>
+    <description text="Attached cards are Playable and have Instant."/>
+</card>

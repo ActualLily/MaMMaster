@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost mana="4"/>
+    <cost mana="7"/>
     <type main="Spell" tribe="War"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/1/a13b7fee-100b-444e-9f13-45b36fd10295.jpg?1599709465"/>
-    <description text="Destroy target allied creature. "/>
-    <description text="Deal damage to the enemy Commander equal to target’s base Strength."/>
+    <description text="Target an allied creature and destroy it. Then deal damage to the enemy Commander equal to the target's Strength."/>
 </card>

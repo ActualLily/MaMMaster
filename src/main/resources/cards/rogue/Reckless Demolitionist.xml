@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="4"/>
+    <stats attack="3" health="2"/>
+    <type main="Unit" tribe="Assassin" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/6/a6378898-50b7-47c9-8c25-dc660606be9f.jpg?1576381626"/>
+    <description text="Siege"/>
+    <description text="(>) Target a Building, deal 5 damage to it, then destroy this card."/>
+</card>

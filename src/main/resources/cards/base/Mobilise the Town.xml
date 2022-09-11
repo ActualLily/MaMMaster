@@ -4,6 +4,6 @@
     <cost gold="6"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ea28bd68-47a8-47c6-be16-75ae622daf0a.jpg?1592709217"/>
-    <description text="Create five Commoner Tokens (a 1/1 melee commoner unit with Ready)."/>
-    <description text="Destroy them at the start of your next turn."/>
+    <description text="Create 5 Commoner Tokens (a 1/1 melee commoner unit) with Ready."/>
+    <description text="When your next turn starts, destroy all Commoner Tokens created by this card."/>
 </card>

@@ -4,7 +4,7 @@
     <cost gold="5"/>
     <art path="https://cdna.artstation.com/p/assets/images/images/033/119/112/large/stella-chen-yui-thesecretbakery3.jpg?1608480067"/>
     <stats health="4"/>
-    <type main="Structure" tribe="Building"/>
+    <type main="Building" tribe="Civilian"/>
     <description text="(>) Add 2 Gold"/>
     <description text="(>) Add 2 Mana"/>
 </card>

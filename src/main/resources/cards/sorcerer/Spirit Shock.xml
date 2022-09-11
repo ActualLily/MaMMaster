@@ -4,6 +4,5 @@
     <cost mana="0"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/1/312ada22-0085-4103-b20d-a5bbfacb6ec1.jpg?1562847417"/>
     <type main="Spell" tribe="Arcane"/>
-    <description text="Deal 1 damage to target creature."/>
-    <description text="Then, target allied Monster gains +1/+1"/>
+    <description text="Target a creature, deal 1 damage to it. Then, choose an allied Monster, it gains +1/+1"/>
 </card>

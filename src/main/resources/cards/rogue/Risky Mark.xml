@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="2"/>
+    <cost gold="1"/>
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/a/9aacb3ae-c889-4912-bc2d-2aa0adfd20bd.jpg?1600732614"/>
-    <description text="Target allied Thief makes a Melee Attack, it deals 1 damage. Add gold equal to the attacking creature’s Strength. "/>
+    <description text="Choose an allied Thief, it makes an Attack with 1 Strength and Melee. Then, Add gold equal to the chosen card’s Strength. "/>
 </card>

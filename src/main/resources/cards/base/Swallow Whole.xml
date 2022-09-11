@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <type main="Skill" tribe="Knack"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c3b9140b-848f-4886-8c28-eccd3829a607.jpg?1591230400"/>
+    <description text="Attach to an allied Monster."/>
+    <description text="Attached card has “When this card deals damage to an enemy creature, attach that card to this card face down.” and “When this card is destroyed, the opponent may play attached cards for free.”"/>
+</card>

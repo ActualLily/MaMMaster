@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <stats attack="1" health="2"/>
-    <type main="Monster" tribe="Spirit" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/1/91652fe0-2064-4996-b484-a1f88e0023f7.jpg?1562806953"/>
-    <description text="(>) Destroy this card and deal 2 damage to target creature"/>
-</card>

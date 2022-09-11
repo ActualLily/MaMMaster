@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats health="15"/>
+    <type main="Commander" tribe="Druid"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/b/1b4c26ab-0f7b-4163-b9e4-a415b91352a6.jpg?1562610283"/>
+    <description text="(>) Blossoming Power - Choose a creature, it gains +1/+1"/>
+    <description text="(>, 6M) Defend the Forest - Choose any number of allied Forest Tokens that aren’t occupied. Until the start of your next turn, they are 5/5 Treefolk Monsters"/>
+</card>

@@ -5,5 +5,5 @@
     <stats attack="3" health="3"/>
     <type main="Unit" tribe="Soldier" range="Melee"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/0/0a/Aldor_Peacekeeper_full.jpg/revision/latest?cb=20140919015637"/>
-    <description text="When you play this card, target enemy creature has its Strength set to 1."/>
+    <description text="When this card is played, target an enemy creature. Its Strength becomes 1."/>
 </card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="2"/>
-    <stats attack="3" health="2"/>
-    <type main="Monster" tribe="Treefolk" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/d/ed6dece3-058c-4738-a22f-8893345ddd1c.jpg?1562945011"/>
-    <description text="(>) This card becomes a Natural Artefact with 10 Health until the start of your next turn"/>
-</card>

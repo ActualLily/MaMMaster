@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <type main="Skill" tribe="Talent"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/5/75993427-fb8d-41cc-9016-323e804a5eb7.jpg?1599706790"/>
+    <description text="Destroy a card in your hand and add 5 Gold"/>
+</card>

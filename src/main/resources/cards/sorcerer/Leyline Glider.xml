@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="1"/>
+    <stats attack="2" health="3"/>
+    <type main="Monster" tribe="Aberration" range="Ranged"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/1/217dfa26-d3ad-4fe8-9db4-ddd753a4b679.jpg?1562201315"/>
+    <description text=""/>
+</card>

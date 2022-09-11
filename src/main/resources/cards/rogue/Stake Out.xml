@@ -5,6 +5,6 @@
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/9/19b5b4fc-e1de-4520-9524-f9c4aa89b252.jpg?1593273502"/>
     <description text="Continuous"/>
-    <description text="During each of your End Steps, you may pay 4G then add one Time counter to this card. If you don’t pay, discard this card. "/>
-    <description text="When this card is discarded, draw cards equal to the number of Time counters on it. "/>
+    <description text="When your turn ends, you may pay 4G and put a Time Counter on this card. If you don’t, destroy this card. "/>
+    <description text="When this card is destroyed, draw equal to the number of Time counters on it. "/>
 </card>
