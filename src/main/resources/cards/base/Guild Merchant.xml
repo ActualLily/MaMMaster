@@ -5,6 +5,6 @@
     <stats attack="2" health="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.jpg?1627705401"/>
     <type main="Unit" tribe="Commoner" range="Melee"/>
-    <description text="(>) Destroy a card in your hand, then add gold equal to its Gold Cost."/>
-    <description text="(>) Destroy a card in your hand, then draw 1."/>
+    <description text="(>) Destroy a card in your hand, and add gold equal to its Gold Cost."/>
+    <description text="(>) Destroy a card in your hand, and draw 1."/>
 </card>

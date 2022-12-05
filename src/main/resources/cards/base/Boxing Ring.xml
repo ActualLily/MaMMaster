@@ -4,6 +4,6 @@
     <cost gold="10"/>
     <type main="Building" tribe="Civilian"/>
     <stats health="3"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/6/86fd3454-efe7-4feb-a6ad-069ae2fdbd18.jpg?1649702140"/>
-    <description text="(>, 4G) Target a creature, it gains +1/+1. If it destroyed a creature this turn, add 6 Gold."/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1663452693"/>
+    <description text="(>, 4G) Choose a creature, it gains +1/+1. If it destroyed a creature this turn, add 6 Gold."/>
 </card>

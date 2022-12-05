@@ -5,5 +5,5 @@
     <type main="Skill" tribe="Tactic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/9/e9bf3f93-a06f-4364-bb8e-b2b1eb77dcc3.jpg?1637631207"/>
     <description text="Continuous 1"/>
-    <description text="Reveal the bottom 5 cards of your deck, and attach them to this card face down. Attached cards are playable."/>
+    <description text="Reveal the bottom 5 cards of your deck, and attach them to this card face down. Attaching cards are playable."/>
 </card>
