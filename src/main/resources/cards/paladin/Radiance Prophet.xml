@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="5"/>
-    <stats attack="1" health="3"/>
-    <type main="Unit" tribe="Paladin" range="Melee"/>
-    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/b/b6/Northshire_Cleric_full.jpg/revision/latest/scale-to-width-down/1000?cb=20151024153210"/>
-    <description text="When this card is played, choose a Divine Spell in your deck, reveal it, and put it in your hand. Until your turn ends, it costs 1M less for each Paladin you control."/>
-</card>

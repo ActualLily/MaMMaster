@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <art path="https://cards.scryfall.io/art_crop/front/d/7/d7c89492-ef45-460e-9c78-83c8c8c80fe2.jpg?1593814887"/>
+    <type main="Artefact" tribe="Relic"/>
+    <stats health="2"/>
+    <description text="When you play a Spell, put a Mana Counter on this card."/>
+    <description text="(>, 3M) Choose a creature, until your turn ends, it has +1/+1 for each Mana Counter on this card."/>
+</card>

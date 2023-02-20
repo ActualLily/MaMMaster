@@ -6,5 +6,5 @@
     <stats health="6"/>
     <type main="Building" tribe="Civilian"/>
     <description text="(>) Play a Spell"/>
-    <description text="While this card is on the field, when you play a spell, for each creature in this file, that spell costs 1M less."/>
+    <description text="While this card is on the field, when you play a spell, for each allied Sorcerer in this file, that spell costs 1M less."/>
 </card>

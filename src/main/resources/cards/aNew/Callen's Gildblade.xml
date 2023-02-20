@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <type main="Skill" tribe="Equipment"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/f/ff8461c3-6e80-403a-b3eb-01882c841d7a.jpg?1612228601"/>
+    <description text="When this card is played, create a Recruit Token (a 1/1 Melee Soldier Mercenary) then attach this card to it. "/>
+    <description text="Attached card has '(>) Add 1 Gold'"/>
+    <description text="(>, 4G) Create a Recruit Token"/>
+</card>

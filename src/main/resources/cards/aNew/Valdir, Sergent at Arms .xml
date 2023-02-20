@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="12"/>
+    <stats attack="5" health="5"/>
+    <type main="Mercenary" tribe="Paladin" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/2/52de8fc6-6d9b-402e-a6c8-4c39b0c92f07.jpg?1558667570"/>
+    <description text="Unique"/>
+    <description text="Commanding Presence - When this card destroys a creature, all other allied Mercenaries gain +1/+1"/>
+    <description text="(>, 1M) Radiant Light - Target an adjacent creature, it takes 3 damage or, until end of turn it has +3 resilience"/>
+</card>

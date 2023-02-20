@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="7"/>
+    <type main="Skill" tribe="Equipment"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/b/6b8d0852-4df3-4b29-830d-c6975265ef53.jpg?1627701606"/>
+    <description text="Attach to a Paladin or Soldier Mercenary"/>
+    <description text="Attached card has +3 Strength and “When this creature attacks, target a creature or commander and deal 1 damage to it.”"/>
+</card>

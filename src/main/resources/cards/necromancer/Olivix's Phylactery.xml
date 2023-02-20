@@ -6,5 +6,5 @@
     <type main="Artefact" tribe="Relic"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/0/409087ef-8232-489c-8b98-b601bb0a47a4.jpg?1562141833"/>
     <description text="(>) Add 1 Mana"/>
-    <description text="(>, 2M) Destroy a card in your hand, then draw 1, then create a Zombie Token (a 1/1 melee zombie monster)."/>
+    <description text="(>, 3M) Destroy a card in your hand, then draw 1, then create a Zombie Token (a 1/1 melee zombie monster). "/>
 </card>

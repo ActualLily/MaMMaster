@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="2" health="2"/>
+    <type main="Mercenary" tribe="Paladin" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/0/0a/Aldor_Peacekeeper_full.jpg/revision/latest?cb=20140919015637"/>
+    <description text="When this card is played, target an enemy creature. Its Strength becomes 1."/>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="0"/>
+    <type main="Building" tribe="Industrial"/>
+    <stats health="1"/>
+    <art path="https://cdna.artstation.com/p/assets/images/images/009/783/810/large/fran-fdez-conceptos-ciencia-produccion.jpg?1520883100"/>
+    <description text="Ready"/>
+    <description text="(>) Add 1 Gold"/>
+</card>

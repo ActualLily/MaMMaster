@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <type main="Skill" tribe="Tactic"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/6/63/Noble_Sacrifice_full.jpg/revision/latest?cb=20150326072619"/>
+    <description text="Instant, When an allied Mercenary is targeted by a Power"/>
+    <description text="Create a Recruit Token (a 1/1 Melee Soldier Mercenary). It becomes the target of the Power"/>
+</card>

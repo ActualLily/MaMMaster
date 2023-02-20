@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <art path="https://cards.scryfall.io/art_crop/front/2/7/27c914a3-2294-4feb-9450-c012cfd307a6.jpg?1627429585"/>
+    <type main="Spell" tribe="Arcane"/>
+    <description text="Continuous 2"/>
+    <description text="Spells in your hand cost 2M less and have Instant."/>
+</card>

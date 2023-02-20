@@ -4,5 +4,5 @@
     <cost mana="4"/>
     <type main="Spell" tribe="Divine"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/b/b4/Consecration_full.jpg/revision/latest?cb=20140918025020"/>
-    <description text="Target up to 3 tiles. Until your turn ends, allied creatures in the target areas gain +3 Resilience, then deal 3 damage to enemy creatures in the target areas"/>
+    <description text="Target up to 3 tiles. Until your turn ends, allied creatures in the target areas gain +3 Resilience. Then deal 3 damage to enemy creatures in the target areas."/>
 </card>

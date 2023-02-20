@@ -5,6 +5,6 @@
     <stats attack="8" health="5"/>
     <type main="Monster" tribe="Demon" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/f/9f2b9f27-459c-4585-9051-b83ffe053a74.jpg?1562852094"/>
-    <description text="When this card readys it moves forward 1, then target a creature in this rank and this card makes an attack against it, then exhaust this card."/>
+    <description text="When this card prepares it moves forward 1, then target a creature in this rank and this card makes an attack against it, then exhaust this card."/>
     <description text="When this card moves into the enemy back rank, destroy it and deal damage to your commander equal to its strength."/>
 </card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="4"/>
-    <type main="Skill" tribe="Tactic"/>
-    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/8/8f/Judgment_of_Justice_full.jpg/revision/latest?cb=20210603202640"/>
-    <description text="Instant"/>
-    <description text="When a creature makes an attack, choose an allied unit. Until your turn ends, it has +3 Strength or +3 Resilience"/>
-</card>

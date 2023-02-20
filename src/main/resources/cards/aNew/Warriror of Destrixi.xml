@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="10"/>
+    <stats attack="3" health="5"/>
+    <type main="Mercenary" tribe="Paladin" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/a/aa/Defender_of_Argus_full.jpg/revision/latest/scale-to-width-down/508?cb=20140917110022"/>
+    <description text="When this card attacks, choose another Mercenary, it gains +1/+1"/>
+</card>

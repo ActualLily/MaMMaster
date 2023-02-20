@@ -5,7 +5,5 @@
     <stats attack="3" health="2"/>
     <type main="Unit" tribe="Paladin" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/a/9a47573a-601e-4738-acef-16118289f939.jpg?1663051409"/>
-    <description text="While this card is on the field, it counts as a Dragon."/>
-    <description text="When this card destroys a creature in an adjacent tile, it can immediately move into that tile."/>
-    <description text="(>, 1M) Target a creature, deal 2 Damage to it."/>
+    <description text="When this card destroys a creature, it may move to that creature’s tile."/>
 </card>

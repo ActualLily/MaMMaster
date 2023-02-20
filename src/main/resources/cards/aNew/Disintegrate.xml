@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <type main="Spell" tribe="Arcane"/>
+    <art path="https://cards.scryfall.io/art_crop/front/f/f/ffff0825-9996-4ae5-90c8-cb976ccf4ae0.jpg?1664925482"/>
+    <description text="Target a card, Destroy it"/>
+</card>

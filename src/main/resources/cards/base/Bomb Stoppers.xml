@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="2" health="2"/>
+    <art path="https://cards.scryfall.io/art_crop/front/9/b/9b1675f2-e950-4f3c-9dd3-29ead615ff23.jpg?1561838551"/>
+    <type main="Unit" tribe="Solider" range="Melee"/>
+    <description text="(!, 5G) When an enemy Power or Construct uses an Ability, destroy that card and this card."/>
+</card>

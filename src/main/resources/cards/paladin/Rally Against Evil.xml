@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="6"/>
-    <type main="Skill" tribe="Tactic"/>
-    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/f/ff/Stand_Against_Darkness_full.jpg/revision/latest?cb=20160424164358"/>
-    <description text="Create 5 Recruit Tokens (a 1/1 Melee Soldier Unit)"/>
-</card>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="4"/>
-    <type main="Skill" tribe="Tactic"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/4/44ac622c-db04-41bf-817e-4698843e6346.jpg?1562907512"/>
-    <description text="Choose up to 3 allied units, you may choose the same card more than once. For each time they were chosen, they gain +1 Strength."/>
-</card>

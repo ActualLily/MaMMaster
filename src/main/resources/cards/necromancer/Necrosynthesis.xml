@@ -4,5 +4,5 @@
     <cost mana="4"/>
     <type main="Spell" tribe="Dark"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/7/b75b89f1-e032-4d8c-b2b6-1b76e8644801.jpg?1634350085"/>
-    <description text="Target any number of allied Zombie Creatures and destroy them, then create an Amalgam Token (a X/X Melee Zombie Monster, with ‘X is the number of creatures destroyed by Necrosynthesis to create this token.’). "/>
+    <description text="Create an Amalgam Token (a X/X Melee Zombie Monster, with ‘While this card is on the field, X is equal to the number of creatures in your discard zone’)."/>
 </card>

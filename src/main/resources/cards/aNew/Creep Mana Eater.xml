@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <stats attack="1" health="1"/>
+    <type main="Monster" tribe="Aberration" range="Melee"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/a/7a0dfbd3-4b19-4f56-b6c2-7107a3cba4ec.jpg?1562263851"/>
+    <description text="When a spell is played, this card gains +1/+1"/>
+</card>

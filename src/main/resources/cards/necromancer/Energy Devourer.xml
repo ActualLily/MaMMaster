@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <stats attack="1" health="1"/>
+    <type main="Monster" tribe="Zombie" range="Melee"/>
+    <art path="https://cards.scryfall.io/art_crop/front/c/4/c49d6139-fc0c-41db-be08-dfa87c685092.jpg?1619395466"/>
+    <description text="When this card is played, destroy the top 3 cards of your deck. This card gains +1/+1 for each creature destroyed this way."/>
+</card>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <stats health="15"/>
-    <type main="Commander" tribe="Paladin"/>
-    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937005141452800010/akh-14-gideon-of-the-trials.jpg"/>
-    <description text="(>, 1G) Command: Choose a unit, it has an additional action this turn."/>
-    <description text="(>, 10G) Field Training: All allied units gain +1/+1. You may pay an additional 2M any number of times. If you do, for every 2M spent, repeat this effect."/>
-</card>

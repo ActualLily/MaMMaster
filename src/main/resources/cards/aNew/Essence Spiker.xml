@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="4"/>
+    <art path="https://cards.scryfall.io/art_crop/front/b/7/b7ad4441-e300-4267-bedb-4ae6a64f59cd.jpg?1663047829"/>
+    <type main="Artefact" tribe="Relic"/>
+    <stats health="3"/>
+    <description text="(!, 1M) When an allied Monster is destroyed, target a creature, then deal 3 damage to it."/>
+</card>

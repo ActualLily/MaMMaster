@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="10"/>
+    <type main="Skill" tribe="Tactic"/>
+    <art path="https://cards.scryfall.io/art_crop/front/7/2/7213d9e1-e9c6-45d8-bb7f-336c41e7b6f7.jpg?1631045864"/>
+    <description text="All allied units gain +1/+1. Then, you may pay an additional 2M any number of times. If you do, for each 2M spent, repeat this effect."/>
+</card>

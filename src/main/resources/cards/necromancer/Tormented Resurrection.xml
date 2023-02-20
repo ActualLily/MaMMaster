@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="5"/>
+    <type main="Spell" tribe="Dark"/>
+    <art path="https://cards.scryfall.io/art_crop/front/e/d/ed719f25-1aab-4a1e-8c9f-dd574db5de0c.jpg?1663049085"/>
+    <description text="Choose a creature in your discard zone and play it for free, then attach this card to it."/>
+    <description text="Attached creature is a zombie instead of its usual subtype and has 'When your turn starts you may deal 1 damage to your commander, if you don’t, destroy this card.'"/>
+</card>

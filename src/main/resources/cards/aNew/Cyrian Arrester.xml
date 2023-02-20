@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="6"/>
+    <stats attack="2" health="3"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/8/9806370b-51e3-4144-a847-6b367fb937ef.jpg?1661187292"/>
+    <type main="Mercenary" tribe="Solider" range="Melee"/>
+    <description text="When this card is played, target an enemy creature and attach it to this card face down."/>
+    <description text="When this card is destroyed, the opponent may play the attaching card for no cost. If they do, this card is not destroyed instead."/>
+</card>

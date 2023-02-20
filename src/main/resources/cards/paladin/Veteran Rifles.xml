@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="7"/>
-    <stats attack="4" health="3"/>
-    <type main="Unit" tribe="Soldier" range="Ranged"/>
-    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937020256742944818/fhi5ah.png"/>
-    <description text="When you play a skill, it costs 2G less."/>
-</card>

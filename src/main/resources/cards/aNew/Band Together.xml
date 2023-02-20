@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="2"/>
+    <type main="Skill" tribe="Tactic"/>
+    <art path="https://cards.scryfall.io/art_crop/front/4/d/4d1d8aa1-d742-477c-819a-0113912d5011.jpg?1557576864"/>
+    <description text="Target a creature, then choose up to 3 allied Mercenaries. Each chosen card deals damage equal to its strength to the target."/>
+</card>

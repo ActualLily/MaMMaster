@@ -6,5 +6,5 @@
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/2/02351d67-2d73-43e3-82f7-5277c532d7ac.jpg?1637630049"/>
     <type main="Monster" tribe="Zombie" range="Melee"/>
     <description text="Token"/>
-    <description text="X is the number of creatures destroyed by Necrosynthesis to create this token."/>
+    <description text="While this card is on the field, X is equal to the number of creatures in your discard zone"/>
 </card>

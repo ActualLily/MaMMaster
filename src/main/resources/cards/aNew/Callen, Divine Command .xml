@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats health="15"/>
+    <type main="Commander" tribe="Paladin"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937005141452800010/akh-14-gideon-of-the-trials.jpg"/>
+    <description text="(>, 1G) Command: Choose an Exhausted Allied Unit, it Prepares."/>
+    <description text="(>) Play a Card."/>
+    <description text="(>) Once each turn, Fetch a Sawmill or a Mana Crystal."/>
+</card>

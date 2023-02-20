@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <type main="Building" tribe="Industrial"/>
+    <stats health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/c/5c83074d-0c9b-4b58-94ca-d75240485579.jpg?1572491198"/>
+    <description text="When this card is played, Draw 1."/>
+    <description text="(>) Add 2 Gold"/>
+</card>

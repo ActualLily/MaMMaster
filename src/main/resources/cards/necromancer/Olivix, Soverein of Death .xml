@@ -4,6 +4,7 @@
     <stats health="15"/>
     <type main="Commander" tribe="Necromancer"/>
     <art path="https://cdn.discordapp.com/attachments/380783567208448000/937115751792410684/mic-121-liliana-death-s-majesty.jpg"/>
-    <description text="(>, 1M) Overwhelm - Create two Zombie Tokens (a 1/1 Melee zombie monster)"/>
-    <description text="(>, 5M) Consuming Wave - Choose a rank. All allied creatures in that Rank move forward 1, then they make an Elusive melee attack. "/>
+    <description text="(>, 1M) Overwhelm - Destroy the top card of your deck, then create a Zombie Token (a 1/1 Melee zombie monster)"/>
+    <description text="(>) Play a Card."/>
+    <description text="(>) Once each turn, Fetch a Sawmill or a Mana Crystal."/>
 </card>

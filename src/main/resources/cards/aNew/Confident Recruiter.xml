@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="2"/>
+    <stats attack="1" health="2"/>
+    <type main="Mercenary" tribe="paladin" range="Melee"/>
+    <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/d/d1/Recruiter_full.png/revision/latest/scale-to-width-down/400?cb=20150828233627"/>
+    <description text="(>) Play a Paladin Mercenary"/>
+</card>

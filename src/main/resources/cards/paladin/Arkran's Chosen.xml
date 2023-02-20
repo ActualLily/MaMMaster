@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="4"/>
-    <stats attack="5" health="3"/>
+    <cost gold="6"/>
+    <stats attack="3" health="3"/>
     <type main="Unit" tribe="Paladin" range="Melee"/>
     <art path="https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/04SH003T11-full.png/revision/latest/scale-to-width-down/1000?cb=20210303045421"/>
-    <description text="While this card is on the field, it is a Dragon."/>
+    <description text="While this card is on the field, allied Paladins count as Dragons."/>
+    <description text="(1M) Until your turn ends, this card has +1 Strength."/>
 </card>

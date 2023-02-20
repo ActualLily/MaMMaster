@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="5"/>
+    <stats attack="1" health="3"/>
+    <type main="Mercenary" tribe="Paladin" range="Melee"/>
+    <art path="https://cards.scryfall.io/art_crop/front/8/5/85d2ecc7-4a49-48f1-9036-6c3f0f0296c3.jpg?1591319887"/>
+    <description text="When this card is played, Fetch a Divine Spell. Until your turn ends, it costs 1M less for each allied Paladin."/>
+</card>

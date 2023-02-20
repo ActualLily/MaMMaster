@@ -5,5 +5,5 @@
     <stats attack="1" health="1"/>
     <type main="Unit" tribe="Sorcerer" range="Melee"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/8/080be8d1-e453-4250-b917-f0eb26644895.jpg?1631046806"/>
-    <description text="When you play a monster, it costs 1M less."/>
+    <description text="When you play a monster it costs 1M less."/>
 </card>

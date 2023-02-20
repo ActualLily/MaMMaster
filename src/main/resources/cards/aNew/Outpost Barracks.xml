@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost gold="8"/>
+    <stats health="4"/>
+    <type main="Building" tribe="Military"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/0/b05fde97-ab24-40c9-a1db-8844c3e62fc3.jpg?1562792809"/>
+    <description text="(>) Play a Paladin Mercenary."/>
+    <description text="(>, 2G) Create a Soldier Token (a 1/2 Melee Soldier Mercenary)."/>
+    <description text="(>, 6G) All allied Mercenaries gain +1 Strength or +1 Resilience"/>
+</card>

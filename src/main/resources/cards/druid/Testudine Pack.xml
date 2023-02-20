@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="3"/>
-    <stats attack="3" health="1"/>
-    <type main="Unit" tribe="Druid" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/3/e3ca9ff7-0dcf-4ecc-879c-957d290ad7f5.jpg?1624739546"/>
-    <description text="(>, 1M) Until this card readys, it has +5 Resilience"/>
-</card>

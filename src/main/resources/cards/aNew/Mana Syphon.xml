@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="2"/>
+    <type main="Artefact" tribe="Magical"/>
+    <stats health="2"/>
+    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg?1561757618"/>
+    <description text="Ready"/>
+    <description text="(!>) When a Monster is played, Add 2 Mana"/>
+</card>

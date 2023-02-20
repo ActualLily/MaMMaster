@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="1"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/f/6f94ab94-5a8f-4422-8927-0b7da85c3119.jpg?1562429856"/>
-    <type main="Spell" tribe="Arcane"/>
-    <description text="Continuous 2"/>
-    <description text="When you play an Artefact, Add 1 Mana"/>
-</card>

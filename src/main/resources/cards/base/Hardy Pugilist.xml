@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <card version="0.1">
-    <cost gold="6"/>
+    <cost gold="8"/>
     <stats attack="6" health="3"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1640088167"/>
     <type main="Unit" tribe="Soldier" range="Melee"/>

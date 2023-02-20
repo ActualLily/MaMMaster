@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost mana="4"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/5/b5346ed7-2e17-4d8c-9c4b-b5efdd26380d.jpg?1612316371"/>
-    <type main="Spell" tribe="Arcane"/>
-    <description text="Continuous 3"/>
-    <description text="When an allied Monster is destroyed, target a creature, then deal 2 damage to it."/>
-</card>

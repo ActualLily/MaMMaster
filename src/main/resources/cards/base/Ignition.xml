@@ -4,6 +4,6 @@
     <cost mana="2"/>
     <type main="Spell" tribe="Elemental"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/f/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5.jpg?1634350484"/>
-    <description text="Attach to a creature and it gains 3 Burn Counters."/>
-    <description text="When attached card readys, deal damage to it equal to the number of burn counters on it, then remove 1."/>
+    <description text="Attach to a creature and put 3 Burn Counters on it."/>
+    <description text="When the attached card prepares, deal damage to it equal to the number of burn counters on it, then remove 1. "/>
 </card>

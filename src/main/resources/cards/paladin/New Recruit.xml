@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <cost gold="3"/>
-    <stats attack="1" health="2"/>
-    <type main="Unit" tribe="Soldier" range="Melee"/>
-    <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/5/959bb0f1-0af3-4070-9303-684a07edfcfa.jpg?1604708536"/>
-    <description text="When this card destroys a creature, it gains +1/+1."/>
-</card>

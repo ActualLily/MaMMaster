@@ -5,6 +5,6 @@
     <type main="Building" tribe="Industrial"/>
     <stats health="1"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/54065d26-39ae-412c-b60e-d22d7f3e78be.jpg?1591322082"/>
-    <description text="(>) Add 3 Gold and destroy all commoner tokens created by this card."/>
+    <description text="(>) Add 3 Gold and destroy all allied commoner tokens"/>
     <description text="(>) Create a Commoner Token (a 1/1 melee Commoner Unit)"/>
 </card>

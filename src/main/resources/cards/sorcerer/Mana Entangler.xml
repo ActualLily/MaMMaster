@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <cost mana="3"/>
+    <art path="https://cards.scryfall.io/art_crop/front/b/d/bdace59f-f025-4717-8eb4-3d1e13b31d2b.jpg?1591228525"/>
+    <stats health="3"/>
+    <type main="Artefact" tribe="Relic"/>
+    <description text="While this card is Ready, when you play an Artefact, Add 1 Mana"/>
+</card>

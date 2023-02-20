@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<card version="0.1">
-    <stats health="15"/>
-    <type main="Commander" tribe="Sorcerer"/>
-    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937022820674846730/war-56-kasmina-enigmatic-mentor.jpg"/>
-    <description text="(1M) Channel Through - When an allied Monster attacks, if it’s the first attack this turn, play a Spell."/>
-    <description text="(>, 5M) Arcana Exemplar - Until the start of your next turn, Spells in your hand cost 2M less and have Instant."/>
-</card>

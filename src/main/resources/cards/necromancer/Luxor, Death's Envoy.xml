@@ -6,7 +6,6 @@
     <type main="Unit" tribe="Necromancer" range="Ranged"/>
     <art path="https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/5/9554f402-35d4-43ac-9494-9d17d2a79092.jpg?1619403892"/>
     <description text="Unique"/>
-    <description text="Ignotum Lieutenant"/>
-    <description text="Undying - While you control a zombie Monster and this card is in your discard zone, it is Playable, has Instant, and it costs 4M."/>
-    <description text="(3M) Escape the Tomb - Play a monster from your discard zone for free"/>
+    <description text="Undying - While you control a zombie Monster and this card is in your discard zone, it is Playable, has Instant, and costs 5M."/>
+    <description text="(>, 3M) Escape the Tomb - Play a monster from your discard zone for free."/>
 </card>

@@ -5,5 +5,5 @@
     <stats attack="1" health="6"/>
     <art path="https://static.wikia.nocookie.net/hearthstone_gamepedia/images/a/ad/Strongman_full.jpg/revision/latest?cb=20210127145013"/>
     <type main="Unit" tribe="Thief" range="Melee"/>
-    <description text="When this card attacks a creature, put that card in its player’s hand."/>
+    <description text="When this card damages a creature, put that card in its player’s hand."/>
 </card>

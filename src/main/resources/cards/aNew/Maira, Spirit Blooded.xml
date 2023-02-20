@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<card version="0.1">
+    <stats health="15"/>
+    <type main="Commander" tribe="Sorcerer"/>
+    <art path="https://cdn.discordapp.com/attachments/380783567208448000/937022820674846730/war-56-kasmina-enigmatic-mentor.jpg"/>
+    <description text="(1M) Channel Through - Once each turn, when an allied Monster attacks, play a Spell."/>
+    <description text="(>) Play a Card."/>
+    <description text="(>) Once each turn, Fetch a Sawmill or a Mana Crystal and play it for free."/>
+</card>
