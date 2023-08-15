@@ -74,7 +74,16 @@ public class CardCreator {
 
             if (card.getArt() != null) {
                 log.info("downloading image from " + card.getArt().getPath());
-                BufferedImage art = ImageIO.read(new URL(card.getArt().getPath()));
+                BufferedImage art = new BufferedImage(400, 300, BufferedImage.TYPE_INT_ARGB);
+                Graphics2D graphics = art.createGraphics();
+                graphics.setPaint ( new Color (255,255,255) );
+                graphics.fillRect ( 0, 0, art.getWidth(), art.getHeight() );
+
+                try {
+                    art = ImageIO.read(new URL(card.getArt().getPath()));
+                } catch (Exception e) {
+                    log.error("Ïmage was not found at address");
+                }
 
                 if (SCALEART) {
                     int boundingbox = (int) (image.getWidth() - (image.getWidth() * ART_X * 2));
